@@ -5,24 +5,24 @@
       "utcDate": "2026-06-11T19:00:00Z",
       "time": "20:00",
       "match": "Mexico vs South Africa",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "2 - 0",
+      "status": "Finished"
     },
     {
       "date": "Jun 12",
       "utcDate": "2026-06-12T02:00:00Z",
       "time": "03:00",
       "match": "South Korea vs Czechia",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "2 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 12",
       "utcDate": "2026-06-12T19:00:00Z",
       "time": "20:00",
       "match": "Canada vs Bosnia-Herzegovina",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 1",
+      "status": "Live"
     },
     {
       "date": "Jun 13",
@@ -836,42 +836,36 @@
   "groupsData": {
     "Group A": [
       {
-        "team": "Czechia",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
+        "team": "Mexico",
+        "pld": 1,
+        "gd": 2,
+        "pts": 3
       },
       {
-        "team": "Mexico",
-        "pld": 0,
-        "gd": 0,
+        "team": "South Korea",
+        "pld": 1,
+        "gd": 1,
+        "pts": 3
+      },
+      {
+        "team": "Czechia",
+        "pld": 1,
+        "gd": -1,
         "pts": 0
       },
       {
         "team": "South Africa",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
-      },
-      {
-        "team": "South Korea",
-        "pld": 0,
-        "gd": 0,
+        "pld": 1,
+        "gd": -2,
         "pts": 0
       }
     ],
     "Group B": [
       {
         "team": "Bosnia-Herzegovina",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
-      },
-      {
-        "team": "Canada",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
+        "pld": 1,
+        "gd": 1,
+        "pts": 3
       },
       {
         "team": "Qatar",
@@ -884,6 +878,12 @@
         "pld": 0,
         "gd": 0,
         "pts": 0
+      },
+      {
+        "team": "Canada",
+        "pld": 1,
+        "gd": -1,
+        "pts": 0
       }
     ],
     "Group C": [
@@ -894,13 +894,13 @@
         "pts": 0
       },
       {
-        "team": "Morocco",
+        "team": "Haiti",
         "pld": 0,
         "gd": 0,
         "pts": 0
       },
       {
-        "team": "Haiti",
+        "team": "Morocco",
         "pld": 0,
         "gd": 0,
         "pts": 0
@@ -914,13 +914,7 @@
     ],
     "Group D": [
       {
-        "team": "Turkey",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
-      },
-      {
-        "team": "United States",
+        "team": "Australia",
         "pld": 0,
         "gd": 0,
         "pts": 0
@@ -932,7 +926,13 @@
         "pts": 0
       },
       {
-        "team": "Australia",
+        "team": "Turkey",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "United States",
         "pld": 0,
         "gd": 0,
         "pts": 0
@@ -940,19 +940,13 @@
     ],
     "Group E": [
       {
-        "team": "Germany",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
-      },
-      {
         "team": "Curaçao",
         "pld": 0,
         "gd": 0,
         "pts": 0
       },
       {
-        "team": "Ivory Coast",
+        "team": "Germany",
         "pld": 0,
         "gd": 0,
         "pts": 0
@@ -962,11 +956,17 @@
         "pld": 0,
         "gd": 0,
         "pts": 0
+      },
+      {
+        "team": "Ivory Coast",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
       }
     ],
     "Group F": [
       {
-        "team": "Sweden",
+        "team": "Japan",
         "pld": 0,
         "gd": 0,
         "pts": 0
@@ -978,7 +978,7 @@
         "pts": 0
       },
       {
-        "team": "Japan",
+        "team": "Sweden",
         "pld": 0,
         "gd": 0,
         "pts": 0
@@ -992,13 +992,13 @@
     ],
     "Group G": [
       {
-        "team": "Belgium",
+        "team": "Egypt",
         "pld": 0,
         "gd": 0,
         "pts": 0
       },
       {
-        "team": "Egypt",
+        "team": "Belgium",
         "pld": 0,
         "gd": 0,
         "pts": 0
@@ -1018,12 +1018,6 @@
     ],
     "Group H": [
       {
-        "team": "Spain",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
-      },
-      {
         "team": "Cape Verde Islands",
         "pld": 0,
         "gd": 0,
@@ -1031,6 +1025,12 @@
       },
       {
         "team": "Saudi Arabia",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Spain",
         "pld": 0,
         "gd": 0,
         "pts": 0
@@ -1044,19 +1044,13 @@
     ],
     "Group I": [
       {
-        "team": "Iraq",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
-      },
-      {
         "team": "France",
         "pld": 0,
         "gd": 0,
         "pts": 0
       },
       {
-        "team": "Senegal",
+        "team": "Iraq",
         "pld": 0,
         "gd": 0,
         "pts": 0
@@ -1066,15 +1060,15 @@
         "pld": 0,
         "gd": 0,
         "pts": 0
-      }
-    ],
-    "Group J": [
+      },
       {
-        "team": "Argentina",
+        "team": "Senegal",
         "pld": 0,
         "gd": 0,
         "pts": 0
-      },
+      }
+    ],
+    "Group J": [
       {
         "team": "Algeria",
         "pld": 0,
@@ -1082,7 +1076,7 @@
         "pts": 0
       },
       {
-        "team": "Austria",
+        "team": "Argentina",
         "pld": 0,
         "gd": 0,
         "pts": 0
@@ -1092,11 +1086,23 @@
         "pld": 0,
         "gd": 0,
         "pts": 0
+      },
+      {
+        "team": "Austria",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
       }
     ],
     "Group K": [
       {
         "team": "Congo DR",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Colombia",
         "pld": 0,
         "gd": 0,
         "pts": 0
@@ -1112,12 +1118,6 @@
         "pld": 0,
         "gd": 0,
         "pts": 0
-      },
-      {
-        "team": "Colombia",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
       }
     ],
     "Group L": [
@@ -1128,13 +1128,13 @@
         "pts": 0
       },
       {
-        "team": "Croatia",
+        "team": "Ghana",
         "pld": 0,
         "gd": 0,
         "pts": 0
       },
       {
-        "team": "Ghana",
+        "team": "Croatia",
         "pld": 0,
         "gd": 0,
         "pts": 0
@@ -1147,6 +1147,43 @@
       }
     ]
   },
-  "scorersData": [],
-  "lastUpdated": "Tue, 09 Jun 2026 14:22:17 GMT"
+  "scorersData": [
+    {
+      "name": "Julián Quiñones",
+      "goals": 1,
+      "team": "Mexico",
+      "photo": null
+    },
+    {
+      "name": "Raúl Jiménez",
+      "goals": 1,
+      "team": "Mexico",
+      "photo": null
+    },
+    {
+      "name": "Ladislav Krejčí",
+      "goals": 1,
+      "team": "Czechia",
+      "photo": null
+    },
+    {
+      "name": "In-beom Hwang",
+      "goals": 1,
+      "team": "South Korea",
+      "photo": null
+    },
+    {
+      "name": "Hyun-Gyu Oh",
+      "goals": 1,
+      "team": "South Korea",
+      "photo": null
+    },
+    {
+      "name": "Jovo Lukić",
+      "goals": 1,
+      "team": "Bosnia-Herzegovina",
+      "photo": null
+    }
+  ],
+  "lastUpdated": "Fri, 12 Jun 2026 19:36:14 GMT"
 }
