@@ -179,7 +179,8 @@ const sweepstakeData = [
     { player: "Caz", teams: ["Uruguay","Norway"], status: "In Tournament" },
     { player: "Maz", teams: ["Germany","Jordan"], status: "In Tournament" },
     { player: "Malcolm", teams: ["Japan","Saudi Arabia"], status: "In Tournament" },
-    { player: "Frances", teams: ["Mexico","Ecuador"], status: "In Tournament" }
+    { player: "Frances", teams: ["Mexico","Ecuador"], status: "In Tournament" },
+    { player: "David and Madge", teams: ["Senegal","Ghana"], status: "In Tournament" }
 ];
 
 // ==========================================
