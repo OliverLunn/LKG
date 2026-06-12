@@ -176,7 +176,6 @@ function renderApp() {
                     ${scorersData.map((scorer, index) => `
                         <div class="scorer-card">
                             <div class="scorer-rank">#${index + 1}</div>
-                            ${scorer.photo ? `<img src="${scorer.photo}" alt="${scorer.name}" class="scorer-photo">` : '<div class="scorer-photo-placeholder">No Photo</div>'}
                             <div class="scorer-name">${scorer.name}</div>
                             <div class="scorer-team">${scorer.team}</div>
                             <div class="scorer-goals">${scorer.goals} Goals</div>
