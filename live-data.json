@@ -21,8 +21,8 @@
       "utcDate": "2026-06-12T19:00:00Z",
       "time": "20:00",
       "match": "Canada vs Bosnia-Herzegovina",
-      "score": "0 - 1",
-      "status": "Live"
+      "score": "1 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 13",
@@ -864,8 +864,14 @@
       {
         "team": "Bosnia-Herzegovina",
         "pld": 1,
-        "gd": 1,
-        "pts": 3
+        "gd": 0,
+        "pts": 1
+      },
+      {
+        "team": "Canada",
+        "pld": 1,
+        "gd": 0,
+        "pts": 1
       },
       {
         "team": "Qatar",
@@ -877,12 +883,6 @@
         "team": "Switzerland",
         "pld": 0,
         "gd": 0,
-        "pts": 0
-      },
-      {
-        "team": "Canada",
-        "pld": 1,
-        "gd": -1,
         "pts": 0
       }
     ],
@@ -1183,7 +1183,13 @@
       "goals": 1,
       "team": "Bosnia-Herzegovina",
       "photo": null
+    },
+    {
+      "name": "Cyle Larin",
+      "goals": 1,
+      "team": "Canada",
+      "photo": null
     }
   ],
-  "lastUpdated": "Fri, 12 Jun 2026 19:36:14 GMT"
+  "lastUpdated": "Fri, 12 Jun 2026 21:41:44 GMT"
 }
