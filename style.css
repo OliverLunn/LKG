@@ -1,0 +1,950 @@
+/* Global Reset and Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: #f0f2f5;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+    background: #004b87;
+    color: white;
+    padding: 30px 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+header h1 {
+    margin-bottom: 15px;
+    font-size: 2.2rem;
+}
+
+/* Tabs Navigation */
+.tabs {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.tab-btn {
+    padding: 12px 24px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+}
+
+.tab-btn:hover {
+    background: rgba(255, 255, 255, 0.4);
+}
+
+.tab-btn.active {
+    background: #ffffff;
+    color: #004b87;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+/* Main Content Containers */
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+    min-height: 600px;
+}
+
+.tab-content {
+    display: none;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.tab-content.active-content {
+    display: block;
+}
+
+h2 {
+    margin-bottom: 10px;
+    color: #004b87;
+    border-bottom: 2px solid #f0f2f5;
+    padding-bottom: 10px;
+}
+
+.instruction-text {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+/* Flag Icon Styling */
+.flag-icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20px;
+    height: auto;
+    margin-right: 8px;
+    border-radius: 2px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+}
+
+/* Clickable Team Links */
+.team-link {
+    color: #0066cc;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 600;
+    padding: 2px 4px;
+    border-radius: 4px;
+    transition: background 0.2s;
+    display: inline-flex;
+    align-items: center;
+}
+
+.team-link:hover {
+    color: #003366;
+    background-color: #e6f2ff;
+    text-decoration: underline;
+}
+
+/* Sweepstake List Rows */
+#sweepstake-list p {
+    padding: 12px;
+    border-bottom: 1px solid #eee;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+}
+
+#sweepstake-list {
+    display: grid;
+    /* Responsive columns: 1 column on mobile, 2 on tablets, 4 on desktops */
+    grid-template-columns: 1fr; 
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+@media (min-width: 600px) {
+    #sweepstake-list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    #sweepstake-list {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.sweepstake-card {
+    background: white;
+    border: 2px solid #004b87;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.sweepstake-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.player-name {
+    font-size: 16px;
+    font-weight: bold;
+    color: #004b87;
+    margin-bottom: 12px;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    word-wrap: break-word;
+}
+
+.player-teams {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 12px;
+    min-height: 80px;
+    justify-content: center;
+}
+
+.team-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 8px;
+    background: #f0f2f5;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.2s ease;
+    font-size: 13px;
+}
+
+.team-item:hover {
+    background: #e0e2e5;
+}
+
+.team-item span {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.player-status {
+    font-size: 12px;
+    padding: 6px 10px;
+    border-radius: 12px;
+    font-weight: bold;
+}
+
+.player-status:contains("In Tournament") {
+    background: #c8e6c9;
+    color: #2e7d32;
+}
+
+.player-status:contains("Eliminated") {
+    background: #ffcdd2;
+    color: #c62828;
+}
+
+/* Fallback status styling */
+.player-status {
+    background: #c8e6c9;
+    color: #2e7d32;
+}
+
+.golden-boot {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding: 8px;
+    background: linear-gradient(135deg, #b9c0c0 0%, #d1d0d0 100%);
+    border-radius: 6px;
+    margin: 8px 0;
+}
+
+.boot-label {
+    font-size: 11px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+}
+
+.boot-prediction {
+    font-size: 12px;
+    color: #333;
+    text-align: center;
+    font-weight: 600;
+    word-wrap: break-word;
+}
+
+/* Fixture Layouts */
+/* Fixture Date Groups */
+.fixture-date-group {
+    background: white;
+    border: 2px solid #004b87;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.fixture-date-header {
+    background: #004b87;
+    color: white;
+    padding: 15px 20px;
+}
+
+.fixture-date-header h3 {
+    margin: 0;
+    font-size: 1.3rem;
+}
+
+.fixture-uk-time {
+    margin: 0;
+    font-size: 14px;
+    opacity: 0.9;
+}
+
+.fixture-matches {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.fixture-card {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+    background: #fafafa;
+    margin-bottom: 0;
+    border-radius: 6px;
+}
+
+.fixture-card:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
+.fixture-header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+}
+
+.fixture-time {
+    font-size: 14px;
+    font-weight: bold;
+    color: #004b87;
+    min-width: 60px;
+}
+
+.fixture-status {
+    font-size: 12px;
+    font-weight: bold;
+    padding: 4px 10px;
+    border-radius: 12px;
+    white-space: nowrap;
+}
+
+.fixture-status.status-scheduled {
+    background-color: #e8e8e8;
+    color: #666;
+}
+
+.fixture-status.status-live {
+    background-color: #ffecb3;
+    color: #e65100;
+    animation: pulse 1.5s infinite;
+}
+
+.fixture-status.status-complete {
+    background-color: #c8e6c9;
+    color: #2e7d32;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.7;
+    }
+}
+
+.fixture-teams {
+    flex-grow: 1;
+    text-align: center;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.fixture-group {
+    text-align: center;
+    font-size: 13px;
+    color: #666;
+    font-style: italic;
+}
+
+.fixture-score {
+    font-weight: bold;
+    background: #e9ecef;
+    padding: 4px 12px;
+    border-radius: 4px;
+    min-width: 60px;
+    text-align: center;
+}
+
+/* Groups Layout */
+.groups-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+.group-table {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 15px;
+    background: #fdfdfd;
+}
+
+.group-table h3 {
+    margin-bottom: 10px;
+    color: #333;
+    text-align: center;
+    background: #e6f2ff;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+.group-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+}
+
+.group-row:last-child {
+    border-bottom: none;
+}
+
+/* NEW: Tournament Tree Bracket Layout */
+.bracket-section {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 3px double #e0e0e0;
+}
+
+.bracket-container {
+    display: flex;
+    gap: 40px;
+    overflow-x: auto;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #e9ecef;
+}
+
+.bracket-round {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    min-width: 220px;
+}
+
+.bracket-round h4 {
+    text-align: center;
+    color: #004b87;
+    margin-bottom: 15px;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 5px;
+}
+
+.bracket-matchup {
+    background: white;
+    border: 1px solid #ced4da;
+    border-radius: 6px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+    margin: 15px 0;
+}
+
+.bracket-team-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 0;
+    font-size: 14px;
+}
+
+.bracket-team-row:first-child {
+    border-bottom: 1px solid #f1f3f5;
+}
+
+.bracket-score-box {
+    font-weight: bold;
+    color: #495057;
+    background: #e9ecef;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 13px;
+}
+
+/* Team Detail Page View */
+.back-btn {
+    padding: 10px 20px;
+    background-color: #6c757d;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    font-weight: bold;
+    transition: background 0.2s;
+}
+
+.back-btn:hover {
+    background-color: #495057;
+}
+
+.team-grid {
+    display: grid;
+    grid-template-columns: 1.2fr 0.8fr;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.team-fixtures-box, .team-squad-box {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #e9ecef;
+}
+
+.team-squad-box ul {
+    list-style-type: none;
+    margin-top: 10px;
+}
+
+.team-squad-box li {
+    padding: 8px 0;
+    border-bottom: 1px solid #dee2e6;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    color: #888;
+    font-size: 14px;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .team-grid {
+        grid-template-columns: 1fr;
+    }
+    .fixture-card {
+        flex-direction: column;
+        gap: 10px;
+        text-align: center;
+    }
+    .fixture-date { width: auto; }
+}
+
+/* Scorers Leaderboard */
+.scorers-section {
+    margin-top: 40px;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.scorers-section h3 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #004b87;
+}
+
+.scorers-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 20px;
+}
+
+.scorer-card {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    border: 2px solid #004b87;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+    position: relative;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.scorer-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0,75,135,0.2);
+}
+
+.scorer-rank {
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #ffc107;
+    color: #333;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 14px;
+    border: 2px solid white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.scorer-photo {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 10px auto 10px;
+    border: 3px solid white;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.scorer-photo-placeholder {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: 10px auto;
+    background: #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    color: #666;
+}
+
+.scorer-name {
+    font-weight: bold;
+    font-size: 14px;
+    color: #004b87;
+    margin: 10px 0 5px 0;
+    word-wrap: break-word;
+}
+
+.scorer-team {
+    font-size: 12px;
+    color: #666;
+    margin-bottom: 8px;
+    font-style: italic;
+}
+
+.scorer-goals {
+    background: #004b87;
+    color: white;
+    padding: 8px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+/* Container for all national cards */
+.squad-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 20px;
+    padding: 20px 0;
+}
+
+/* Simplified static nation card */
+.squad-card {
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    border: 1px solid #e2e8f0;
+    padding: 24px;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.squad-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 16px rgba(0, 75, 135, 0.15);
+    border-color: #004b87;
+}
+
+.squad-card .flag-icon {
+    width: 64px !important;
+    height: auto !important;
+    margin-bottom: 12px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 4px;
+}
+
+/* Dedicated Squad Detail Page View layout */
+.squad-detail-view {
+    background: white;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+.squad-header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    border-bottom: 3px solid #004b87;
+    padding-bottom: 15px;
+    margin-bottom: 25px;
+}
+
+.squad-header h2 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+/* Organized grid layout for positions on the profile page */
+.position-group-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
+}
+
+.position-block {
+    background: #f8fafc;
+    border-radius: 8px;
+    padding: 15px;
+    border: 1px solid #e2e8f0;
+}
+
+.position-block h4 {
+    color: #004b87;
+    border-bottom: 1px solid #cbd5e1;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+}
+
+.position-block ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.position-block li {
+    padding: 6px 0;
+    font-size: 0.95rem;
+    border-bottom: 1px solid #edf2f7;
+}
+
+
+/* Container layout grid for all team selection cards */
+.squad-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px 0;
+}
+
+/* Individual nation dashboard element structure */
+.squad-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    border: 1px solid #e2e8f0;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.squad-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 15px rgba(0, 75, 135, 0.15);
+    border-color: #004b87;
+}
+
+.squad-card .flag-icon {
+    width: 48px !important;
+    height: auto !important;
+    margin: 0 auto 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 3px;
+    display: block;
+}
+
+.squad-card h3 {
+    margin: 5px 0;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.squad-card .view-roster-link {
+    font-size: 0.8rem;
+    color: #004b87;
+    font-weight: 600;
+    display: block;
+    margin-top: 10px;
+}
+
+/* =========================================
+   SWEEPSTAKE DRAW BUTTON STYLES
+   ========================================= */
+
+.draw-controls {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 25px 0;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.password-input-group {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.draw-password-input {
+    padding: 12px 16px;
+    font-size: 14px;
+    border: 2px solid #004b87;
+    border-radius: 20px;
+    background: white;
+    color: #333;
+    transition: all 0.3s ease;
+    min-width: 220px;
+}
+
+.draw-password-input:focus {
+    outline: none;
+    border-color: #003a63;
+    box-shadow: 0 0 8px rgba(0, 75, 135, 0.3);
+}
+
+.draw-password-input::placeholder {
+    color: #999;
+}
+
+.draw-section {
+    background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+    border: 2px solid #1976d2;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 4px 12px rgba(25, 118, 210, 0.2);
+}
+
+.draw-status-content {
+    text-align: center;
+    font-size: 16px;
+    color: #0d47a1;
+}
+
+.draw-status-content div {
+    margin: 10px 0;
+    font-weight: 500;
+}
+
+.draw-status-content strong {
+    color: #1565c0;
+    font-size: 18px;
+}
+
+.draw-button {
+    padding: 12px 24px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    background: linear-gradient(135deg, #004b87 0%, #003a63 100%);
+    color: white;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(0, 75, 135, 0.3);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+.draw-button:hover:not(:disabled) {
+    background: linear-gradient(135deg, #003a63 0%, #002a48 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0, 75, 135, 0.4);
+}
+
+.draw-button:active:not(:disabled) {
+    transform: translateY(0px);
+    box-shadow: 0 2px 8px rgba(0, 75, 135, 0.3);
+}
+
+.draw-button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+/* =========================================
+   DRAW ANIMATION STYLES
+   ========================================= */
+
+@keyframes spin-card {
+    0% {
+        transform: rotateY(0deg);
+    }
+    100% {
+        transform: rotateY(360deg);
+    }
+}
+
+.sweepstake-card.drawing {
+    animation: pulse-card 0.5s ease-in-out;
+}
+
+@keyframes pulse-card {
+    0%, 100% {
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    50% {
+        box-shadow: 0 8px 20px rgba(0, 75, 135, 0.4);
+    }
+}
+
+.sweepstake-card.drawing .player-teams {
+    animation: spin-teams 2.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+@keyframes spin-teams {
+    0% {
+        transform: rotateY(0deg) rotateZ(0deg);
+        opacity: 1;
+    }
+    50% {
+        transform: rotateY(180deg) rotateZ(10deg);
+    }
+    100% {
+        transform: rotateY(360deg) rotateZ(0deg);
+        opacity: 1;
+    }
+}
+
+/* Animation for drawing one team */
+.sweepstake-card.drawing-team {
+    animation: highlight-draw 1.5s ease-out;
+}
+
+@keyframes highlight-draw {
+    0% {
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        background: white;
+    }
+    50% {
+        box-shadow: 0 0 25px rgba(255, 193, 7, 0.8);
+        background: #fffde7;
+    }
+    100% {
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        background: white;
+    }
+}

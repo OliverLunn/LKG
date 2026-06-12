@@ -1,0 +1,7746 @@
+{
+  "Argentina": [
+    {
+      "player": "Emiliano Mart\u00ednez",
+      "position": "1 GK",
+      "club": "Aston Villa",
+      "age": NaN
+    },
+    {
+      "player": "Ger\u00f3nimo Rulli",
+      "position": "1 GK",
+      "club": "Marseille",
+      "age": NaN
+    },
+    {
+      "player": "Juan Musso",
+      "position": "1 GK",
+      "club": "Atl\u00e9tico Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Walter Ben\u00edtez",
+      "position": "1 GK",
+      "club": "Crystal Palace",
+      "age": NaN
+    },
+    {
+      "player": "Facundo Cambeses",
+      "position": "1 GK",
+      "club": "Racing",
+      "age": NaN
+    },
+    {
+      "player": "Santiago Beltr\u00e1n",
+      "position": "1 GK",
+      "club": "River Plate",
+      "age": NaN
+    },
+    {
+      "player": "Nicol\u00e1s Otamendi",
+      "position": "2 DF",
+      "club": "Benfica",
+      "age": NaN
+    },
+    {
+      "player": "Nicol\u00e1s Tagliafico",
+      "position": "2 DF",
+      "club": "Lyon",
+      "age": NaN
+    },
+    {
+      "player": "Marcos Acu\u00f1a",
+      "position": "2 DF",
+      "club": "River Plate",
+      "age": NaN
+    },
+    {
+      "player": "Nahuel Molina",
+      "position": "2 DF",
+      "club": "Atl\u00e9tico Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Cristian Romero",
+      "position": "2 DF",
+      "club": "Tottenham Hotspur",
+      "age": NaN
+    },
+    {
+      "player": "Germ\u00e1n Pezzella",
+      "position": "2 DF",
+      "club": "River Plate",
+      "age": NaN
+    },
+    {
+      "player": "Gonzalo Montiel",
+      "position": "2 DF",
+      "club": "River Plate",
+      "age": NaN
+    },
+    {
+      "player": "Lisandro Mart\u00ednez",
+      "position": "2 DF",
+      "club": "Manchester United",
+      "age": NaN
+    },
+    {
+      "player": "Lucas Mart\u00ednez Quarta",
+      "position": "2 DF",
+      "club": "River Plate",
+      "age": NaN
+    },
+    {
+      "player": "Leonardo Balerdi",
+      "position": "2 DF",
+      "club": "Marseille",
+      "age": NaN
+    },
+    {
+      "player": "Facundo Medina",
+      "position": "2 DF",
+      "club": "Marseille",
+      "age": NaN
+    },
+    {
+      "player": "Marcos Senesi",
+      "position": "2 DF",
+      "club": "Bournemouth",
+      "age": NaN
+    },
+    {
+      "player": "Agust\u00edn Giay",
+      "position": "2 DF",
+      "club": "Palmeiras",
+      "age": NaN
+    },
+    {
+      "player": "Kevin Mac Allister",
+      "position": "2 DF",
+      "club": "Union Saint-Gilloise",
+      "age": NaN
+    },
+    {
+      "player": "Gabriel Rojas",
+      "position": "2 DF",
+      "club": "Racing",
+      "age": NaN
+    },
+    {
+      "player": "Nicol\u00e1s Capaldo",
+      "position": "2 DF",
+      "club": "Hamburger SV",
+      "age": NaN
+    },
+    {
+      "player": "Lautaro Di Lollo",
+      "position": "2 DF",
+      "club": "Boca Juniors",
+      "age": NaN
+    },
+    {
+      "player": "Zaid Romero",
+      "position": "2 DF",
+      "club": "Getafe",
+      "age": NaN
+    },
+    {
+      "player": "Rodrigo De Paul",
+      "position": "3 MF",
+      "club": "Inter Miami CF",
+      "age": NaN
+    },
+    {
+      "player": "Leandro Paredes",
+      "position": "3 MF",
+      "club": "Boca Juniors",
+      "age": NaN
+    },
+    {
+      "player": "Giovani Lo Celso",
+      "position": "3 MF",
+      "club": "Real Betis",
+      "age": NaN
+    },
+    {
+      "player": "Alexis Mac Allister",
+      "position": "3 MF",
+      "club": "Liverpool",
+      "age": NaN
+    },
+    {
+      "player": "Enzo Fern\u00e1ndez",
+      "position": "3 MF",
+      "club": "Chelsea",
+      "age": NaN
+    },
+    {
+      "player": "Exequiel Palacios",
+      "position": "3 MF",
+      "club": "Bayer Leverkusen",
+      "age": NaN
+    },
+    {
+      "player": "Guido Rodr\u00edguez",
+      "position": "3 MF",
+      "club": "Valencia",
+      "age": NaN
+    },
+    {
+      "player": "Thiago Almada",
+      "position": "3 MF",
+      "club": "Atl\u00e9tico Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Nicol\u00e1s Dom\u00ednguez",
+      "position": "3 MF",
+      "club": "Nottingham Forest",
+      "age": NaN
+    },
+    {
+      "player": "Giuliano Simeone",
+      "position": "3 MF",
+      "club": "Atl\u00e9tico Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Nico Paz",
+      "position": "3 MF",
+      "club": "Como",
+      "age": NaN
+    },
+    {
+      "player": "Valent\u00edn Barco",
+      "position": "3 MF",
+      "club": "Strasbourg",
+      "age": NaN
+    },
+    {
+      "player": "Emiliano Buend\u00eda",
+      "position": "3 MF",
+      "club": "Aston Villa",
+      "age": NaN
+    },
+    {
+      "player": "M\u00e1ximo Perrone",
+      "position": "3 MF",
+      "club": "Como",
+      "age": NaN
+    },
+    {
+      "player": "An\u00edbal Moreno",
+      "position": "3 MF",
+      "club": "River Plate",
+      "age": NaN
+    },
+    {
+      "player": "Milton Delgado",
+      "position": "3 MF",
+      "club": "Boca Juniors",
+      "age": NaN
+    },
+    {
+      "player": "Equi Fern\u00e1ndez",
+      "position": "3 MF",
+      "club": "Bayer Leverkusen",
+      "age": NaN
+    },
+    {
+      "player": "Alan Varela",
+      "position": "3 MF",
+      "club": "Porto",
+      "age": NaN
+    },
+    {
+      "player": "Lionel Messi ( captain )",
+      "position": "4 FW",
+      "club": "Inter Miami CF",
+      "age": NaN
+    },
+    {
+      "player": "Lautaro Mart\u00ednez",
+      "position": "4 FW",
+      "club": "Inter Milan",
+      "age": NaN
+    },
+    {
+      "player": "Juli\u00e1n Alvarez",
+      "position": "4 FW",
+      "club": "Atl\u00e9tico Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Nicol\u00e1s Gonz\u00e1lez",
+      "position": "4 FW",
+      "club": "Atl\u00e9tico Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Alejandro Garnacho",
+      "position": "4 FW",
+      "club": "Chelsea",
+      "age": NaN
+    },
+    {
+      "player": "Franco Mastantuono",
+      "position": "4 FW",
+      "club": "Real Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Jos\u00e9 Manuel L\u00f3pez",
+      "position": "4 FW",
+      "club": "Palmeiras",
+      "age": NaN
+    },
+    {
+      "player": "Gianluca Prestianni",
+      "position": "4 FW",
+      "club": "Benfica",
+      "age": NaN
+    },
+    {
+      "player": "Tom\u00e1s Aranda",
+      "position": "4 FW",
+      "club": "Boca Juniors",
+      "age": NaN
+    },
+    {
+      "player": "Santiago Castro",
+      "position": "4 FW",
+      "club": "Bologna",
+      "age": NaN
+    },
+    {
+      "player": "Claudio Echeverri",
+      "position": "4 FW",
+      "club": "Girona",
+      "age": NaN
+    },
+    {
+      "player": "Mateo Pellegrino",
+      "position": "4 FW",
+      "club": "Parma",
+      "age": NaN
+    },
+    {
+      "player": "Mat\u00edas Soul\u00e9",
+      "position": "4 FW",
+      "club": "Roma",
+      "age": NaN
+    }
+  ],
+  "Austria": [
+    {
+      "player": "Alexander Schlager",
+      "position": "1 GK",
+      "club": "Red Bull Salzburg",
+      "age": NaN
+    },
+    {
+      "player": "David Affengruber",
+      "position": "2 DF",
+      "club": "Elche",
+      "age": NaN
+    },
+    {
+      "player": "Kevin Danso",
+      "position": "2 DF",
+      "club": "Tottenham Hotspur",
+      "age": NaN
+    },
+    {
+      "player": "Xaver Schlager",
+      "position": "3 MF",
+      "club": "RB Leipzig",
+      "age": NaN
+    },
+    {
+      "player": "Stefan Posch",
+      "position": "2 DF",
+      "club": "Mainz 05",
+      "age": NaN
+    },
+    {
+      "player": "Nicolas Seiwald",
+      "position": "3 MF",
+      "club": "RB Leipzig",
+      "age": NaN
+    },
+    {
+      "player": "Marko Arnautovi\u0107",
+      "position": "4 FW",
+      "club": "Red Star Belgrade",
+      "age": NaN
+    },
+    {
+      "player": "David Alaba ( captain )",
+      "position": "2 DF",
+      "club": "Real Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Marcel Sabitzer",
+      "position": "3 MF",
+      "club": "Borussia Dortmund",
+      "age": NaN
+    },
+    {
+      "player": "Florian Grillitsch",
+      "position": "3 MF",
+      "club": "Braga",
+      "age": NaN
+    },
+    {
+      "player": "Michael Gregoritsch",
+      "position": "4 FW",
+      "club": "FC Augsburg",
+      "age": NaN
+    },
+    {
+      "player": "Florian Wiegele",
+      "position": "1 GK",
+      "club": "Viktoria Plze\u0148",
+      "age": NaN
+    },
+    {
+      "player": "Patrick Pentz",
+      "position": "1 GK",
+      "club": "Br\u00f8ndby",
+      "age": NaN
+    },
+    {
+      "player": "Sa\u0161a Kalajd\u017ei\u0107",
+      "position": "4 FW",
+      "club": "LASK",
+      "age": NaN
+    },
+    {
+      "player": "Philipp Lienhart",
+      "position": "2 DF",
+      "club": "SC Freiburg",
+      "age": NaN
+    },
+    {
+      "player": "Phillipp Mwene",
+      "position": "2 DF",
+      "club": "Mainz 05",
+      "age": NaN
+    },
+    {
+      "player": "Carney Chukwuemeka",
+      "position": "3 MF",
+      "club": "Borussia Dortmund",
+      "age": NaN
+    },
+    {
+      "player": "Romano Schmid",
+      "position": "3 MF",
+      "club": "Werder Bremen",
+      "age": NaN
+    },
+    {
+      "player": "Christoph Baumgartner",
+      "position": "3 MF",
+      "club": "RB Leipzig",
+      "age": NaN
+    },
+    {
+      "player": "Konrad Laimer",
+      "position": "3 MF",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Patrick Wimmer",
+      "position": "3 MF",
+      "club": "VfL Wolfsburg",
+      "age": NaN
+    },
+    {
+      "player": "Alexander Prass",
+      "position": "2 DF",
+      "club": "TSG Hoffenheim",
+      "age": NaN
+    },
+    {
+      "player": "Marco Friedl",
+      "position": "2 DF",
+      "club": "Werder Bremen",
+      "age": NaN
+    },
+    {
+      "player": "Paul Wanner",
+      "position": "3 MF",
+      "club": "PSV Eindhoven",
+      "age": NaN
+    },
+    {
+      "player": "Michael Svoboda",
+      "position": "2 DF",
+      "club": "Venezia",
+      "age": NaN
+    },
+    {
+      "player": "Alessandro Sch\u00f6pf",
+      "position": "3 MF",
+      "club": "Wolfsberger AC",
+      "age": NaN
+    }
+  ],
+  "Belgium": [
+    {
+      "player": "Thibaut Courtois",
+      "position": "1 GK",
+      "club": "Real Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Senne Lammens",
+      "position": "1 GK",
+      "club": "Manchester United",
+      "age": NaN
+    },
+    {
+      "player": "Mike Penders",
+      "position": "1 GK",
+      "club": "Strasbourg",
+      "age": NaN
+    },
+    {
+      "player": "Thomas Meunier",
+      "position": "2 DF",
+      "club": "Lille",
+      "age": NaN
+    },
+    {
+      "player": "Timothy Castagne",
+      "position": "2 DF",
+      "club": "Fulham",
+      "age": NaN
+    },
+    {
+      "player": "Arthur Theate",
+      "position": "2 DF",
+      "club": "Eintracht Frankfurt",
+      "age": NaN
+    },
+    {
+      "player": "Zeno Debast",
+      "position": "2 DF",
+      "club": "Sporting CP",
+      "age": NaN
+    },
+    {
+      "player": "Maxim De Cuyper",
+      "position": "2 DF",
+      "club": "Brighton & Hove Albion",
+      "age": NaN
+    },
+    {
+      "player": "Brandon Mechele",
+      "position": "2 DF",
+      "club": "Club Brugge",
+      "age": NaN
+    },
+    {
+      "player": "Koni De Winter",
+      "position": "2 DF",
+      "club": "Milan",
+      "age": NaN
+    },
+    {
+      "player": "Joaquin Seys",
+      "position": "2 DF",
+      "club": "Club Brugge",
+      "age": NaN
+    },
+    {
+      "player": "Nathan Ngoy",
+      "position": "2 DF",
+      "club": "Lille",
+      "age": NaN
+    },
+    {
+      "player": "Axel Witsel",
+      "position": "3 MF",
+      "club": "Girona",
+      "age": NaN
+    },
+    {
+      "player": "Kevin De Bruyne",
+      "position": "3 MF",
+      "club": "Napoli",
+      "age": NaN
+    },
+    {
+      "player": "Youri Tielemans ( captain )",
+      "position": "3 MF",
+      "club": "Aston Villa",
+      "age": NaN
+    },
+    {
+      "player": "Hans Vanaken",
+      "position": "3 MF",
+      "club": "Club Brugge",
+      "age": NaN
+    },
+    {
+      "player": "Amadou Onana",
+      "position": "3 MF",
+      "club": "Aston Villa",
+      "age": NaN
+    },
+    {
+      "player": "Nicolas Raskin",
+      "position": "3 MF",
+      "club": "Rangers",
+      "age": NaN
+    },
+    {
+      "player": "Romelu Lukaku",
+      "position": "4 FW",
+      "club": "Napoli",
+      "age": NaN
+    },
+    {
+      "player": "Leandro Trossard",
+      "position": "4 FW",
+      "club": "Arsenal",
+      "age": NaN
+    },
+    {
+      "player": "J\u00e9r\u00e9my Doku",
+      "position": "4 FW",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "Dodi Luk\u00e9bakio",
+      "position": "4 FW",
+      "club": "Benfica",
+      "age": NaN
+    },
+    {
+      "player": "Charles De Ketelaere",
+      "position": "4 FW",
+      "club": "Atalanta",
+      "age": NaN
+    },
+    {
+      "player": "Alexis Saelemaekers",
+      "position": "4 FW",
+      "club": "Milan",
+      "age": NaN
+    },
+    {
+      "player": "Diego Moreira",
+      "position": "4 FW",
+      "club": "Strasbourg",
+      "age": NaN
+    },
+    {
+      "player": "Matias Fernandez-Pardo",
+      "position": "4 FW",
+      "club": "Lille",
+      "age": NaN
+    }
+  ],
+  "Bosnia and Herzegovina": [
+    {
+      "player": "Nikola Vasilj",
+      "position": "1 GK",
+      "club": "FC St. Pauli",
+      "age": NaN
+    },
+    {
+      "player": "Martin Zlomisli\u0107",
+      "position": "1 GK",
+      "club": "Rijeka",
+      "age": NaN
+    },
+    {
+      "player": "Osman Had\u017eiki\u0107",
+      "position": "1 GK",
+      "club": "Slaven Belupo",
+      "age": NaN
+    },
+    {
+      "player": "Sead Kola\u0161inac",
+      "position": "2 DF",
+      "club": "Atalanta",
+      "age": NaN
+    },
+    {
+      "player": "Dennis Had\u017eikaduni\u0107",
+      "position": "2 DF",
+      "club": "Sampdoria",
+      "age": NaN
+    },
+    {
+      "player": "Amar Dedi\u0107",
+      "position": "2 DF",
+      "club": "Benfica",
+      "age": NaN
+    },
+    {
+      "player": "Nikola Kati\u0107",
+      "position": "2 DF",
+      "club": "Schalke 04",
+      "age": NaN
+    },
+    {
+      "player": "Tarik Muharemovi\u0107",
+      "position": "2 DF",
+      "club": "Sassuolo",
+      "age": NaN
+    },
+    {
+      "player": "Nihad Mujaki\u0107",
+      "position": "2 DF",
+      "club": "Gaziantep",
+      "age": NaN
+    },
+    {
+      "player": "Stjepan Radelji\u0107",
+      "position": "2 DF",
+      "club": "Rijeka",
+      "age": NaN
+    },
+    {
+      "player": "Nidal \u010celik",
+      "position": "2 DF",
+      "club": "Lens",
+      "age": NaN
+    },
+    {
+      "player": "Amir Had\u017eiahmetovi\u0107",
+      "position": "3 MF",
+      "club": "Hull City",
+      "age": NaN
+    },
+    {
+      "player": "Benjamin Tahirovi\u0107",
+      "position": "3 MF",
+      "club": "Br\u00f8ndby",
+      "age": NaN
+    },
+    {
+      "player": "Armin Gigovi\u0107",
+      "position": "3 MF",
+      "club": "Young Boys",
+      "age": NaN
+    },
+    {
+      "player": "D\u017eenis Burni\u0107",
+      "position": "3 MF",
+      "club": "Karlsruher SC",
+      "age": NaN
+    },
+    {
+      "player": "Ivan Ba\u0161i\u0107",
+      "position": "3 MF",
+      "club": "Astana",
+      "age": NaN
+    },
+    {
+      "player": "Esmir Bajraktarevi\u0107",
+      "position": "3 MF",
+      "club": "PSV Eindhoven",
+      "age": NaN
+    },
+    {
+      "player": "Amar Memi\u0107",
+      "position": "3 MF",
+      "club": "Viktoria Plze\u0148",
+      "age": NaN
+    },
+    {
+      "player": "Ivan \u0160unji\u0107",
+      "position": "3 MF",
+      "club": "Pafos",
+      "age": NaN
+    },
+    {
+      "player": "Kerim Alajbegovi\u0107",
+      "position": "3 MF",
+      "club": "Red Bull Salzburg",
+      "age": NaN
+    },
+    {
+      "player": "Ermin Mahmi\u0107",
+      "position": "3 MF",
+      "club": "Slovan Liberec",
+      "age": NaN
+    },
+    {
+      "player": "Edin D\u017eeko ( captain )",
+      "position": "4 FW",
+      "club": "Schalke 04",
+      "age": NaN
+    },
+    {
+      "player": "Ermedin Demirovi\u0107",
+      "position": "4 FW",
+      "club": "VfB Stuttgart",
+      "age": NaN
+    },
+    {
+      "player": "Samed Ba\u017edar",
+      "position": "4 FW",
+      "club": "Jagiellonia Bia\u0142ystok",
+      "age": NaN
+    },
+    {
+      "player": "Haris Tabakovi\u0107",
+      "position": "4 FW",
+      "club": "Borussia M\u00f6nchengladbach",
+      "age": NaN
+    },
+    {
+      "player": "Jovo Luki\u0107",
+      "position": "4 FW",
+      "club": "Universitatea Cluj",
+      "age": NaN
+    }
+  ],
+  "Brazil": [
+    {
+      "player": "Alisson",
+      "position": "1 GK",
+      "club": "Liverpool",
+      "age": NaN
+    },
+    {
+      "player": "Ederson",
+      "position": "1 GK",
+      "club": "Fenerbah\u00e7e",
+      "age": NaN
+    },
+    {
+      "player": "Weverton",
+      "position": "1 GK",
+      "club": "Gr\u00eamio",
+      "age": NaN
+    },
+    {
+      "player": "Marquinhos",
+      "position": "2 DF",
+      "club": "Paris Saint-Germain",
+      "age": NaN
+    },
+    {
+      "player": "Danilo Luiz",
+      "position": "2 DF",
+      "club": "Flamengo",
+      "age": NaN
+    },
+    {
+      "player": "Alex Sandro",
+      "position": "2 DF",
+      "club": "Flamengo",
+      "age": NaN
+    },
+    {
+      "player": "Gabriel Magalh\u00e3es",
+      "position": "2 DF",
+      "club": "Arsenal",
+      "age": NaN
+    },
+    {
+      "player": "Bremer",
+      "position": "2 DF",
+      "club": "Juventus",
+      "age": NaN
+    },
+    {
+      "player": "Wesley",
+      "position": "2 DF",
+      "club": "Roma",
+      "age": NaN
+    },
+    {
+      "player": "Roger Iba\u00f1ez",
+      "position": "2 DF",
+      "club": "Al-Ahli",
+      "age": NaN
+    },
+    {
+      "player": "Douglas Santos",
+      "position": "2 DF",
+      "club": "Zenit Saint Petersburg",
+      "age": NaN
+    },
+    {
+      "player": "L\u00e9o Pereira",
+      "position": "2 DF",
+      "club": "Flamengo",
+      "age": NaN
+    },
+    {
+      "player": "Casemiro ( captain )",
+      "position": "3 MF",
+      "club": "Manchester United",
+      "age": NaN
+    },
+    {
+      "player": "Lucas Paquet\u00e1",
+      "position": "3 MF",
+      "club": "Flamengo",
+      "age": NaN
+    },
+    {
+      "player": "Bruno Guimar\u00e3es",
+      "position": "3 MF",
+      "club": "Newcastle United",
+      "age": NaN
+    },
+    {
+      "player": "Fabinho",
+      "position": "3 MF",
+      "club": "Al-Ittihad",
+      "age": NaN
+    },
+    {
+      "player": "Danilo Santos",
+      "position": "3 MF",
+      "club": "Botafogo",
+      "age": NaN
+    },
+    {
+      "player": "Neymar",
+      "position": "4 FW",
+      "club": "Santos",
+      "age": NaN
+    },
+    {
+      "player": "Vin\u00edcius J\u00fanior",
+      "position": "4 FW",
+      "club": "Real Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Raphinha",
+      "position": "4 FW",
+      "club": "Barcelona",
+      "age": NaN
+    },
+    {
+      "player": "Gabriel Martinelli",
+      "position": "4 FW",
+      "club": "Arsenal",
+      "age": NaN
+    },
+    {
+      "player": "Matheus Cunha",
+      "position": "4 FW",
+      "club": "Manchester United",
+      "age": NaN
+    },
+    {
+      "player": "Endrick",
+      "position": "4 FW",
+      "club": "Lyon",
+      "age": NaN
+    },
+    {
+      "player": "Luiz Henrique",
+      "position": "4 FW",
+      "club": "Zenit Saint Petersburg",
+      "age": NaN
+    },
+    {
+      "player": "Igor Thiago",
+      "position": "4 FW",
+      "club": "Brentford",
+      "age": NaN
+    },
+    {
+      "player": "Rayan",
+      "position": "4 FW",
+      "club": "Bournemouth",
+      "age": NaN
+    }
+  ],
+  "Canada": [
+    {
+      "player": "Maxime Cr\u00e9peau",
+      "position": "1 GK",
+      "club": "Orlando City SC",
+      "age": NaN
+    },
+    {
+      "player": "Dayne St. Clair",
+      "position": "1 GK",
+      "club": "Inter Miami CF",
+      "age": NaN
+    },
+    {
+      "player": "Owen Goodman",
+      "position": "1 GK",
+      "club": "Barnsley",
+      "age": NaN
+    },
+    {
+      "player": "Richie Laryea",
+      "position": "2 DF",
+      "club": "Toronto FC",
+      "age": NaN
+    },
+    {
+      "player": "Alphonso Davies ( captain )",
+      "position": "2 DF",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Alistair Johnston",
+      "position": "2 DF",
+      "club": "Celtic",
+      "age": NaN
+    },
+    {
+      "player": "Derek Cornelius",
+      "position": "2 DF",
+      "club": "Rangers",
+      "age": NaN
+    },
+    {
+      "player": "Mo\u00efse Bombito",
+      "position": "2 DF",
+      "club": "Nice",
+      "age": NaN
+    },
+    {
+      "player": "Niko Sigur",
+      "position": "2 DF",
+      "club": "Hajduk Split",
+      "age": NaN
+    },
+    {
+      "player": "Joel Waterman",
+      "position": "2 DF",
+      "club": "Chicago Fire",
+      "age": NaN
+    },
+    {
+      "player": "Luc de Fougerolles",
+      "position": "2 DF",
+      "club": "Dender",
+      "age": NaN
+    },
+    {
+      "player": "Zorhan Bassong",
+      "position": "2 DF",
+      "club": "Sporting Kansas City",
+      "age": NaN
+    },
+    {
+      "player": "Jamie Knight-Lebel",
+      "position": "2 DF",
+      "club": "Swindon Town",
+      "age": NaN
+    },
+    {
+      "player": "Ralph Priso",
+      "position": "2 DF",
+      "club": "Vancouver Whitecaps FC",
+      "age": NaN
+    },
+    {
+      "player": "Alfie Jones",
+      "position": "2 DF",
+      "club": "Middlesbrough",
+      "age": NaN
+    },
+    {
+      "player": "Jonathan Osorio",
+      "position": "3 MF",
+      "club": "Toronto FC",
+      "age": NaN
+    },
+    {
+      "player": "Tajon Buchanan",
+      "position": "3 MF",
+      "club": "Villarreal",
+      "age": NaN
+    },
+    {
+      "player": "Stephen Eust\u00e1quio",
+      "position": "3 MF",
+      "club": "Los Angeles FC",
+      "age": NaN
+    },
+    {
+      "player": "Liam Millar",
+      "position": "3 MF",
+      "club": "Hull City",
+      "age": NaN
+    },
+    {
+      "player": "Isma\u00ebl Kon\u00e9",
+      "position": "3 MF",
+      "club": "Sassuolo",
+      "age": NaN
+    },
+    {
+      "player": "Jacob Shaffelburg",
+      "position": "3 MF",
+      "club": "Los Angeles FC",
+      "age": NaN
+    },
+    {
+      "player": "Ali Ahmed",
+      "position": "3 MF",
+      "club": "Norwich City",
+      "age": NaN
+    },
+    {
+      "player": "Mathieu Choini\u00e8re",
+      "position": "3 MF",
+      "club": "Los Angeles FC",
+      "age": NaN
+    },
+    {
+      "player": "Nathan Saliba",
+      "position": "3 MF",
+      "club": "Anderlecht",
+      "age": NaN
+    },
+    {
+      "player": "Jayden Nelson",
+      "position": "3 MF",
+      "club": "Austin FC",
+      "age": NaN
+    },
+    {
+      "player": "Marcelo Flores",
+      "position": "3 MF",
+      "club": "UANL",
+      "age": NaN
+    },
+    {
+      "player": "Cyle Larin",
+      "position": "4 FW",
+      "club": "Southampton",
+      "age": NaN
+    },
+    {
+      "player": "Jonathan David",
+      "position": "4 FW",
+      "club": "Juventus",
+      "age": NaN
+    },
+    {
+      "player": "Tani Oluwaseyi",
+      "position": "4 FW",
+      "club": "Villarreal",
+      "age": NaN
+    },
+    {
+      "player": "Promise David",
+      "position": "4 FW",
+      "club": "Union Saint-Gilloise",
+      "age": NaN
+    },
+    {
+      "player": "Jacen Russell-Rowe",
+      "position": "4 FW",
+      "club": "Toulouse",
+      "age": NaN
+    },
+    {
+      "player": "Daniel Jebbison",
+      "position": "4 FW",
+      "club": "Preston North End",
+      "age": NaN
+    }
+  ],
+  "Cape Verde": [
+    {
+      "player": "Vozinha",
+      "position": "1 GK",
+      "club": "Chaves",
+      "age": NaN
+    },
+    {
+      "player": "M\u00e1rcio Rosa",
+      "position": "1 GK",
+      "club": "Montana",
+      "age": NaN
+    },
+    {
+      "player": "CJ dos Santos",
+      "position": "1 GK",
+      "club": "San Diego FC",
+      "age": NaN
+    },
+    {
+      "player": "Stopira",
+      "position": "2 DF",
+      "club": "Torreense",
+      "age": NaN
+    },
+    {
+      "player": "Roberto Lopes",
+      "position": "2 DF",
+      "club": "Shamrock Rovers",
+      "age": NaN
+    },
+    {
+      "player": "Jo\u00e3o Paulo",
+      "position": "2 DF",
+      "club": "FCSB",
+      "age": NaN
+    },
+    {
+      "player": "Diney",
+      "position": "2 DF",
+      "club": "Al Bataeh",
+      "age": NaN
+    },
+    {
+      "player": "Logan Costa",
+      "position": "2 DF",
+      "club": "Villarreal",
+      "age": NaN
+    },
+    {
+      "player": "Steven Moreira",
+      "position": "2 DF",
+      "club": "Columbus Crew",
+      "age": NaN
+    },
+    {
+      "player": "Wagner Pina",
+      "position": "2 DF",
+      "club": "Trabzonspor",
+      "age": NaN
+    },
+    {
+      "player": "Sidny Lopes Cabral",
+      "position": "2 DF",
+      "club": "Benfica",
+      "age": NaN
+    },
+    {
+      "player": "Kelvin Pires",
+      "position": "2 DF",
+      "club": "SJK",
+      "age": NaN
+    },
+    {
+      "player": "Jamiro Monteiro",
+      "position": "3 MF",
+      "club": "PEC Zwolle",
+      "age": NaN
+    },
+    {
+      "player": "Kevin Pina",
+      "position": "3 MF",
+      "club": "Krasnodar",
+      "age": NaN
+    },
+    {
+      "player": "Deroy Duarte",
+      "position": "3 MF",
+      "club": "Ludogorets Razgrad",
+      "age": NaN
+    },
+    {
+      "player": "Telmo Arcanjo",
+      "position": "3 MF",
+      "club": "Vit\u00f3ria de Guimar\u00e3es",
+      "age": NaN
+    },
+    {
+      "player": "Laros Duarte",
+      "position": "3 MF",
+      "club": "Pusk\u00e1s Akad\u00e9mia",
+      "age": NaN
+    },
+    {
+      "player": "Yannick Semedo",
+      "position": "3 MF",
+      "club": "Farense",
+      "age": NaN
+    },
+    {
+      "player": "Ryan Mendes ( captain )",
+      "position": "4 FW",
+      "club": "I\u011fd\u0131r",
+      "age": NaN
+    },
+    {
+      "player": "Garry Rodrigues",
+      "position": "4 FW",
+      "club": "Apollon Limassol",
+      "age": NaN
+    },
+    {
+      "player": "Willy Semedo",
+      "position": "4 FW",
+      "club": "Omonia",
+      "age": NaN
+    },
+    {
+      "player": "Jovane Cabral",
+      "position": "4 FW",
+      "club": "Estrela Amadora",
+      "age": NaN
+    },
+    {
+      "player": "Gilson Benchimol",
+      "position": "4 FW",
+      "club": "Akron Tolyatti",
+      "age": NaN
+    },
+    {
+      "player": "Dailon Livramento",
+      "position": "4 FW",
+      "club": "Casa Pia",
+      "age": NaN
+    },
+    {
+      "player": "H\u00e9lio Varela",
+      "position": "4 FW",
+      "club": "Maccabi Tel Aviv",
+      "age": NaN
+    },
+    {
+      "player": "Nuno da Costa",
+      "position": "4 FW",
+      "club": "\u0130stanbul Ba\u015fak\u015fehir",
+      "age": NaN
+    }
+  ],
+  "Colombia": [
+    {
+      "player": "David Ospina",
+      "position": "1 GK",
+      "club": "Atl\u00e9tico Nacional",
+      "age": NaN
+    },
+    {
+      "player": "Camilo Vargas",
+      "position": "1 GK",
+      "club": "Atlas",
+      "age": NaN
+    },
+    {
+      "player": "\u00c1lvaro Montero",
+      "position": "1 GK",
+      "club": "V\u00e9lez Sarsfield",
+      "age": NaN
+    },
+    {
+      "player": "Davinson S\u00e1nchez",
+      "position": "2 DF",
+      "club": "Galatasaray",
+      "age": NaN
+    },
+    {
+      "player": "Santiago Arias",
+      "position": "2 DF",
+      "club": "Independiente",
+      "age": NaN
+    },
+    {
+      "player": "Yerry Mina",
+      "position": "2 DF",
+      "club": "Cagliari",
+      "age": NaN
+    },
+    {
+      "player": "Daniel Mu\u00f1oz",
+      "position": "2 DF",
+      "club": "Crystal Palace",
+      "age": NaN
+    },
+    {
+      "player": "Johan Mojica",
+      "position": "2 DF",
+      "club": "Mallorca",
+      "age": NaN
+    },
+    {
+      "player": "Jhon Lucum\u00ed",
+      "position": "2 DF",
+      "club": "Bologna",
+      "age": NaN
+    },
+    {
+      "player": "Deiver Machado",
+      "position": "2 DF",
+      "club": "Nantes",
+      "age": NaN
+    },
+    {
+      "player": "Willer Ditta",
+      "position": "2 DF",
+      "club": "Cruz Azul",
+      "age": NaN
+    },
+    {
+      "player": "James Rodr\u00edguez ( captain )",
+      "position": "3 MF",
+      "club": "Minnesota United FC",
+      "age": NaN
+    },
+    {
+      "player": "Jefferson Lerma",
+      "position": "3 MF",
+      "club": "Crystal Palace",
+      "age": NaN
+    },
+    {
+      "player": "Juan Fernando Quintero",
+      "position": "3 MF",
+      "club": "River Plate",
+      "age": NaN
+    },
+    {
+      "player": "Jhon Arias",
+      "position": "3 MF",
+      "club": "Palmeiras",
+      "age": NaN
+    },
+    {
+      "player": "Richard R\u00edos",
+      "position": "3 MF",
+      "club": "Benfica",
+      "age": NaN
+    },
+    {
+      "player": "Kevin Casta\u00f1o",
+      "position": "3 MF",
+      "club": "River Plate",
+      "age": NaN
+    },
+    {
+      "player": "Jorge Carrascal",
+      "position": "3 MF",
+      "club": "Flamengo",
+      "age": NaN
+    },
+    {
+      "player": "Jaminton Campaz",
+      "position": "3 MF",
+      "club": "Rosario Central",
+      "age": NaN
+    },
+    {
+      "player": "Juan Portilla",
+      "position": "3 MF",
+      "club": "Athletico Paranaense",
+      "age": NaN
+    },
+    {
+      "player": "Gustavo Puerta",
+      "position": "3 MF",
+      "club": "Racing Santander",
+      "age": NaN
+    },
+    {
+      "player": "Luis D\u00edaz",
+      "position": "4 FW",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Jhon C\u00f3rdoba",
+      "position": "4 FW",
+      "club": "Krasnodar",
+      "age": NaN
+    },
+    {
+      "player": "Luis Su\u00e1rez",
+      "position": "4 FW",
+      "club": "Sporting CP",
+      "age": NaN
+    },
+    {
+      "player": "Cucho Hern\u00e1ndez",
+      "position": "4 FW",
+      "club": "Real Betis",
+      "age": NaN
+    },
+    {
+      "player": "Andr\u00e9s G\u00f3mez",
+      "position": "4 FW",
+      "club": "Vasco da Gama",
+      "age": NaN
+    }
+  ],
+  "Croatia": [
+    {
+      "player": "Dominik Livakovi\u0107",
+      "position": "1 GK",
+      "club": "Dinamo Zagreb",
+      "age": NaN
+    },
+    {
+      "player": "Dominik Kotarski",
+      "position": "1 GK",
+      "club": "Copenhagen",
+      "age": NaN
+    },
+    {
+      "player": "Ivor Pandur",
+      "position": "1 GK",
+      "club": "Hull City",
+      "age": NaN
+    },
+    {
+      "player": "Jo\u0161ko Gvardiol",
+      "position": "2 DF",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "Duje \u0106aleta-Car",
+      "position": "2 DF",
+      "club": "Real Sociedad",
+      "age": NaN
+    },
+    {
+      "player": "Josip \u0160utalo",
+      "position": "2 DF",
+      "club": "Ajax",
+      "age": NaN
+    },
+    {
+      "player": "Josip Stani\u0161i\u0107",
+      "position": "2 DF",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Marin Pongra\u010di\u0107",
+      "position": "2 DF",
+      "club": "Fiorentina",
+      "age": NaN
+    },
+    {
+      "player": "Martin Erli\u0107",
+      "position": "2 DF",
+      "club": "Midtjylland",
+      "age": NaN
+    },
+    {
+      "player": "Luka Vu\u0161kovi\u0107",
+      "position": "2 DF",
+      "club": "Hamburger SV",
+      "age": NaN
+    },
+    {
+      "player": "Luka Modri\u0107 ( captain )",
+      "position": "3 MF",
+      "club": "Milan",
+      "age": NaN
+    },
+    {
+      "player": "Mateo Kova\u010di\u0107",
+      "position": "3 MF",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "Mario Pa\u0161ali\u0107",
+      "position": "3 MF",
+      "club": "Atalanta",
+      "age": NaN
+    },
+    {
+      "player": "Nikola Vla\u0161i\u0107",
+      "position": "3 MF",
+      "club": "Torino",
+      "age": NaN
+    },
+    {
+      "player": "Luka Su\u010di\u0107",
+      "position": "3 MF",
+      "club": "Real Sociedad",
+      "age": NaN
+    },
+    {
+      "player": "Martin Baturina",
+      "position": "3 MF",
+      "club": "Como",
+      "age": NaN
+    },
+    {
+      "player": "Kristijan Jaki\u0107",
+      "position": "3 MF",
+      "club": "FC Augsburg",
+      "age": NaN
+    },
+    {
+      "player": "Petar Su\u010di\u0107",
+      "position": "3 MF",
+      "club": "Inter Milan",
+      "age": NaN
+    },
+    {
+      "player": "Nikola Moro",
+      "position": "3 MF",
+      "club": "Bologna",
+      "age": NaN
+    },
+    {
+      "player": "Toni Fruk",
+      "position": "3 MF",
+      "club": "Rijeka",
+      "age": NaN
+    },
+    {
+      "player": "Ivan Peri\u0161i\u0107",
+      "position": "4 FW",
+      "club": "PSV Eindhoven",
+      "age": NaN
+    },
+    {
+      "player": "Andrej Kramari\u0107",
+      "position": "4 FW",
+      "club": "TSG Hoffenheim",
+      "age": NaN
+    },
+    {
+      "player": "Ante Budimir",
+      "position": "4 FW",
+      "club": "Osasuna",
+      "age": NaN
+    },
+    {
+      "player": "Marco Pa\u0161ali\u0107",
+      "position": "4 FW",
+      "club": "Orlando City",
+      "age": NaN
+    },
+    {
+      "player": "Petar Musa",
+      "position": "4 FW",
+      "club": "FC Dallas",
+      "age": NaN
+    },
+    {
+      "player": "Igor Matanovi\u0107",
+      "position": "4 FW",
+      "club": "SC Freiburg",
+      "age": NaN
+    }
+  ],
+  "Cura\u00e7ao": [
+    {
+      "player": "Eloy Room",
+      "position": "1 GK",
+      "club": "Miami FC",
+      "age": NaN
+    },
+    {
+      "player": "Trevor Doornbusch",
+      "position": "1 GK",
+      "club": "VVV-Venlo",
+      "age": NaN
+    },
+    {
+      "player": "Tyrick Bodak",
+      "position": "1 GK",
+      "club": "Telstar",
+      "age": NaN
+    },
+    {
+      "player": "Juri\u00ebn Gaari",
+      "position": "2 DF",
+      "club": "Abha",
+      "age": NaN
+    },
+    {
+      "player": "Roshon van Eijma",
+      "position": "2 DF",
+      "club": "RKC Waalwijk",
+      "age": NaN
+    },
+    {
+      "player": "Sherel Floranus",
+      "position": "2 DF",
+      "club": "PEC Zwolle",
+      "age": NaN
+    },
+    {
+      "player": "Joshua Brenet",
+      "position": "2 DF",
+      "club": "Kayserispor",
+      "age": NaN
+    },
+    {
+      "player": "Shurandy Sambo",
+      "position": "2 DF",
+      "club": "Sparta Rotterdam",
+      "age": NaN
+    },
+    {
+      "player": "Armando Obispo",
+      "position": "2 DF",
+      "club": "PSV Eindhoven",
+      "age": NaN
+    },
+    {
+      "player": "Riechedly Bazoer",
+      "position": "2 DF",
+      "club": "Konyaspor",
+      "age": NaN
+    },
+    {
+      "player": "Deveron Fonville",
+      "position": "2 DF",
+      "club": "NEC",
+      "age": NaN
+    },
+    {
+      "player": "Leandro Bacuna ( captain )",
+      "position": "3 MF",
+      "club": "I\u011fd\u0131r",
+      "age": NaN
+    },
+    {
+      "player": "Juninho Bacuna",
+      "position": "3 MF",
+      "club": "Volendam",
+      "age": NaN
+    },
+    {
+      "player": "Godfried Roemeratoe",
+      "position": "3 MF",
+      "club": "RKC Waalwijk",
+      "age": NaN
+    },
+    {
+      "player": "Kevin Felida",
+      "position": "3 MF",
+      "club": "Den Bosch",
+      "age": NaN
+    },
+    {
+      "player": "Livano Comenencia",
+      "position": "3 MF",
+      "club": "Z\u00fcrich",
+      "age": NaN
+    },
+    {
+      "player": "Ar'jany Martha",
+      "position": "3 MF",
+      "club": "Rotherham United",
+      "age": NaN
+    },
+    {
+      "player": "Tyrese Noslin",
+      "position": "3 MF",
+      "club": "Telstar",
+      "age": NaN
+    },
+    {
+      "player": "Kenji Gorr\u00e9",
+      "position": "4 FW",
+      "club": "Maccabi Haifa",
+      "age": NaN
+    },
+    {
+      "player": "Brandley Kuwas",
+      "position": "4 FW",
+      "club": "Volendam",
+      "age": NaN
+    },
+    {
+      "player": "Gervane Kastaneer",
+      "position": "4 FW",
+      "club": "Terengganu",
+      "age": NaN
+    },
+    {
+      "player": "Jeremy Antonisse",
+      "position": "4 FW",
+      "club": "Kifisia",
+      "age": NaN
+    },
+    {
+      "player": "Jearl Margaritha",
+      "position": "4 FW",
+      "club": "Beveren",
+      "age": NaN
+    },
+    {
+      "player": "J\u00fcrgen Locadia",
+      "position": "4 FW",
+      "club": "Miami FC",
+      "age": NaN
+    },
+    {
+      "player": "Sontje Hansen",
+      "position": "4 FW",
+      "club": "Middlesbrough",
+      "age": NaN
+    },
+    {
+      "player": "Tahith Chong",
+      "position": "4 FW",
+      "club": "Sheffield United",
+      "age": NaN
+    }
+  ],
+  "Czech Republic": [
+    {
+      "player": "Mat\u011bj Kov\u00e1\u0159",
+      "position": "1 GK",
+      "club": "PSV Eindhoven",
+      "age": NaN
+    },
+    {
+      "player": "Jind\u0159ich Stan\u011bk",
+      "position": "1 GK",
+      "club": "Slavia Prague",
+      "age": NaN
+    },
+    {
+      "player": "Luk\u00e1\u0161 Horn\u00ed\u010dek",
+      "position": "1 GK",
+      "club": "Braga",
+      "age": NaN
+    },
+    {
+      "player": "Vladim\u00edr Coufal",
+      "position": "2 DF",
+      "club": "TSG Hoffenheim",
+      "age": NaN
+    },
+    {
+      "player": "Tom\u00e1\u0161 Hole\u0161",
+      "position": "2 DF",
+      "club": "Slavia Prague",
+      "age": NaN
+    },
+    {
+      "player": "Ladislav Krej\u010d\u00ed ( captain )",
+      "position": "2 DF",
+      "club": "Wolverhampton Wanderers",
+      "age": NaN
+    },
+    {
+      "player": "David Zima",
+      "position": "2 DF",
+      "club": "Slavia Prague",
+      "age": NaN
+    },
+    {
+      "player": "Jaroslav Zelen\u00fd",
+      "position": "2 DF",
+      "club": "Sparta Prague",
+      "age": NaN
+    },
+    {
+      "player": "David Jur\u00e1sek",
+      "position": "2 DF",
+      "club": "Slavia Prague",
+      "age": NaN
+    },
+    {
+      "player": "David Doud\u011bra",
+      "position": "2 DF",
+      "club": "Slavia Prague",
+      "age": NaN
+    },
+    {
+      "player": "Robin Hran\u00e1\u010d",
+      "position": "2 DF",
+      "club": "TSG Hoffenheim",
+      "age": NaN
+    },
+    {
+      "player": "\u0160t\u011bp\u00e1n Chaloupek",
+      "position": "2 DF",
+      "club": "Slavia Prague",
+      "age": NaN
+    },
+    {
+      "player": "Tom\u00e1\u0161 Sou\u010dek",
+      "position": "3 MF",
+      "club": "West Ham United",
+      "age": NaN
+    },
+    {
+      "player": "Vladim\u00edr Darida",
+      "position": "3 MF",
+      "club": "Hradec Kr\u00e1lov\u00e9",
+      "age": NaN
+    },
+    {
+      "player": "Luk\u00e1\u0161 Provod",
+      "position": "3 MF",
+      "club": "Slavia Prague",
+      "age": NaN
+    },
+    {
+      "player": "Michal Sad\u00edlek",
+      "position": "3 MF",
+      "club": "Slavia Prague",
+      "age": NaN
+    },
+    {
+      "player": "Pavel \u0160ulc",
+      "position": "3 MF",
+      "club": "Lyon",
+      "age": NaN
+    },
+    {
+      "player": "Luk\u00e1\u0161 \u010cerv",
+      "position": "3 MF",
+      "club": "Viktoria Plze\u0148",
+      "age": NaN
+    },
+    {
+      "player": "Tom\u00e1\u0161 Ladra",
+      "position": "3 MF",
+      "club": "Viktoria Plze\u0148",
+      "age": NaN
+    },
+    {
+      "player": "Pavel Bucha",
+      "position": "3 MF",
+      "club": "FC Cincinnati",
+      "age": NaN
+    },
+    {
+      "player": "Hugo Soch\u016frek",
+      "position": "3 MF",
+      "club": "Sparta Prague",
+      "age": NaN
+    },
+    {
+      "player": "Alexandr Sojka",
+      "position": "3 MF",
+      "club": "Viktoria Plze\u0148",
+      "age": NaN
+    },
+    {
+      "player": "Denis Vi\u0161insk\u00fd",
+      "position": "3 MF",
+      "club": "Viktoria Plze\u0148",
+      "age": NaN
+    },
+    {
+      "player": "Patrik Schick",
+      "position": "4 FW",
+      "club": "Bayer Leverkusen",
+      "age": NaN
+    },
+    {
+      "player": "Adam Hlo\u017eek",
+      "position": "4 FW",
+      "club": "TSG Hoffenheim",
+      "age": NaN
+    },
+    {
+      "player": "Jan Kuchta",
+      "position": "4 FW",
+      "club": "Sparta Prague",
+      "age": NaN
+    },
+    {
+      "player": "Tom\u00e1\u0161 Chor\u00fd",
+      "position": "4 FW",
+      "club": "Slavia Prague",
+      "age": NaN
+    },
+    {
+      "player": "Mojm\u00edr Chytil",
+      "position": "4 FW",
+      "club": "Slavia Prague",
+      "age": NaN
+    },
+    {
+      "player": "Christophe Kabongo",
+      "position": "4 FW",
+      "club": "Mlad\u00e1 Boleslav",
+      "age": NaN
+    }
+  ],
+  "DR Congo": [
+    {
+      "player": "Lionel Mpasi",
+      "position": "1 GK",
+      "club": "Le Havre",
+      "age": NaN
+    },
+    {
+      "player": "Timothy Fayulu",
+      "position": "1 GK",
+      "club": "Noah",
+      "age": NaN
+    },
+    {
+      "player": "Matthieu Epolo",
+      "position": "1 GK",
+      "club": "Standard Li\u00e8ge",
+      "age": NaN
+    },
+    {
+      "player": "Chancel Mbemba ( captain )",
+      "position": "2 DF",
+      "club": "Lille",
+      "age": NaN
+    },
+    {
+      "player": "Arthur Masuaku",
+      "position": "2 DF",
+      "club": "Lens",
+      "age": NaN
+    },
+    {
+      "player": "G\u00e9d\u00e9on Kalulu",
+      "position": "2 DF",
+      "club": "Aris Limassol",
+      "age": NaN
+    },
+    {
+      "player": "Joris Kayembe",
+      "position": "2 DF",
+      "club": "Genk",
+      "age": NaN
+    },
+    {
+      "player": "Dylan Batubinsika",
+      "position": "2 DF",
+      "club": "AEL",
+      "age": NaN
+    },
+    {
+      "player": "Axel Tuanzebe",
+      "position": "2 DF",
+      "club": "Burnley",
+      "age": NaN
+    },
+    {
+      "player": "Aaron Wan-Bissaka",
+      "position": "2 DF",
+      "club": "West Ham United",
+      "age": NaN
+    },
+    {
+      "player": "Steve Kapuadi",
+      "position": "2 DF",
+      "club": "Widzew \u0141\u00f3d\u017a",
+      "age": NaN
+    },
+    {
+      "player": "Samuel Moutoussamy",
+      "position": "3 MF",
+      "club": "Atromitos",
+      "age": NaN
+    },
+    {
+      "player": "Edo Kayembe",
+      "position": "3 MF",
+      "club": "Watford",
+      "age": NaN
+    },
+    {
+      "player": "Charles Pickel",
+      "position": "3 MF",
+      "club": "Espanyol",
+      "age": NaN
+    },
+    {
+      "player": "Ga\u00ebl Kakuta",
+      "position": "3 MF",
+      "club": "AEL",
+      "age": NaN
+    },
+    {
+      "player": "Noah Sadiki",
+      "position": "3 MF",
+      "club": "Sunderland",
+      "age": NaN
+    },
+    {
+      "player": "Aaron Tshibola",
+      "position": "3 MF",
+      "club": "Kilmarnock",
+      "age": NaN
+    },
+    {
+      "player": "Ngal'ayel Mukau",
+      "position": "3 MF",
+      "club": "Lille",
+      "age": NaN
+    },
+    {
+      "player": "Brian Cipenga",
+      "position": "3 MF",
+      "club": "Castell\u00f3n",
+      "age": NaN
+    },
+    {
+      "player": "C\u00e9dric Bakambu",
+      "position": "4 FW",
+      "club": "Real Betis",
+      "age": NaN
+    },
+    {
+      "player": "Meschak Elia",
+      "position": "4 FW",
+      "club": "Alanyaspor",
+      "age": NaN
+    },
+    {
+      "player": "Th\u00e9o Bongonda",
+      "position": "4 FW",
+      "club": "Spartak Moscow",
+      "age": NaN
+    },
+    {
+      "player": "Fiston Mayele",
+      "position": "4 FW",
+      "club": "Pyramids",
+      "age": NaN
+    },
+    {
+      "player": "Yoane Wissa",
+      "position": "4 FW",
+      "club": "Newcastle United",
+      "age": NaN
+    },
+    {
+      "player": "Nathana\u00ebl Mbuku",
+      "position": "4 FW",
+      "club": "Montpellier",
+      "age": NaN
+    },
+    {
+      "player": "Simon Banza",
+      "position": "4 FW",
+      "club": "Al Jazira",
+      "age": NaN
+    }
+  ],
+  "Egypt": [
+    {
+      "player": "Mohamed El Shenawy",
+      "position": "1 GK",
+      "club": "Al Ahly",
+      "age": NaN
+    },
+    {
+      "player": "Mostafa Shobeir",
+      "position": "1 GK",
+      "club": "Al Ahly",
+      "age": NaN
+    },
+    {
+      "player": "Mohamed Alaa",
+      "position": "1 GK",
+      "club": "El Gouna",
+      "age": NaN
+    },
+    {
+      "player": "El Mahdy Soliman",
+      "position": "1 GK",
+      "club": "Zamalek",
+      "age": NaN
+    },
+    {
+      "player": "Hamdy Fathy",
+      "position": "2 DF",
+      "club": "Al-Wakrah",
+      "age": NaN
+    },
+    {
+      "player": "Ramy Rabia",
+      "position": "2 DF",
+      "club": "Al Ain",
+      "age": NaN
+    },
+    {
+      "player": "Mohamed Hany",
+      "position": "2 DF",
+      "club": "Al Ahly",
+      "age": NaN
+    },
+    {
+      "player": "Ahmed Fatouh",
+      "position": "2 DF",
+      "club": "Zamalek",
+      "age": NaN
+    },
+    {
+      "player": "Mohamed Abdelmonem",
+      "position": "2 DF",
+      "club": "Nice",
+      "age": NaN
+    },
+    {
+      "player": "Yasser Ibrahim",
+      "position": "2 DF",
+      "club": "Al Ahly",
+      "age": NaN
+    },
+    {
+      "player": "Hossam Abdelmaguid",
+      "position": "2 DF",
+      "club": "Zamalek",
+      "age": NaN
+    },
+    {
+      "player": "Karim Hafez",
+      "position": "2 DF",
+      "club": "Pyramids",
+      "age": NaN
+    },
+    {
+      "player": "Tarek Alaa",
+      "position": "2 DF",
+      "club": "ZED",
+      "age": NaN
+    },
+    {
+      "player": "Marwan Attia",
+      "position": "3 MF",
+      "club": "Al Ahly",
+      "age": NaN
+    },
+    {
+      "player": "Emam Ashour",
+      "position": "3 MF",
+      "club": "Al Ahly",
+      "age": NaN
+    },
+    {
+      "player": "Mohanad Lasheen",
+      "position": "3 MF",
+      "club": "Pyramids",
+      "age": NaN
+    },
+    {
+      "player": "Mahmoud Saber",
+      "position": "3 MF",
+      "club": "ZED",
+      "age": NaN
+    },
+    {
+      "player": "Nabil Emad",
+      "position": "3 MF",
+      "club": "Al-Najma",
+      "age": NaN
+    },
+    {
+      "player": "Mostafa Ziko",
+      "position": "3 MF",
+      "club": "Pyramids",
+      "age": NaN
+    },
+    {
+      "player": "Mohamed Salah ( captain )",
+      "position": "4 FW",
+      "club": "Liverpool",
+      "age": NaN
+    },
+    {
+      "player": "Tr\u00e9z\u00e9guet",
+      "position": "4 FW",
+      "club": "Al Ahly",
+      "age": NaN
+    },
+    {
+      "player": "Zizo",
+      "position": "4 FW",
+      "club": "Al Ahly",
+      "age": NaN
+    },
+    {
+      "player": "Omar Marmoush",
+      "position": "4 FW",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "Ibrahim Adel",
+      "position": "4 FW",
+      "club": "Nordsj\u00e6lland",
+      "age": NaN
+    },
+    {
+      "player": "Haissem Hassan",
+      "position": "4 FW",
+      "club": "Oviedo",
+      "age": NaN
+    },
+    {
+      "player": "Aqtay Abdallah",
+      "position": "4 FW",
+      "club": "ENPPI",
+      "age": NaN
+    },
+    {
+      "player": "Hamza Abdelkarim",
+      "position": "4 FW",
+      "club": "Barcelona B",
+      "age": NaN
+    }
+  ],
+  "England": [
+    {
+      "player": "Jordan Pickford",
+      "position": "1 GK",
+      "club": "Everton",
+      "age": NaN
+    },
+    {
+      "player": "Dean Henderson",
+      "position": "1 GK",
+      "club": "Crystal Palace",
+      "age": NaN
+    },
+    {
+      "player": "James Trafford",
+      "position": "1 GK",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "John Stones",
+      "position": "2 DF",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "Marc Gu\u00e9hi",
+      "position": "2 DF",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "Reece James",
+      "position": "2 DF",
+      "club": "Chelsea",
+      "age": NaN
+    },
+    {
+      "player": "Ezri Konsa",
+      "position": "2 DF",
+      "club": "Aston Villa",
+      "age": NaN
+    },
+    {
+      "player": "Dan Burn",
+      "position": "2 DF",
+      "club": "Newcastle United",
+      "age": NaN
+    },
+    {
+      "player": "Tino Livramento",
+      "position": "2 DF",
+      "club": "Newcastle United",
+      "age": NaN
+    },
+    {
+      "player": "Djed Spence",
+      "position": "2 DF",
+      "club": "Tottenham Hotspur",
+      "age": NaN
+    },
+    {
+      "player": "Nico O'Reilly",
+      "position": "2 DF",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "Jarell Quansah",
+      "position": "2 DF",
+      "club": "Bayer Leverkusen",
+      "age": NaN
+    },
+    {
+      "player": "Jordan Henderson",
+      "position": "3 MF",
+      "club": "Brentford",
+      "age": NaN
+    },
+    {
+      "player": "Declan Rice",
+      "position": "3 MF",
+      "club": "Arsenal",
+      "age": NaN
+    },
+    {
+      "player": "Jude Bellingham",
+      "position": "3 MF",
+      "club": "Real Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Morgan Rogers",
+      "position": "3 MF",
+      "club": "Aston Villa",
+      "age": NaN
+    },
+    {
+      "player": "Kobbie Mainoo",
+      "position": "3 MF",
+      "club": "Manchester United",
+      "age": NaN
+    },
+    {
+      "player": "Elliot Anderson",
+      "position": "3 MF",
+      "club": "Nottingham Forest",
+      "age": NaN
+    },
+    {
+      "player": "Harry Kane ( captain )",
+      "position": "4 FW",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Marcus Rashford",
+      "position": "4 FW",
+      "club": "Barcelona",
+      "age": NaN
+    },
+    {
+      "player": "Bukayo Saka",
+      "position": "4 FW",
+      "club": "Arsenal",
+      "age": NaN
+    },
+    {
+      "player": "Ollie Watkins",
+      "position": "4 FW",
+      "club": "Aston Villa",
+      "age": NaN
+    },
+    {
+      "player": "Anthony Gordon",
+      "position": "4 FW",
+      "club": "Newcastle United",
+      "age": NaN
+    },
+    {
+      "player": "Eberechi Eze",
+      "position": "4 FW",
+      "club": "Arsenal",
+      "age": NaN
+    },
+    {
+      "player": "Noni Madueke",
+      "position": "4 FW",
+      "club": "Arsenal",
+      "age": NaN
+    },
+    {
+      "player": "Ivan Toney",
+      "position": "4 FW",
+      "club": "Al-Ahli",
+      "age": NaN
+    }
+  ],
+  "France": [
+    {
+      "player": "Brice Samba",
+      "position": "1 GK",
+      "club": "Rennes",
+      "age": NaN
+    },
+    {
+      "player": "Malo Gusto",
+      "position": "2 DF",
+      "club": "Chelsea",
+      "age": NaN
+    },
+    {
+      "player": "Lucas Digne",
+      "position": "2 DF",
+      "club": "Aston Villa",
+      "age": NaN
+    },
+    {
+      "player": "Dayot Upamecano",
+      "position": "2 DF",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Jules Kound\u00e9",
+      "position": "2 DF",
+      "club": "Barcelona",
+      "age": NaN
+    },
+    {
+      "player": "Manu Kon\u00e9",
+      "position": "3 MF",
+      "club": "Roma",
+      "age": NaN
+    },
+    {
+      "player": "Ousmane Demb\u00e9l\u00e9",
+      "position": "4 FW",
+      "club": "Paris Saint-Germain",
+      "age": NaN
+    },
+    {
+      "player": "Aur\u00e9lien Tchouam\u00e9ni",
+      "position": "3 MF",
+      "club": "Real Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Marcus Thuram",
+      "position": "4 FW",
+      "club": "Inter Milan",
+      "age": NaN
+    },
+    {
+      "player": "Kylian Mbapp\u00e9 ( captain )",
+      "position": "4 FW",
+      "club": "Real Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Michael Olise",
+      "position": "4 FW",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Bradley Barcola",
+      "position": "4 FW",
+      "club": "Paris Saint-Germain",
+      "age": NaN
+    },
+    {
+      "player": "N'Golo Kant\u00e9",
+      "position": "3 MF",
+      "club": "Fenerbah\u00e7e",
+      "age": NaN
+    },
+    {
+      "player": "Adrien Rabiot",
+      "position": "3 MF",
+      "club": "Milan",
+      "age": NaN
+    },
+    {
+      "player": "Ibrahima Konat\u00e9",
+      "position": "2 DF",
+      "club": "Liverpool",
+      "age": NaN
+    },
+    {
+      "player": "Mike Maignan",
+      "position": "1 GK",
+      "club": "Milan",
+      "age": NaN
+    },
+    {
+      "player": "William Saliba",
+      "position": "2 DF",
+      "club": "Arsenal",
+      "age": NaN
+    },
+    {
+      "player": "Warren Za\u00efre-Emery",
+      "position": "3 MF",
+      "club": "Paris Saint-Germain",
+      "age": NaN
+    },
+    {
+      "player": "Th\u00e9o Hernandez",
+      "position": "2 DF",
+      "club": "Al-Hilal",
+      "age": NaN
+    },
+    {
+      "player": "D\u00e9sir\u00e9 Dou\u00e9",
+      "position": "4 FW",
+      "club": "Paris Saint-Germain",
+      "age": NaN
+    },
+    {
+      "player": "Lucas Hernandez",
+      "position": "2 DF",
+      "club": "Paris Saint-Germain",
+      "age": NaN
+    },
+    {
+      "player": "Jean-Philippe Mateta",
+      "position": "4 FW",
+      "club": "Crystal Palace",
+      "age": NaN
+    },
+    {
+      "player": "Robin Risser",
+      "position": "1 GK",
+      "club": "Lens",
+      "age": NaN
+    },
+    {
+      "player": "Rayan Cherki",
+      "position": "4 FW",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "Maghnes Akliouche",
+      "position": "4 FW",
+      "club": "Monaco",
+      "age": NaN
+    },
+    {
+      "player": "Maxence Lacroix",
+      "position": "2 DF",
+      "club": "Crystal Palace",
+      "age": NaN
+    }
+  ],
+  "Germany": [
+    {
+      "player": "Manuel Neuer",
+      "position": "1 GK",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Antonio R\u00fcdiger",
+      "position": "2 DF",
+      "club": "Real Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Waldemar Anton",
+      "position": "2 DF",
+      "club": "Borussia Dortmund",
+      "age": NaN
+    },
+    {
+      "player": "Jonathan Tah",
+      "position": "2 DF",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Aleksandar Pavlovi\u0107",
+      "position": "3 MF",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Joshua Kimmich ( captain )",
+      "position": "3 MF",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Kai Havertz",
+      "position": "4 FW",
+      "club": "Arsenal",
+      "age": NaN
+    },
+    {
+      "player": "Leon Goretzka",
+      "position": "3 MF",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Jamie Leweling",
+      "position": "3 MF",
+      "club": "VfB Stuttgart",
+      "age": NaN
+    },
+    {
+      "player": "Jamal Musiala",
+      "position": "3 MF",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Nick Woltemade",
+      "position": "4 FW",
+      "club": "Newcastle United",
+      "age": NaN
+    },
+    {
+      "player": "Oliver Baumann",
+      "position": "1 GK",
+      "club": "TSG Hoffenheim",
+      "age": NaN
+    },
+    {
+      "player": "Pascal Gro\u00df",
+      "position": "3 MF",
+      "club": "Brighton & Hove Albion",
+      "age": NaN
+    },
+    {
+      "player": "Maximilian Beier",
+      "position": "4 FW",
+      "club": "Borussia Dortmund",
+      "age": NaN
+    },
+    {
+      "player": "Nico Schlotterbeck",
+      "position": "2 DF",
+      "club": "Borussia Dortmund",
+      "age": NaN
+    },
+    {
+      "player": "Angelo Stiller",
+      "position": "3 MF",
+      "club": "VfB Stuttgart",
+      "age": NaN
+    },
+    {
+      "player": "Florian Wirtz",
+      "position": "3 MF",
+      "club": "Liverpool",
+      "age": NaN
+    },
+    {
+      "player": "Nathaniel Brown",
+      "position": "2 DF",
+      "club": "Eintracht Frankfurt",
+      "age": NaN
+    },
+    {
+      "player": "Leroy San\u00e9",
+      "position": "3 MF",
+      "club": "Galatasaray",
+      "age": NaN
+    },
+    {
+      "player": "Nadiem Amiri",
+      "position": "3 MF",
+      "club": "Mainz 05",
+      "age": NaN
+    },
+    {
+      "player": "Alexander N\u00fcbel",
+      "position": "1 GK",
+      "club": "VfB Stuttgart",
+      "age": NaN
+    },
+    {
+      "player": "David Raum",
+      "position": "2 DF",
+      "club": "RB Leipzig",
+      "age": NaN
+    },
+    {
+      "player": "Felix Nmecha",
+      "position": "3 MF",
+      "club": "Borussia Dortmund",
+      "age": NaN
+    },
+    {
+      "player": "Malick Thiaw",
+      "position": "2 DF",
+      "club": "Newcastle United",
+      "age": NaN
+    },
+    {
+      "player": "Lennart Karl",
+      "position": "3 MF",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Deniz Undav",
+      "position": "4 FW",
+      "club": "VfB Stuttgart",
+      "age": NaN
+    }
+  ],
+  "Ghana": [
+    {
+      "player": "Lawrence Ati-Zigi",
+      "position": "1 GK",
+      "club": "St. Gallen",
+      "age": NaN
+    },
+    {
+      "player": "Benjamin Asare",
+      "position": "1 GK",
+      "club": "Hearts of Oak",
+      "age": NaN
+    },
+    {
+      "player": "Solomon Agbasi",
+      "position": "1 GK",
+      "club": "Hearts of Oak",
+      "age": NaN
+    },
+    {
+      "player": "Joseph Anang",
+      "position": "1 GK",
+      "club": "St Patrick's Athletic",
+      "age": NaN
+    },
+    {
+      "player": "Paul Reverson",
+      "position": "1 GK",
+      "club": "Jong Ajax",
+      "age": NaN
+    },
+    {
+      "player": "Abdul Rahman Baba",
+      "position": "2 DF",
+      "club": "PAOK",
+      "age": NaN
+    },
+    {
+      "player": "Gideon Mensah",
+      "position": "2 DF",
+      "club": "Auxerre",
+      "age": NaN
+    },
+    {
+      "player": "Alexander Djiku",
+      "position": "2 DF",
+      "club": "Spartak Moscow",
+      "age": NaN
+    },
+    {
+      "player": "Alidu Seidu",
+      "position": "2 DF",
+      "club": "Rennes",
+      "age": NaN
+    },
+    {
+      "player": "Jerome Opoku",
+      "position": "2 DF",
+      "club": "\u0130stanbul Ba\u015fak\u015fehir",
+      "age": NaN
+    },
+    {
+      "player": "Jonas Adjetey",
+      "position": "2 DF",
+      "club": "VfL Wolfsburg",
+      "age": NaN
+    },
+    {
+      "player": "Abdul Mumin",
+      "position": "2 DF",
+      "club": "Rayo Vallecano",
+      "age": NaN
+    },
+    {
+      "player": "Kojo Peprah Oppong",
+      "position": "2 DF",
+      "club": "Nice",
+      "age": NaN
+    },
+    {
+      "player": "Marvin Senaya",
+      "position": "2 DF",
+      "club": "Auxerre",
+      "age": NaN
+    },
+    {
+      "player": "Thomas Partey",
+      "position": "3 MF",
+      "club": "Villarreal",
+      "age": NaN
+    },
+    {
+      "player": "Abdul Fatawu",
+      "position": "3 MF",
+      "club": "Leicester City",
+      "age": NaN
+    },
+    {
+      "player": "Kamaldeen Sulemana",
+      "position": "3 MF",
+      "club": "Atalanta",
+      "age": NaN
+    },
+    {
+      "player": "Elisha Owusu",
+      "position": "3 MF",
+      "club": "Auxerre",
+      "age": NaN
+    },
+    {
+      "player": "Caleb Yirenkyi",
+      "position": "3 MF",
+      "club": "Nordsj\u00e6lland",
+      "age": NaN
+    },
+    {
+      "player": "Kwasi Sibo",
+      "position": "3 MF",
+      "club": "Oviedo",
+      "age": NaN
+    },
+    {
+      "player": "Augustine Boakye",
+      "position": "3 MF",
+      "club": "Saint-\u00c9tienne",
+      "age": NaN
+    },
+    {
+      "player": "Jordan Ayew ( captain )",
+      "position": "4 FW",
+      "club": "Leicester City",
+      "age": NaN
+    },
+    {
+      "player": "Antoine Semenyo",
+      "position": "4 FW",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "I\u00f1aki Williams",
+      "position": "4 FW",
+      "club": "Athletic Bilbao",
+      "age": NaN
+    },
+    {
+      "player": "Ernest Nuamah",
+      "position": "4 FW",
+      "club": "Lyon",
+      "age": NaN
+    },
+    {
+      "player": "Christopher Bonsu Baah",
+      "position": "4 FW",
+      "club": "Al-Qadsiah",
+      "age": NaN
+    },
+    {
+      "player": "Brandon Thomas-Asante",
+      "position": "4 FW",
+      "club": "Coventry City",
+      "age": NaN
+    },
+    {
+      "player": "Prince Kwabena Adu",
+      "position": "4 FW",
+      "club": "Viktoria Plze\u0148",
+      "age": NaN
+    }
+  ],
+  "Haiti": [
+    {
+      "player": "Johny Placide ( captain )",
+      "position": "1 GK",
+      "club": "Bastia",
+      "age": NaN
+    },
+    {
+      "player": "Alexandre Pierre",
+      "position": "1 GK",
+      "club": "Sochaux",
+      "age": NaN
+    },
+    {
+      "player": "Josu\u00e9 Duverger",
+      "position": "1 GK",
+      "club": "Cosmos Koblenz",
+      "age": NaN
+    },
+    {
+      "player": "Ricardo Ad\u00e9",
+      "position": "2 DF",
+      "club": "LDU Quito",
+      "age": NaN
+    },
+    {
+      "player": "Carlens Arcus",
+      "position": "2 DF",
+      "club": "Angers",
+      "age": NaN
+    },
+    {
+      "player": "Martin Exp\u00e9rience",
+      "position": "2 DF",
+      "club": "Nancy",
+      "age": NaN
+    },
+    {
+      "player": "Jean-K\u00e9vin Duverne",
+      "position": "2 DF",
+      "club": "Gent",
+      "age": NaN
+    },
+    {
+      "player": "Duke Lacroix",
+      "position": "2 DF",
+      "club": "Colorado Springs Switchbacks",
+      "age": NaN
+    },
+    {
+      "player": "Wilguens Paugain",
+      "position": "2 DF",
+      "club": "Zulte Waregem",
+      "age": NaN
+    },
+    {
+      "player": "Hannes Delcroix",
+      "position": "2 DF",
+      "club": "Lugano",
+      "age": NaN
+    },
+    {
+      "player": "Keeto Thermoncy",
+      "position": "2 DF",
+      "club": "Young Boys",
+      "age": NaN
+    },
+    {
+      "player": "Leverton Pierre",
+      "position": "3 MF",
+      "club": "Vizela",
+      "age": NaN
+    },
+    {
+      "player": "Danley Jean Jacques",
+      "position": "3 MF",
+      "club": "Philadelphia Union",
+      "age": NaN
+    },
+    {
+      "player": "Carl Saint\u00e9",
+      "position": "3 MF",
+      "club": "El Paso Locomotive FC",
+      "age": NaN
+    },
+    {
+      "player": "Jean-Ricner Bellegarde",
+      "position": "3 MF",
+      "club": "Wolverhampton Wanderers",
+      "age": NaN
+    },
+    {
+      "player": "Woodensky Pierre",
+      "position": "3 MF",
+      "club": "Violette",
+      "age": NaN
+    },
+    {
+      "player": "Dominique Simon",
+      "position": "3 MF",
+      "club": "Tatran Pre\u0161ov",
+      "age": NaN
+    },
+    {
+      "player": "Duckens Nazon",
+      "position": "4 FW",
+      "club": "Esteghlal",
+      "age": NaN
+    },
+    {
+      "player": "Frantzdy Pierrot",
+      "position": "4 FW",
+      "club": "\u00c7aykur Rizespor",
+      "age": NaN
+    },
+    {
+      "player": "Derrick Etienne Jr.",
+      "position": "4 FW",
+      "club": "Toronto FC",
+      "age": NaN
+    },
+    {
+      "player": "Louicius Deedson",
+      "position": "4 FW",
+      "club": "FC Dallas",
+      "age": NaN
+    },
+    {
+      "player": "Ruben Providence",
+      "position": "4 FW",
+      "club": "Almere City",
+      "age": NaN
+    },
+    {
+      "player": "Josu\u00e9 Casimir",
+      "position": "4 FW",
+      "club": "Auxerre",
+      "age": NaN
+    },
+    {
+      "player": "Yassin Fortun\u00e9",
+      "position": "4 FW",
+      "club": "Vizela",
+      "age": NaN
+    },
+    {
+      "player": "Wilson Isidor",
+      "position": "4 FW",
+      "club": "Sunderland",
+      "age": NaN
+    },
+    {
+      "player": "Lenny Joseph",
+      "position": "4 FW",
+      "club": "Ferencv\u00e1ros",
+      "age": NaN
+    }
+  ],
+  "Iran": [
+    {
+      "player": "Alireza Beiranvand",
+      "position": "1 GK",
+      "club": "Tractor",
+      "age": NaN
+    },
+    {
+      "player": "Payam Niazmand",
+      "position": "1 GK",
+      "club": "Persepolis",
+      "age": NaN
+    },
+    {
+      "player": "Hossein Hosseini",
+      "position": "1 GK",
+      "club": "Sepahan",
+      "age": NaN
+    },
+    {
+      "player": "Mohammad Khalife",
+      "position": "1 GK",
+      "club": "Aluminium Arak",
+      "age": NaN
+    },
+    {
+      "player": "Ehsan Hajsafi",
+      "position": "2 DF",
+      "club": "Sepahan",
+      "age": NaN
+    },
+    {
+      "player": "Milad Mohammadi",
+      "position": "2 DF",
+      "club": "Persepolis",
+      "age": NaN
+    },
+    {
+      "player": "Ramin Rezaeian",
+      "position": "2 DF",
+      "club": "Foolad",
+      "age": NaN
+    },
+    {
+      "player": "Hossein Kanaanizadegan",
+      "position": "2 DF",
+      "club": "Persepolis",
+      "age": NaN
+    },
+    {
+      "player": "Shojae Khalilzadeh",
+      "position": "2 DF",
+      "club": "Tractor",
+      "age": NaN
+    },
+    {
+      "player": "Saleh Hardani",
+      "position": "2 DF",
+      "club": "Esteghlal",
+      "age": NaN
+    },
+    {
+      "player": "Ali Nemati",
+      "position": "2 DF",
+      "club": "Foolad",
+      "age": NaN
+    },
+    {
+      "player": "Aria Yousefi",
+      "position": "2 DF",
+      "club": "Sepahan",
+      "age": NaN
+    },
+    {
+      "player": "Danial Eiri",
+      "position": "2 DF",
+      "club": "Malavan",
+      "age": NaN
+    },
+    {
+      "player": "Alireza Jahanbakhsh ( captain )",
+      "position": "3 MF",
+      "club": "Dender",
+      "age": NaN
+    },
+    {
+      "player": "Saeid Ezatolahi",
+      "position": "3 MF",
+      "club": "Shabab Al-Ahli",
+      "age": NaN
+    },
+    {
+      "player": "Saman Ghoddos",
+      "position": "3 MF",
+      "club": "Kalba",
+      "age": NaN
+    },
+    {
+      "player": "Mehdi Torabi",
+      "position": "3 MF",
+      "club": "Tractor",
+      "age": NaN
+    },
+    {
+      "player": "Rouzbeh Cheshmi",
+      "position": "3 MF",
+      "club": "Esteghlal",
+      "age": NaN
+    },
+    {
+      "player": "Omid Noorafkan",
+      "position": "3 MF",
+      "club": "Sepahan",
+      "age": NaN
+    },
+    {
+      "player": "Mohammad Mohebi",
+      "position": "3 MF",
+      "club": "Rostov",
+      "age": NaN
+    },
+    {
+      "player": "Mohammad Ghorbani",
+      "position": "3 MF",
+      "club": "Al-Wahda",
+      "age": NaN
+    },
+    {
+      "player": "Amirmohammad Razzaghinia",
+      "position": "3 MF",
+      "club": "Esteghlal",
+      "age": NaN
+    },
+    {
+      "player": "Hadi Habibinejad",
+      "position": "3 MF",
+      "club": "Chadormalou",
+      "age": NaN
+    },
+    {
+      "player": "Mehdi Taremi",
+      "position": "4 FW",
+      "club": "Olympiacos",
+      "age": NaN
+    },
+    {
+      "player": "Mehdi Ghayedi",
+      "position": "4 FW",
+      "club": "Al-Nasr",
+      "age": NaN
+    },
+    {
+      "player": "Amirhossein Hosseinzadeh",
+      "position": "4 FW",
+      "club": "Tractor",
+      "age": NaN
+    },
+    {
+      "player": "Ali Alipour",
+      "position": "4 FW",
+      "club": "Persepolis",
+      "age": NaN
+    },
+    {
+      "player": "Kasra Taheri",
+      "position": "4 FW",
+      "club": "Paykan",
+      "age": NaN
+    },
+    {
+      "player": "Amirhossein Mahmoudi",
+      "position": "4 FW",
+      "club": "Persepolis",
+      "age": NaN
+    },
+    {
+      "player": "Dennis Eckert",
+      "position": "4 FW",
+      "club": "Standard Li\u00e8ge",
+      "age": NaN
+    }
+  ],
+  "Iraq": [
+    {
+      "player": "Jalal Hassan ( captain )",
+      "position": "1 GK",
+      "club": "Al-Zawraa",
+      "age": NaN
+    },
+    {
+      "player": "Fahad Talib",
+      "position": "1 GK",
+      "club": "Al-Talaba",
+      "age": NaN
+    },
+    {
+      "player": "Ahmed Basil",
+      "position": "1 GK",
+      "club": "Al-Shorta",
+      "age": NaN
+    },
+    {
+      "player": "Kumel Al-Rekabe",
+      "position": "1 GK",
+      "club": "Erbil",
+      "age": NaN
+    },
+    {
+      "player": "Rebin Sulaka",
+      "position": "2 DF",
+      "club": "Port",
+      "age": NaN
+    },
+    {
+      "player": "Manaf Younis",
+      "position": "2 DF",
+      "club": "Al-Shorta",
+      "age": NaN
+    },
+    {
+      "player": "Merchas Doski",
+      "position": "2 DF",
+      "club": "Viktoria Plze\u0148",
+      "age": NaN
+    },
+    {
+      "player": "Hussein Ali",
+      "position": "2 DF",
+      "club": "Pogo\u0144 Szczecin",
+      "age": NaN
+    },
+    {
+      "player": "Zaid Tahseen",
+      "position": "2 DF",
+      "club": "Pakhtakor",
+      "age": NaN
+    },
+    {
+      "player": "Frans Putros",
+      "position": "2 DF",
+      "club": "Persib",
+      "age": NaN
+    },
+    {
+      "player": "Maitham Jabbar",
+      "position": "2 DF",
+      "club": "Al-Zawraa",
+      "age": NaN
+    },
+    {
+      "player": "Ahmed Yahya",
+      "position": "2 DF",
+      "club": "Al-Shorta",
+      "age": NaN
+    },
+    {
+      "player": "Mustafa Saadoon",
+      "position": "2 DF",
+      "club": "Al-Shorta",
+      "age": NaN
+    },
+    {
+      "player": "Akam Hashim",
+      "position": "2 DF",
+      "club": "Al-Zawraa",
+      "age": NaN
+    },
+    {
+      "player": "Ahmed Maknzi",
+      "position": "2 DF",
+      "club": "Al-Karma",
+      "age": NaN
+    },
+    {
+      "player": "Dario Naamo",
+      "position": "2 DF",
+      "club": "Dundee United",
+      "age": NaN
+    },
+    {
+      "player": "Ibrahim Bayesh",
+      "position": "3 MF",
+      "club": "Al-Dhafra",
+      "age": NaN
+    },
+    {
+      "player": "Amir Al-Ammari",
+      "position": "3 MF",
+      "club": "Cracovia",
+      "age": NaN
+    },
+    {
+      "player": "Ali Jasim",
+      "position": "3 MF",
+      "club": "Al-Najma",
+      "age": NaN
+    },
+    {
+      "player": "Youssef Amyn",
+      "position": "3 MF",
+      "club": "AEK Larnaca",
+      "age": NaN
+    },
+    {
+      "player": "Zidane Iqbal",
+      "position": "3 MF",
+      "club": "Utrecht",
+      "age": NaN
+    },
+    {
+      "player": "Hasan Abdulkareem",
+      "position": "3 MF",
+      "club": "Al-Zawraa",
+      "age": NaN
+    },
+    {
+      "player": "Marko Farji",
+      "position": "3 MF",
+      "club": "Venezia",
+      "age": NaN
+    },
+    {
+      "player": "Karrar Nabeel",
+      "position": "3 MF",
+      "club": "Al-Zawraa",
+      "age": NaN
+    },
+    {
+      "player": "Kevin Yakob",
+      "position": "3 MF",
+      "club": "AGF",
+      "age": NaN
+    },
+    {
+      "player": "Aimar Sher",
+      "position": "3 MF",
+      "club": "Sarpsborg 08",
+      "age": NaN
+    },
+    {
+      "player": "Zaid Ismail",
+      "position": "3 MF",
+      "club": "Al-Talaba",
+      "age": NaN
+    },
+    {
+      "player": "Peter Gwargis",
+      "position": "3 MF",
+      "club": "Duhok",
+      "age": NaN
+    },
+    {
+      "player": "Jussef Nasrawe",
+      "position": "3 MF",
+      "club": "SV Ried",
+      "age": NaN
+    },
+    {
+      "player": "Ahmed Qasem",
+      "position": "3 MF",
+      "club": "Nashville SC",
+      "age": NaN
+    },
+    {
+      "player": "Aymen Hussein",
+      "position": "4 FW",
+      "club": "Al-Karma",
+      "age": NaN
+    },
+    {
+      "player": "Mohanad Ali",
+      "position": "4 FW",
+      "club": "Dibba",
+      "age": NaN
+    },
+    {
+      "player": "Ali Al-Hamadi",
+      "position": "4 FW",
+      "club": "Luton Town",
+      "age": NaN
+    },
+    {
+      "player": "Ali Yousif",
+      "position": "4 FW",
+      "club": "Al-Talaba",
+      "age": NaN
+    }
+  ],
+  "Ivory Coast": [
+    {
+      "player": "Yahia Fofana",
+      "position": "1 GK",
+      "club": "\u00c7aykur Rizespor",
+      "age": NaN
+    },
+    {
+      "player": "Alban Lafont",
+      "position": "1 GK",
+      "club": "Panathinaikos",
+      "age": NaN
+    },
+    {
+      "player": "Mohamed Kon\u00e9",
+      "position": "1 GK",
+      "club": "Charleroi",
+      "age": NaN
+    },
+    {
+      "player": "Ghislain Konan",
+      "position": "2 DF",
+      "club": "Gil Vicente",
+      "age": NaN
+    },
+    {
+      "player": "Odilon Kossounou",
+      "position": "2 DF",
+      "club": "Atalanta",
+      "age": NaN
+    },
+    {
+      "player": "Wilfried Singo",
+      "position": "2 DF",
+      "club": "Galatasaray",
+      "age": NaN
+    },
+    {
+      "player": "Evan Ndicka",
+      "position": "2 DF",
+      "club": "Roma",
+      "age": NaN
+    },
+    {
+      "player": "Emmanuel Agbadou",
+      "position": "2 DF",
+      "club": "Be\u015fikta\u015f",
+      "age": NaN
+    },
+    {
+      "player": "Gu\u00e9la Dou\u00e9",
+      "position": "2 DF",
+      "club": "Strasbourg",
+      "age": NaN
+    },
+    {
+      "player": "Ousmane Diomande",
+      "position": "2 DF",
+      "club": "Sporting CP",
+      "age": NaN
+    },
+    {
+      "player": "Cl\u00e9ment Akpa",
+      "position": "2 DF",
+      "club": "Auxerre",
+      "age": NaN
+    },
+    {
+      "player": "Franck Kessi\u00e9 ( captain )",
+      "position": "3 MF",
+      "club": "Al-Ahli",
+      "age": NaN
+    },
+    {
+      "player": "Jean Micha\u00ebl Seri",
+      "position": "3 MF",
+      "club": "Maribor",
+      "age": NaN
+    },
+    {
+      "player": "Ibrahim Sangar\u00e9",
+      "position": "3 MF",
+      "club": "Nottingham Forest",
+      "age": NaN
+    },
+    {
+      "player": "Seko Fofana",
+      "position": "3 MF",
+      "club": "Porto",
+      "age": NaN
+    },
+    {
+      "player": "Christ Inao Oula\u00ef",
+      "position": "3 MF",
+      "club": "Trabzonspor",
+      "age": NaN
+    },
+    {
+      "player": "Parfait Guiagon",
+      "position": "3 MF",
+      "club": "Charleroi",
+      "age": NaN
+    },
+    {
+      "player": "Nicolas P\u00e9p\u00e9",
+      "position": "4 FW",
+      "club": "Villarreal",
+      "age": NaN
+    },
+    {
+      "player": "Oumar Diakit\u00e9",
+      "position": "4 FW",
+      "club": "Cercle Brugge",
+      "age": NaN
+    },
+    {
+      "player": "Simon Adingra",
+      "position": "4 FW",
+      "club": "Monaco",
+      "age": NaN
+    },
+    {
+      "player": "Evann Guessand",
+      "position": "4 FW",
+      "club": "Crystal Palace",
+      "age": NaN
+    },
+    {
+      "player": "Amad Diallo",
+      "position": "4 FW",
+      "club": "Manchester United",
+      "age": NaN
+    },
+    {
+      "player": "Yan Diomande",
+      "position": "4 FW",
+      "club": "RB Leipzig",
+      "age": NaN
+    },
+    {
+      "player": "Bazoumana Tour\u00e9",
+      "position": "4 FW",
+      "club": "TSG Hoffenheim",
+      "age": NaN
+    },
+    {
+      "player": "Elye Wahi",
+      "position": "4 FW",
+      "club": "Nice",
+      "age": NaN
+    },
+    {
+      "player": "Ange-Yoan Bonny",
+      "position": "4 FW",
+      "club": "Inter Milan",
+      "age": NaN
+    }
+  ],
+  "Japan": [
+    {
+      "player": "Zion Suzuki",
+      "position": "1 GK",
+      "club": "Parma",
+      "age": NaN
+    },
+    {
+      "player": "Yukinari Sugawara",
+      "position": "2 DF",
+      "club": "Werder Bremen",
+      "age": NaN
+    },
+    {
+      "player": "Sh\u014dgo Taniguchi",
+      "position": "2 DF",
+      "club": "Sint-Truiden",
+      "age": NaN
+    },
+    {
+      "player": "K\u014d Itakura",
+      "position": "2 DF",
+      "club": "Ajax",
+      "age": NaN
+    },
+    {
+      "player": "Y\u016bto Nagatomo",
+      "position": "2 DF",
+      "club": "FC Tokyo",
+      "age": NaN
+    },
+    {
+      "player": "Wataru Endo ( captain )",
+      "position": "3 MF",
+      "club": "Liverpool",
+      "age": NaN
+    },
+    {
+      "player": "Ao Tanaka",
+      "position": "3 MF",
+      "club": "Leeds United",
+      "age": NaN
+    },
+    {
+      "player": "Takefusa Kubo",
+      "position": "3 MF",
+      "club": "Real Sociedad",
+      "age": NaN
+    },
+    {
+      "player": "Keisuke Got\u014d",
+      "position": "4 FW",
+      "club": "Sint-Truiden",
+      "age": NaN
+    },
+    {
+      "player": "Ritsu D\u014dan",
+      "position": "3 MF",
+      "club": "Eintracht Frankfurt",
+      "age": NaN
+    },
+    {
+      "player": "Daizen Maeda",
+      "position": "4 FW",
+      "club": "Celtic",
+      "age": NaN
+    },
+    {
+      "player": "Keisuke \u014csako",
+      "position": "1 GK",
+      "club": "Sanfrecce Hiroshima",
+      "age": NaN
+    },
+    {
+      "player": "Keito Nakamura",
+      "position": "3 MF",
+      "club": "Reims",
+      "age": NaN
+    },
+    {
+      "player": "Junya It\u014d",
+      "position": "3 MF",
+      "club": "Genk",
+      "age": NaN
+    },
+    {
+      "player": "Daichi Kamada",
+      "position": "3 MF",
+      "club": "Crystal Palace",
+      "age": NaN
+    },
+    {
+      "player": "Tsuyoshi Watanabe",
+      "position": "2 DF",
+      "club": "Feyenoord",
+      "age": NaN
+    },
+    {
+      "player": "Yuito Suzuki",
+      "position": "4 FW",
+      "club": "SC Freiburg",
+      "age": NaN
+    },
+    {
+      "player": "Ayase Ueda",
+      "position": "4 FW",
+      "club": "Feyenoord",
+      "age": NaN
+    },
+    {
+      "player": "K\u014dki Ogawa",
+      "position": "4 FW",
+      "club": "NEC",
+      "age": NaN
+    },
+    {
+      "player": "Ayumu Seko",
+      "position": "2 DF",
+      "club": "Le Havre",
+      "age": NaN
+    },
+    {
+      "player": "Hiroki It\u014d",
+      "position": "2 DF",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Takehiro Tomiyasu",
+      "position": "2 DF",
+      "club": "Ajax",
+      "age": NaN
+    },
+    {
+      "player": "Tomoki Hayakawa",
+      "position": "1 GK",
+      "club": "Kashima Antlers",
+      "age": NaN
+    },
+    {
+      "player": "Kaish\u016b Sano",
+      "position": "3 MF",
+      "club": "Mainz 05",
+      "age": NaN
+    },
+    {
+      "player": "Junnosuke Suzuki",
+      "position": "2 DF",
+      "club": "Copenhagen",
+      "age": NaN
+    },
+    {
+      "player": "Kento Shiogai",
+      "position": "4 FW",
+      "club": "VfL Wolfsburg",
+      "age": NaN
+    }
+  ],
+  "Jordan": [
+    {
+      "player": "Yazeed Abulaila",
+      "position": "1 GK",
+      "club": "Al-Hussein",
+      "age": NaN
+    },
+    {
+      "player": "Abdallah Al-Fakhouri",
+      "position": "1 GK",
+      "club": "Al-Wehdat",
+      "age": NaN
+    },
+    {
+      "player": "Nour Bani Attiah",
+      "position": "1 GK",
+      "club": "Al-Faisaly",
+      "age": NaN
+    },
+    {
+      "player": "Ahmad Al-Juaidi",
+      "position": "1 GK",
+      "club": "Shabab Al-Ordon",
+      "age": NaN
+    },
+    {
+      "player": "Ihsan Haddad ( captain )",
+      "position": "2 DF",
+      "club": "Al-Hussein",
+      "age": NaN
+    },
+    {
+      "player": "Yazan Al-Arab",
+      "position": "2 DF",
+      "club": "FC Seoul",
+      "age": NaN
+    },
+    {
+      "player": "Abdallah Nasib",
+      "position": "2 DF",
+      "club": "Al-Zawraa",
+      "age": NaN
+    },
+    {
+      "player": "Saed Al-Rosan",
+      "position": "2 DF",
+      "club": "Al-Hussein",
+      "age": NaN
+    },
+    {
+      "player": "Husam Abu Dahab",
+      "position": "2 DF",
+      "club": "Al-Faisaly",
+      "age": NaN
+    },
+    {
+      "player": "Mo Abualnadi",
+      "position": "2 DF",
+      "club": "Selangor",
+      "age": NaN
+    },
+    {
+      "player": "Salim Obaid",
+      "position": "2 DF",
+      "club": "Al-Hussein",
+      "age": NaN
+    },
+    {
+      "player": "Ahmad Assaf",
+      "position": "2 DF",
+      "club": "Al-Hussein",
+      "age": NaN
+    },
+    {
+      "player": "Anas Badawi",
+      "position": "2 DF",
+      "club": "Al-Faisaly",
+      "age": NaN
+    },
+    {
+      "player": "Rajaei Ayed",
+      "position": "3 MF",
+      "club": "Al-Hussein",
+      "age": NaN
+    },
+    {
+      "player": "Noor Al-Rawabdeh",
+      "position": "3 MF",
+      "club": "Selangor",
+      "age": NaN
+    },
+    {
+      "player": "Ibrahim Sadeh",
+      "position": "3 MF",
+      "club": "Al-Karma",
+      "age": NaN
+    },
+    {
+      "player": "Mohammad Abu Hashish",
+      "position": "3 MF",
+      "club": "Al-Karma",
+      "age": NaN
+    },
+    {
+      "player": "Nizar Al-Rashdan",
+      "position": "3 MF",
+      "club": "Qatar SC",
+      "age": NaN
+    },
+    {
+      "player": "Mohannad Abu Taha",
+      "position": "3 MF",
+      "club": "Al-Quwa Al-Jawiya",
+      "age": NaN
+    },
+    {
+      "player": "Amer Jamous",
+      "position": "3 MF",
+      "club": "Al-Zawraa",
+      "age": NaN
+    },
+    {
+      "player": "Mohammad Al-Dawoud",
+      "position": "3 MF",
+      "club": "Al-Wehdat",
+      "age": NaN
+    },
+    {
+      "player": "Yousef Qashi",
+      "position": "3 MF",
+      "club": "Al-Hussein",
+      "age": NaN
+    },
+    {
+      "player": "Mohammad Taha",
+      "position": "3 MF",
+      "club": "Al-Hussein",
+      "age": NaN
+    },
+    {
+      "player": "Musa Al-Taamari",
+      "position": "4 FW",
+      "club": "Rennes",
+      "age": NaN
+    },
+    {
+      "player": "Mahmoud Al-Mardi",
+      "position": "4 FW",
+      "club": "Al-Hussein",
+      "age": NaN
+    },
+    {
+      "player": "Ali Olwan",
+      "position": "4 FW",
+      "club": "Al-Sailiya",
+      "age": NaN
+    },
+    {
+      "player": "Mohammad Abu Zrayq",
+      "position": "4 FW",
+      "club": "Raja Casablanca",
+      "age": NaN
+    },
+    {
+      "player": "Ibrahim Sabra",
+      "position": "4 FW",
+      "club": "Lokomotiva Zagreb",
+      "age": NaN
+    },
+    {
+      "player": "Odeh Al-Fakhouri",
+      "position": "4 FW",
+      "club": "Pyramids",
+      "age": NaN
+    },
+    {
+      "player": "Ali Azaizeh",
+      "position": "4 FW",
+      "club": "Al-Shabab",
+      "age": NaN
+    }
+  ],
+  "Mexico": [
+    {
+      "player": "Guillermo Ochoa",
+      "position": "1 GK",
+      "club": "AEL Limassol",
+      "age": NaN
+    },
+    {
+      "player": "Ra\u00fal Rangel",
+      "position": "1 GK",
+      "club": "Guadalajara",
+      "age": NaN
+    },
+    {
+      "player": "Carlos Acevedo",
+      "position": "1 GK",
+      "club": "Santos Laguna",
+      "age": NaN
+    },
+    {
+      "player": "Jos\u00e9 Antonio Rodr\u00edguez",
+      "position": "1 GK",
+      "club": "Tijuana",
+      "age": NaN
+    },
+    {
+      "player": "Carlos Moreno",
+      "position": "1 GK",
+      "club": "Pachuca",
+      "age": NaN
+    },
+    {
+      "player": "Alex Padilla",
+      "position": "1 GK",
+      "club": "Athletic Bilbao",
+      "age": NaN
+    },
+    {
+      "player": "Jes\u00fas Gallardo",
+      "position": "2 DF",
+      "club": "Toluca",
+      "age": NaN
+    },
+    {
+      "player": "C\u00e9sar Montes",
+      "position": "2 DF",
+      "club": "Lokomotiv Moscow",
+      "age": NaN
+    },
+    {
+      "player": "Jorge S\u00e1nchez",
+      "position": "2 DF",
+      "club": "PAOK",
+      "age": NaN
+    },
+    {
+      "player": "Johan V\u00e1squez",
+      "position": "2 DF",
+      "club": "Genoa",
+      "age": NaN
+    },
+    {
+      "player": "Israel Reyes",
+      "position": "2 DF",
+      "club": "Am\u00e9rica",
+      "age": NaN
+    },
+    {
+      "player": "Jes\u00fas Alberto Angulo",
+      "position": "2 DF",
+      "club": "UANL",
+      "age": NaN
+    },
+    {
+      "player": "Juli\u00e1n Araujo",
+      "position": "2 DF",
+      "club": "Celtic",
+      "age": NaN
+    },
+    {
+      "player": "Mateo Ch\u00e1vez",
+      "position": "2 DF",
+      "club": "AZ",
+      "age": NaN
+    },
+    {
+      "player": "V\u00edctor Guzm\u00e1n",
+      "position": "2 DF",
+      "club": "Monterrey",
+      "age": NaN
+    },
+    {
+      "player": "Richard Ledezma",
+      "position": "2 DF",
+      "club": "Guadalajara",
+      "age": NaN
+    },
+    {
+      "player": "Everardo L\u00f3pez",
+      "position": "2 DF",
+      "club": "Toluca",
+      "age": NaN
+    },
+    {
+      "player": "Alejandro G\u00f3mez",
+      "position": "2 DF",
+      "club": "Tijuana",
+      "age": NaN
+    },
+    {
+      "player": "Bryan Gonz\u00e1lez",
+      "position": "2 DF",
+      "club": "Guadalajara",
+      "age": NaN
+    },
+    {
+      "player": "Ram\u00f3n Ju\u00e1rez",
+      "position": "2 DF",
+      "club": "Am\u00e9rica",
+      "age": NaN
+    },
+    {
+      "player": "Edson \u00c1lvarez ( captain )",
+      "position": "3 MF",
+      "club": "Fenerbah\u00e7e",
+      "age": NaN
+    },
+    {
+      "player": "Orbel\u00edn Pineda",
+      "position": "3 MF",
+      "club": "AEK Athens",
+      "age": NaN
+    },
+    {
+      "player": "Carlos Rodr\u00edguez",
+      "position": "3 MF",
+      "club": "Cruz Azul",
+      "age": NaN
+    },
+    {
+      "player": "Roberto Alvarado",
+      "position": "3 MF",
+      "club": "Guadalajara",
+      "age": NaN
+    },
+    {
+      "player": "Luis Romo",
+      "position": "3 MF",
+      "club": "Guadalajara",
+      "age": NaN
+    },
+    {
+      "player": "Luis Ch\u00e1vez",
+      "position": "3 MF",
+      "club": "Dynamo Moscow",
+      "age": NaN
+    },
+    {
+      "player": "\u00c9rick S\u00e1nchez",
+      "position": "3 MF",
+      "club": "Am\u00e9rica",
+      "age": NaN
+    },
+    {
+      "player": "Diego Lainez",
+      "position": "3 MF",
+      "club": "UANL",
+      "age": NaN
+    },
+    {
+      "player": "\u00c9rik Lira",
+      "position": "3 MF",
+      "club": "Cruz Azul",
+      "age": NaN
+    },
+    {
+      "player": "Marcel Ruiz",
+      "position": "3 MF",
+      "club": "Toluca",
+      "age": NaN
+    },
+    {
+      "player": "Efra\u00edn \u00c1lvarez",
+      "position": "3 MF",
+      "club": "Guadalajara",
+      "age": NaN
+    },
+    {
+      "player": "Brian Guti\u00e9rrez",
+      "position": "3 MF",
+      "club": "Guadalajara",
+      "age": NaN
+    },
+    {
+      "player": "Gilberto Mora",
+      "position": "3 MF",
+      "club": "Tijuana",
+      "age": NaN
+    },
+    {
+      "player": "Alexis Guti\u00e9rrez",
+      "position": "3 MF",
+      "club": "Am\u00e9rica",
+      "age": NaN
+    },
+    {
+      "player": "Obed Vargas",
+      "position": "3 MF",
+      "club": "Atl\u00e9tico Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Jes\u00fas Ricardo Angulo",
+      "position": "3 MF",
+      "club": "Toluca",
+      "age": NaN
+    },
+    {
+      "player": "Kevin Casta\u00f1eda",
+      "position": "3 MF",
+      "club": "Tijuana",
+      "age": NaN
+    },
+    {
+      "player": "Jord\u00e1n Carrillo",
+      "position": "3 MF",
+      "club": "UNAM",
+      "age": NaN
+    },
+    {
+      "player": "\u00c1lvaro Fidalgo",
+      "position": "3 MF",
+      "club": "Real Betis",
+      "age": NaN
+    },
+    {
+      "player": "Jorge Ruvalcaba",
+      "position": "3 MF",
+      "club": "New York Red Bulls",
+      "age": NaN
+    },
+    {
+      "player": "Alex\u00e9i Dom\u00ednguez",
+      "position": "3 MF",
+      "club": "Pachuca",
+      "age": NaN
+    },
+    {
+      "player": "Jeremy M\u00e1rquez",
+      "position": "3 MF",
+      "club": "Cruz Azul",
+      "age": NaN
+    },
+    {
+      "player": "El\u00edas Montiel",
+      "position": "3 MF",
+      "club": "Pachuca",
+      "age": NaN
+    },
+    {
+      "player": "Ra\u00fal Jim\u00e9nez",
+      "position": "4 FW",
+      "club": "Fulham",
+      "age": NaN
+    },
+    {
+      "player": "Alexis Vega",
+      "position": "4 FW",
+      "club": "Toluca",
+      "age": NaN
+    },
+    {
+      "player": "Santiago Gim\u00e9nez",
+      "position": "4 FW",
+      "club": "Milan",
+      "age": NaN
+    },
+    {
+      "player": "C\u00e9sar Huerta",
+      "position": "4 FW",
+      "club": "Anderlecht",
+      "age": NaN
+    },
+    {
+      "player": "Juli\u00e1n Qui\u00f1ones",
+      "position": "4 FW",
+      "club": "Al-Qadsiah",
+      "age": NaN
+    },
+    {
+      "player": "Guillermo Mart\u00ednez",
+      "position": "4 FW",
+      "club": "UNAM",
+      "age": NaN
+    },
+    {
+      "player": "Germ\u00e1n Berterame",
+      "position": "4 FW",
+      "club": "Inter Miami CF",
+      "age": NaN
+    },
+    {
+      "player": "Armando Gonz\u00e1lez",
+      "position": "4 FW",
+      "club": "Guadalajara",
+      "age": NaN
+    }
+  ],
+  "Morocco": [
+    {
+      "player": "Yassine Bounou",
+      "position": "1 GK",
+      "club": "Al-Hilal",
+      "age": NaN
+    },
+    {
+      "player": "Munir Mohamedi",
+      "position": "1 GK",
+      "club": "RS Berkane",
+      "age": NaN
+    },
+    {
+      "player": "Ahmed Reda Tagnaouti",
+      "position": "1 GK",
+      "club": "AS FAR",
+      "age": NaN
+    },
+    {
+      "player": "Achraf Hakimi ( captain )",
+      "position": "2 DF",
+      "club": "Paris Saint-Germain",
+      "age": NaN
+    },
+    {
+      "player": "Nayef Aguerd",
+      "position": "2 DF",
+      "club": "Marseille",
+      "age": NaN
+    },
+    {
+      "player": "Noussair Mazraoui",
+      "position": "2 DF",
+      "club": "Manchester United",
+      "age": NaN
+    },
+    {
+      "player": "Youssef Belammari",
+      "position": "2 DF",
+      "club": "Al Ahly",
+      "age": NaN
+    },
+    {
+      "player": "Anass Salah-Eddine",
+      "position": "2 DF",
+      "club": "PSV Eindhoven",
+      "age": NaN
+    },
+    {
+      "player": "Chadi Riad",
+      "position": "2 DF",
+      "club": "Crystal Palace",
+      "age": NaN
+    },
+    {
+      "player": "Issa Diop",
+      "position": "2 DF",
+      "club": "Fulham",
+      "age": NaN
+    },
+    {
+      "player": "Zakaria El Ouahdi",
+      "position": "2 DF",
+      "club": "Genk",
+      "age": NaN
+    },
+    {
+      "player": "Redouane Halhal",
+      "position": "2 DF",
+      "club": "Mechelen",
+      "age": NaN
+    },
+    {
+      "player": "Sofyan Amrabat",
+      "position": "3 MF",
+      "club": "Real Betis",
+      "age": NaN
+    },
+    {
+      "player": "Azzedine Ounahi",
+      "position": "3 MF",
+      "club": "Girona",
+      "age": NaN
+    },
+    {
+      "player": "Bilal El Khannouss",
+      "position": "3 MF",
+      "club": "VfB Stuttgart",
+      "age": NaN
+    },
+    {
+      "player": "Ismael Saibari",
+      "position": "3 MF",
+      "club": "PSV Eindhoven",
+      "age": NaN
+    },
+    {
+      "player": "Neil El Aynaoui",
+      "position": "3 MF",
+      "club": "Roma",
+      "age": NaN
+    },
+    {
+      "player": "Samir El Mourabet",
+      "position": "3 MF",
+      "club": "Strasbourg",
+      "age": NaN
+    },
+    {
+      "player": "Ayyoub Bouaddi",
+      "position": "3 MF",
+      "club": "Lille",
+      "age": NaN
+    },
+    {
+      "player": "Ayoub El Kaabi",
+      "position": "4 FW",
+      "club": "Olympiacos",
+      "age": NaN
+    },
+    {
+      "player": "Abde Ezzalzouli",
+      "position": "4 FW",
+      "club": "Real Betis",
+      "age": NaN
+    },
+    {
+      "player": "Soufiane Rahimi",
+      "position": "4 FW",
+      "club": "Al Ain",
+      "age": NaN
+    },
+    {
+      "player": "Brahim D\u00edaz",
+      "position": "4 FW",
+      "club": "Real Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Chemsdine Talbi",
+      "position": "4 FW",
+      "club": "Sunderland",
+      "age": NaN
+    },
+    {
+      "player": "Gessime Yassine",
+      "position": "4 FW",
+      "club": "Strasbourg",
+      "age": NaN
+    },
+    {
+      "player": "Ayoube Amaimouni",
+      "position": "4 FW",
+      "club": "Eintracht Frankfurt",
+      "age": NaN
+    }
+  ],
+  "Netherlands": [
+    {
+      "player": "Bart Verbruggen",
+      "position": "1 GK",
+      "club": "Brighton & Hove Albion",
+      "age": NaN
+    },
+    {
+      "player": "Mark Flekken",
+      "position": "1 GK",
+      "club": "Bayer Leverkusen",
+      "age": NaN
+    },
+    {
+      "player": "Robin Roefs",
+      "position": "1 GK",
+      "club": "Sunderland",
+      "age": NaN
+    },
+    {
+      "player": "Virgil van Dijk ( captain )",
+      "position": "2 DF",
+      "club": "Liverpool",
+      "age": NaN
+    },
+    {
+      "player": "Denzel Dumfries",
+      "position": "2 DF",
+      "club": "Inter Milan",
+      "age": NaN
+    },
+    {
+      "player": "Nathan Ak\u00e9",
+      "position": "2 DF",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "Jurri\u00ebn Timber",
+      "position": "2 DF",
+      "club": "Arsenal",
+      "age": NaN
+    },
+    {
+      "player": "Micky van de Ven",
+      "position": "2 DF",
+      "club": "Tottenham Hotspur",
+      "age": NaN
+    },
+    {
+      "player": "Mats Wieffer",
+      "position": "2 DF",
+      "club": "Brighton & Hove Albion",
+      "age": NaN
+    },
+    {
+      "player": "Jan Paul van Hecke",
+      "position": "2 DF",
+      "club": "Brighton & Hove Albion",
+      "age": NaN
+    },
+    {
+      "player": "Jorrel Hato",
+      "position": "2 DF",
+      "club": "Chelsea",
+      "age": NaN
+    },
+    {
+      "player": "Frenkie de Jong",
+      "position": "3 MF",
+      "club": "Barcelona",
+      "age": NaN
+    },
+    {
+      "player": "Marten de Roon",
+      "position": "3 MF",
+      "club": "Atalanta",
+      "age": NaN
+    },
+    {
+      "player": "Tijjani Reijnders",
+      "position": "3 MF",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "Teun Koopmeiners",
+      "position": "3 MF",
+      "club": "Juventus",
+      "age": NaN
+    },
+    {
+      "player": "Ryan Gravenberch",
+      "position": "3 MF",
+      "club": "Liverpool",
+      "age": NaN
+    },
+    {
+      "player": "Justin Kluivert",
+      "position": "3 MF",
+      "club": "Bournemouth",
+      "age": NaN
+    },
+    {
+      "player": "Quinten Timber",
+      "position": "3 MF",
+      "club": "Marseille",
+      "age": NaN
+    },
+    {
+      "player": "Guus Til",
+      "position": "3 MF",
+      "club": "PSV Eindhoven",
+      "age": NaN
+    },
+    {
+      "player": "Memphis Depay",
+      "position": "4 FW",
+      "club": "Corinthians",
+      "age": NaN
+    },
+    {
+      "player": "Wout Weghorst",
+      "position": "4 FW",
+      "club": "Ajax",
+      "age": NaN
+    },
+    {
+      "player": "Donyell Malen",
+      "position": "4 FW",
+      "club": "Roma",
+      "age": NaN
+    },
+    {
+      "player": "Cody Gakpo",
+      "position": "4 FW",
+      "club": "Liverpool",
+      "age": NaN
+    },
+    {
+      "player": "Noa Lang",
+      "position": "4 FW",
+      "club": "Galatasaray",
+      "age": NaN
+    },
+    {
+      "player": "Brian Brobbey",
+      "position": "4 FW",
+      "club": "Sunderland",
+      "age": NaN
+    },
+    {
+      "player": "Crysencio Summerville",
+      "position": "4 FW",
+      "club": "West Ham United",
+      "age": NaN
+    }
+  ],
+  "New Zealand": [
+    {
+      "player": "Max Crocombe",
+      "position": "1 GK",
+      "club": "Millwall",
+      "age": NaN
+    },
+    {
+      "player": "Tim Payne",
+      "position": "2 DF",
+      "club": "Wellington Phoenix",
+      "age": NaN
+    },
+    {
+      "player": "Francis de Vries",
+      "position": "2 DF",
+      "club": "Auckland FC",
+      "age": NaN
+    },
+    {
+      "player": "Tyler Bindon",
+      "position": "2 DF",
+      "club": "Sheffield United",
+      "age": NaN
+    },
+    {
+      "player": "Michael Boxall",
+      "position": "2 DF",
+      "club": "Minnesota United FC",
+      "age": NaN
+    },
+    {
+      "player": "Joe Bell",
+      "position": "3 MF",
+      "club": "Viking",
+      "age": NaN
+    },
+    {
+      "player": "Matthew Garbett",
+      "position": "3 MF",
+      "club": "Peterborough United",
+      "age": NaN
+    },
+    {
+      "player": "Marko Stameni\u0107",
+      "position": "3 MF",
+      "club": "Swansea City",
+      "age": NaN
+    },
+    {
+      "player": "Chris Wood ( captain )",
+      "position": "4 FW",
+      "club": "Nottingham Forest",
+      "age": NaN
+    },
+    {
+      "player": "Sarpreet Singh",
+      "position": "3 MF",
+      "club": "Wellington Phoenix",
+      "age": NaN
+    },
+    {
+      "player": "Elijah Just",
+      "position": "3 MF",
+      "club": "Motherwell",
+      "age": NaN
+    },
+    {
+      "player": "Alex Paulsen",
+      "position": "1 GK",
+      "club": "Lechia Gda\u0144sk",
+      "age": NaN
+    },
+    {
+      "player": "Liberato Cacace",
+      "position": "2 DF",
+      "club": "Wrexham",
+      "age": NaN
+    },
+    {
+      "player": "Alex Rufer",
+      "position": "3 MF",
+      "club": "Wellington Phoenix",
+      "age": NaN
+    },
+    {
+      "player": "Nando Pijnaker",
+      "position": "2 DF",
+      "club": "Auckland FC",
+      "age": NaN
+    },
+    {
+      "player": "Finn Surman",
+      "position": "2 DF",
+      "club": "Portland Timbers",
+      "age": NaN
+    },
+    {
+      "player": "Kosta Barbarouses",
+      "position": "4 FW",
+      "club": "Western Sydney Wanderers",
+      "age": NaN
+    },
+    {
+      "player": "Ben Waine",
+      "position": "4 FW",
+      "club": "Port Vale",
+      "age": NaN
+    },
+    {
+      "player": "Ben Old",
+      "position": "3 MF",
+      "club": "Saint-\u00c9tienne",
+      "age": NaN
+    },
+    {
+      "player": "Callum McCowatt",
+      "position": "3 MF",
+      "club": "Silkeborg",
+      "age": NaN
+    },
+    {
+      "player": "Jesse Randall",
+      "position": "4 FW",
+      "club": "Auckland FC",
+      "age": NaN
+    },
+    {
+      "player": "Michael Woud",
+      "position": "1 GK",
+      "club": "Auckland FC",
+      "age": NaN
+    },
+    {
+      "player": "Ryan Thomas",
+      "position": "3 MF",
+      "club": "PEC Zwolle",
+      "age": NaN
+    },
+    {
+      "player": "Callan Elliot",
+      "position": "2 DF",
+      "club": "Auckland FC",
+      "age": NaN
+    },
+    {
+      "player": "Lachlan Bayliss",
+      "position": "3 MF",
+      "club": "Newcastle Jets",
+      "age": NaN
+    },
+    {
+      "player": "Tommy Smith",
+      "position": "2 DF",
+      "club": "Braintree Town",
+      "age": NaN
+    }
+  ],
+  "Norway": [
+    {
+      "player": "\u00d8rjan Nyland",
+      "position": "1 GK",
+      "club": "Sevilla",
+      "age": NaN
+    },
+    {
+      "player": "Morten Thorsby",
+      "position": "3 MF",
+      "club": "Cremonese",
+      "age": NaN
+    },
+    {
+      "player": "Kristoffer Ajer",
+      "position": "2 DF",
+      "club": "Brentford",
+      "age": NaN
+    },
+    {
+      "player": "Leo \u00d8stig\u00e5rd",
+      "position": "2 DF",
+      "club": "Genoa",
+      "age": NaN
+    },
+    {
+      "player": "David M\u00f8ller Wolfe",
+      "position": "2 DF",
+      "club": "Wolverhampton Wanderers",
+      "age": NaN
+    },
+    {
+      "player": "Patrick Berg",
+      "position": "3 MF",
+      "club": "Bod\u00f8/Glimt",
+      "age": NaN
+    },
+    {
+      "player": "Alexander S\u00f8rloth",
+      "position": "4 FW",
+      "club": "Atl\u00e9tico Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Sander Berge",
+      "position": "3 MF",
+      "club": "Fulham",
+      "age": NaN
+    },
+    {
+      "player": "Erling Haaland",
+      "position": "4 FW",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "Martin \u00d8degaard ( captain )",
+      "position": "3 MF",
+      "club": "Arsenal",
+      "age": NaN
+    },
+    {
+      "player": "J\u00f8rgen Strand Larsen",
+      "position": "4 FW",
+      "club": "Crystal Palace",
+      "age": NaN
+    },
+    {
+      "player": "Sander Tangvik",
+      "position": "1 GK",
+      "club": "Hamburger SV",
+      "age": NaN
+    },
+    {
+      "player": "Egil Selvik",
+      "position": "1 GK",
+      "club": "Watford",
+      "age": NaN
+    },
+    {
+      "player": "Fredrik Aursnes",
+      "position": "3 MF",
+      "club": "Benfica",
+      "age": NaN
+    },
+    {
+      "player": "Fredrik Andr\u00e9 Bj\u00f8rkan",
+      "position": "2 DF",
+      "club": "Bod\u00f8/Glimt",
+      "age": NaN
+    },
+    {
+      "player": "Marcus Holmgren Pedersen",
+      "position": "2 DF",
+      "club": "Torino",
+      "age": NaN
+    },
+    {
+      "player": "Torbj\u00f8rn Heggem",
+      "position": "2 DF",
+      "club": "Bologna",
+      "age": NaN
+    },
+    {
+      "player": "Kristian Thorstvedt",
+      "position": "3 MF",
+      "club": "Sassuolo",
+      "age": NaN
+    },
+    {
+      "player": "Thelo Aasgaard",
+      "position": "3 MF",
+      "club": "Rangers",
+      "age": NaN
+    },
+    {
+      "player": "Antonio Nusa",
+      "position": "3 MF",
+      "club": "RB Leipzig",
+      "age": NaN
+    },
+    {
+      "player": "Andreas Schjelderup",
+      "position": "3 MF",
+      "club": "Benfica",
+      "age": NaN
+    },
+    {
+      "player": "Oscar Bobb",
+      "position": "3 MF",
+      "club": "Fulham",
+      "age": NaN
+    },
+    {
+      "player": "Jens Petter Hauge",
+      "position": "3 MF",
+      "club": "Bod\u00f8/Glimt",
+      "age": NaN
+    },
+    {
+      "player": "Sondre Lang\u00e5s",
+      "position": "2 DF",
+      "club": "Derby County",
+      "age": NaN
+    },
+    {
+      "player": "Henrik Falchener",
+      "position": "2 DF",
+      "club": "Viking",
+      "age": NaN
+    },
+    {
+      "player": "Julian Ryerson",
+      "position": "2 DF",
+      "club": "Borussia Dortmund",
+      "age": NaN
+    }
+  ],
+  "Panama": [
+    {
+      "player": "Luis Mej\u00eda",
+      "position": "1 GK",
+      "club": "Nacional",
+      "age": NaN
+    },
+    {
+      "player": "Orlando Mosquera",
+      "position": "1 GK",
+      "club": "Al-Fayha",
+      "age": NaN
+    },
+    {
+      "player": "C\u00e9sar Samudio",
+      "position": "1 GK",
+      "club": "Marath\u00f3n",
+      "age": NaN
+    },
+    {
+      "player": "Eric Davis",
+      "position": "2 DF",
+      "club": "Plaza Amador",
+      "age": NaN
+    },
+    {
+      "player": "Fidel Escobar",
+      "position": "2 DF",
+      "club": "Saprissa",
+      "age": NaN
+    },
+    {
+      "player": "Michael Amir Murillo",
+      "position": "2 DF",
+      "club": "Be\u015fikta\u015f",
+      "age": NaN
+    },
+    {
+      "player": "Roderick Miller",
+      "position": "2 DF",
+      "club": "Turan Tovuz",
+      "age": NaN
+    },
+    {
+      "player": "Andr\u00e9s Andrade",
+      "position": "2 DF",
+      "club": "LASK",
+      "age": NaN
+    },
+    {
+      "player": "C\u00e9sar Blackman",
+      "position": "2 DF",
+      "club": "Slovan Bratislava",
+      "age": NaN
+    },
+    {
+      "player": "Jos\u00e9 C\u00f3rdoba",
+      "position": "2 DF",
+      "club": "Norwich City",
+      "age": NaN
+    },
+    {
+      "player": "Jiovany Ramos",
+      "position": "2 DF",
+      "club": "Puerto Cabello",
+      "age": NaN
+    },
+    {
+      "player": "Jorge Guti\u00e9rrez",
+      "position": "2 DF",
+      "club": "Deportivo La Guaira",
+      "age": NaN
+    },
+    {
+      "player": "Edgardo Fari\u00f1a",
+      "position": "2 DF",
+      "club": "Pari Nizhny Novgorod",
+      "age": NaN
+    },
+    {
+      "player": "An\u00edbal Godoy ( captain )",
+      "position": "3 MF",
+      "club": "San Diego FC",
+      "age": NaN
+    },
+    {
+      "player": "Alberto Quintero",
+      "position": "3 MF",
+      "club": "Plaza Amador",
+      "age": NaN
+    },
+    {
+      "player": "Yoel B\u00e1rcenas",
+      "position": "3 MF",
+      "club": "Mazatl\u00e1n",
+      "age": NaN
+    },
+    {
+      "player": "Adalberto Carrasquilla",
+      "position": "3 MF",
+      "club": "UNAM",
+      "age": NaN
+    },
+    {
+      "player": "Jos\u00e9 Luis Rodr\u00edguez",
+      "position": "3 MF",
+      "club": "Ju\u00e1rez",
+      "age": NaN
+    },
+    {
+      "player": "Cristian Mart\u00ednez",
+      "position": "3 MF",
+      "club": "Ironi Kiryat Shmona",
+      "age": NaN
+    },
+    {
+      "player": "C\u00e9sar Yanis",
+      "position": "3 MF",
+      "club": "Cobresal",
+      "age": NaN
+    },
+    {
+      "player": "Carlos Harvey",
+      "position": "3 MF",
+      "club": "Minnesota United FC",
+      "age": NaN
+    },
+    {
+      "player": "Azarias Londo\u00f1o",
+      "position": "3 MF",
+      "club": "Universidad Cat\u00f3lica",
+      "age": NaN
+    },
+    {
+      "player": "Jos\u00e9 Fajardo",
+      "position": "4 FW",
+      "club": "Universidad Cat\u00f3lica",
+      "age": NaN
+    },
+    {
+      "player": "Ismael D\u00edaz",
+      "position": "4 FW",
+      "club": "Le\u00f3n",
+      "age": NaN
+    },
+    {
+      "player": "Cecilio Waterman",
+      "position": "4 FW",
+      "club": "Universidad de Concepci\u00f3n",
+      "age": NaN
+    },
+    {
+      "player": "Tom\u00e1s Rodr\u00edguez",
+      "position": "4 FW",
+      "club": "Saprissa",
+      "age": NaN
+    }
+  ],
+  "Paraguay": [
+    {
+      "player": "Gatito Fern\u00e1ndez",
+      "position": "1 GK",
+      "club": "Cerro Porte\u00f1o",
+      "age": NaN
+    },
+    {
+      "player": "Carlos Coronel",
+      "position": "1 GK",
+      "club": "S\u00e3o Paulo",
+      "age": NaN
+    },
+    {
+      "player": "Orlando Gill",
+      "position": "1 GK",
+      "club": "San Lorenzo",
+      "age": NaN
+    },
+    {
+      "player": "Santiago Rojas",
+      "position": "1 GK",
+      "club": "Nacional",
+      "age": NaN
+    },
+    {
+      "player": "Juan Esp\u00ednola",
+      "position": "1 GK",
+      "club": "Barracas Central",
+      "age": NaN
+    },
+    {
+      "player": "Gast\u00f3n Olveira",
+      "position": "1 GK",
+      "club": "Olimpia",
+      "age": NaN
+    },
+    {
+      "player": "Gustavo G\u00f3mez ( captain )",
+      "position": "2 DF",
+      "club": "Palmeiras",
+      "age": NaN
+    },
+    {
+      "player": "J\u00fanior Alonso",
+      "position": "2 DF",
+      "club": "Atl\u00e9tico Mineiro",
+      "age": NaN
+    },
+    {
+      "player": "Fabi\u00e1n Balbuena",
+      "position": "2 DF",
+      "club": "Gr\u00eamio",
+      "age": NaN
+    },
+    {
+      "player": "Omar Alderete",
+      "position": "2 DF",
+      "club": "Sunderland",
+      "age": NaN
+    },
+    {
+      "player": "Juan Jos\u00e9 C\u00e1ceres",
+      "position": "2 DF",
+      "club": "Dynamo Moscow",
+      "age": NaN
+    },
+    {
+      "player": "Blas Riveros",
+      "position": "2 DF",
+      "club": "Cerro Porte\u00f1o",
+      "age": NaN
+    },
+    {
+      "player": "Gustavo Vel\u00e1zquez",
+      "position": "2 DF",
+      "club": "Cerro Porte\u00f1o",
+      "age": NaN
+    },
+    {
+      "player": "Alan Ben\u00edtez",
+      "position": "2 DF",
+      "club": "Libertad",
+      "age": NaN
+    },
+    {
+      "player": "Agust\u00edn S\u00e1ndez",
+      "position": "2 DF",
+      "club": "Rosario Central",
+      "age": NaN
+    },
+    {
+      "player": "Mateo Gamarra",
+      "position": "2 DF",
+      "club": "Cruzeiro",
+      "age": NaN
+    },
+    {
+      "player": "Sa\u00fal Salcedo",
+      "position": "2 DF",
+      "club": "Newell's Old Boys",
+      "age": NaN
+    },
+    {
+      "player": "Jos\u00e9 Canale",
+      "position": "2 DF",
+      "club": "Lan\u00fas",
+      "age": NaN
+    },
+    {
+      "player": "Diego Le\u00f3n",
+      "position": "2 DF",
+      "club": "Manchester United",
+      "age": NaN
+    },
+    {
+      "player": "Alexandro Maidana",
+      "position": "2 DF",
+      "club": "Talleres",
+      "age": NaN
+    },
+    {
+      "player": "Alcides Ben\u00edtez",
+      "position": "2 DF",
+      "club": "Belgrano",
+      "age": NaN
+    },
+    {
+      "player": "Ronaldo Dejes\u00fas",
+      "position": "2 DF",
+      "club": "Lan\u00fas",
+      "age": NaN
+    },
+    {
+      "player": "Alan N\u00fa\u00f1ez",
+      "position": "2 DF",
+      "club": "Nacional",
+      "age": NaN
+    },
+    {
+      "player": "Miguel Almir\u00f3n",
+      "position": "3 MF",
+      "club": "Atlanta United FC",
+      "age": NaN
+    },
+    {
+      "player": "Math\u00edas Villasanti",
+      "position": "3 MF",
+      "club": "Gr\u00eamio",
+      "age": NaN
+    },
+    {
+      "player": "Kaku",
+      "position": "3 MF",
+      "club": "Al Ain",
+      "age": NaN
+    },
+    {
+      "player": "Andr\u00e9s Cubas",
+      "position": "3 MF",
+      "club": "Vancouver Whitecaps FC",
+      "age": NaN
+    },
+    {
+      "player": "Ram\u00f3n Sosa",
+      "position": "3 MF",
+      "club": "Palmeiras",
+      "age": NaN
+    },
+    {
+      "player": "Diego G\u00f3mez",
+      "position": "3 MF",
+      "club": "Brighton & Hove Albion",
+      "age": NaN
+    },
+    {
+      "player": "Dami\u00e1n Bobadilla",
+      "position": "3 MF",
+      "club": "S\u00e3o Paulo",
+      "age": NaN
+    },
+    {
+      "player": "Braian Ojeda",
+      "position": "3 MF",
+      "club": "Orlando City SC",
+      "age": NaN
+    },
+    {
+      "player": "Mat\u00edas Galarza",
+      "position": "3 MF",
+      "club": "Atlanta United FC",
+      "age": NaN
+    },
+    {
+      "player": "Robert Piris Da Motta",
+      "position": "3 MF",
+      "club": "Cerro Porte\u00f1o",
+      "age": NaN
+    },
+    {
+      "player": "\u00c1lvaro Campuzano",
+      "position": "3 MF",
+      "club": "Libertad",
+      "age": NaN
+    },
+    {
+      "player": "Diego Gonz\u00e1lez",
+      "position": "3 MF",
+      "club": "Atlas",
+      "age": NaN
+    },
+    {
+      "player": "Hugo Cuenca",
+      "position": "3 MF",
+      "club": "Burgos",
+      "age": NaN
+    },
+    {
+      "player": "Maur\u00edcio",
+      "position": "3 MF",
+      "club": "Palmeiras",
+      "age": NaN
+    },
+    {
+      "player": "Lucas Romero",
+      "position": "3 MF",
+      "club": "Universidad de Chile",
+      "age": NaN
+    },
+    {
+      "player": "Enso Gonz\u00e1lez",
+      "position": "3 MF",
+      "club": "Wolverhampton Wanderers",
+      "age": NaN
+    },
+    {
+      "player": "Rub\u00e9n Lezcano",
+      "position": "3 MF",
+      "club": "Olimpia",
+      "age": NaN
+    },
+    {
+      "player": "\u00d3scar Romero",
+      "position": "4 FW",
+      "club": "Hurac\u00e1n",
+      "age": NaN
+    },
+    {
+      "player": "\u00c1ngel Romero",
+      "position": "4 FW",
+      "club": "Boca Juniors",
+      "age": NaN
+    },
+    {
+      "player": "Antonio Sanabria",
+      "position": "4 FW",
+      "club": "Cremonese",
+      "age": NaN
+    },
+    {
+      "player": "Julio Enciso",
+      "position": "4 FW",
+      "club": "Strasbourg",
+      "age": NaN
+    },
+    {
+      "player": "Gabriel \u00c1valos",
+      "position": "4 FW",
+      "club": "Independiente",
+      "age": NaN
+    },
+    {
+      "player": "Carlos Gonz\u00e1lez",
+      "position": "4 FW",
+      "club": "Independiente del Valle",
+      "age": NaN
+    },
+    {
+      "player": "\u00c1lex Arce",
+      "position": "4 FW",
+      "club": "Independiente Rivadavia",
+      "age": NaN
+    },
+    {
+      "player": "Adam Bareiro",
+      "position": "4 FW",
+      "club": "Boca Juniors",
+      "age": NaN
+    },
+    {
+      "player": "Lorenzo Melgarejo",
+      "position": "4 FW",
+      "club": "Libertad",
+      "age": NaN
+    },
+    {
+      "player": "Isidro Pitta",
+      "position": "4 FW",
+      "club": "Red Bull Bragantino",
+      "age": NaN
+    },
+    {
+      "player": "Ronaldo Mart\u00ednez",
+      "position": "4 FW",
+      "club": "Talleres",
+      "age": NaN
+    },
+    {
+      "player": "Gustavo Caballero",
+      "position": "4 FW",
+      "club": "Portsmouth",
+      "age": NaN
+    },
+    {
+      "player": "Robert Morales",
+      "position": "4 FW",
+      "club": "UNAM",
+      "age": NaN
+    },
+    {
+      "player": "Adri\u00e1n Alcaraz",
+      "position": "4 FW",
+      "club": "Olimpia",
+      "age": NaN
+    },
+    {
+      "player": "Rodney Redes",
+      "position": "4 FW",
+      "club": "LDU Quito",
+      "age": NaN
+    }
+  ],
+  "Portugal": [
+    {
+      "player": "Diogo Costa",
+      "position": "1 GK",
+      "club": "Porto",
+      "age": NaN
+    },
+    {
+      "player": "Jos\u00e9 S\u00e1",
+      "position": "1 GK",
+      "club": "Wolverhampton Wanderers",
+      "age": NaN
+    },
+    {
+      "player": "Rui Silva",
+      "position": "1 GK",
+      "club": "Sporting CP",
+      "age": NaN
+    },
+    {
+      "player": "R\u00faben Dias",
+      "position": "2 DF",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "Jo\u00e3o Cancelo",
+      "position": "2 DF",
+      "club": "Barcelona",
+      "age": NaN
+    },
+    {
+      "player": "N\u00e9lson Semedo",
+      "position": "2 DF",
+      "club": "Fenerbah\u00e7e",
+      "age": NaN
+    },
+    {
+      "player": "Nuno Mendes",
+      "position": "2 DF",
+      "club": "Paris Saint-Germain",
+      "age": NaN
+    },
+    {
+      "player": "Diogo Dalot",
+      "position": "2 DF",
+      "club": "Manchester United",
+      "age": NaN
+    },
+    {
+      "player": "Gon\u00e7alo In\u00e1cio",
+      "position": "2 DF",
+      "club": "Sporting CP",
+      "age": NaN
+    },
+    {
+      "player": "Matheus Nunes",
+      "position": "2 DF",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "Renato Veiga",
+      "position": "2 DF",
+      "club": "Villarreal",
+      "age": NaN
+    },
+    {
+      "player": "Tom\u00e1s Ara\u00fajo",
+      "position": "2 DF",
+      "club": "Benfica",
+      "age": NaN
+    },
+    {
+      "player": "Bernardo Silva",
+      "position": "3 MF",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "Bruno Fernandes",
+      "position": "3 MF",
+      "club": "Manchester United",
+      "age": NaN
+    },
+    {
+      "player": "R\u00faben Neves",
+      "position": "3 MF",
+      "club": "Al-Hilal",
+      "age": NaN
+    },
+    {
+      "player": "Vitinha",
+      "position": "3 MF",
+      "club": "Paris Saint-Germain",
+      "age": NaN
+    },
+    {
+      "player": "Jo\u00e3o Neves",
+      "position": "3 MF",
+      "club": "Paris Saint-Germain",
+      "age": NaN
+    },
+    {
+      "player": "Sam\u00fa Costa",
+      "position": "3 MF",
+      "club": "Mallorca",
+      "age": NaN
+    },
+    {
+      "player": "Cristiano Ronaldo ( captain )",
+      "position": "4 FW",
+      "club": "Al-Nassr",
+      "age": NaN
+    },
+    {
+      "player": "Jo\u00e3o F\u00e9lix",
+      "position": "4 FW",
+      "club": "Al-Nassr",
+      "age": NaN
+    },
+    {
+      "player": "Rafael Le\u00e3o",
+      "position": "4 FW",
+      "club": "Milan",
+      "age": NaN
+    },
+    {
+      "player": "Gon\u00e7alo Guedes",
+      "position": "4 FW",
+      "club": "Real Sociedad",
+      "age": NaN
+    },
+    {
+      "player": "Gon\u00e7alo Ramos",
+      "position": "4 FW",
+      "club": "Paris Saint-Germain",
+      "age": NaN
+    },
+    {
+      "player": "Pedro Neto",
+      "position": "4 FW",
+      "club": "Chelsea",
+      "age": NaN
+    },
+    {
+      "player": "Francisco Trinc\u00e3o",
+      "position": "4 FW",
+      "club": "Sporting CP",
+      "age": NaN
+    },
+    {
+      "player": "Francisco Concei\u00e7\u00e3o",
+      "position": "4 FW",
+      "club": "Juventus",
+      "age": NaN
+    }
+  ],
+  "Qatar": [
+    {
+      "player": "Meshaal Barsham",
+      "position": "1 GK",
+      "club": "Al-Sadd",
+      "age": NaN
+    },
+    {
+      "player": "Salah Zakaria",
+      "position": "1 GK",
+      "club": "Al-Duhail",
+      "age": NaN
+    },
+    {
+      "player": "Mahmud Abunada",
+      "position": "1 GK",
+      "club": "Al-Rayyan",
+      "age": NaN
+    },
+    {
+      "player": "Shehab Ellethy",
+      "position": "1 GK",
+      "club": "Al-Shahaniya",
+      "age": NaN
+    },
+    {
+      "player": "Boualem Khoukhi",
+      "position": "2 DF",
+      "club": "Al-Sadd",
+      "age": NaN
+    },
+    {
+      "player": "Pedro Miguel",
+      "position": "2 DF",
+      "club": "Al-Sadd",
+      "age": NaN
+    },
+    {
+      "player": "Homam Ahmed",
+      "position": "2 DF",
+      "club": "Cultural Leonesa",
+      "age": NaN
+    },
+    {
+      "player": "Lucas Mendes",
+      "position": "2 DF",
+      "club": "Al-Wakrah",
+      "age": NaN
+    },
+    {
+      "player": "Sultan Al-Brake",
+      "position": "2 DF",
+      "club": "Al-Duhail",
+      "age": NaN
+    },
+    {
+      "player": "Al-Hashmi Al-Hussain",
+      "position": "2 DF",
+      "club": "Al-Arabi",
+      "age": NaN
+    },
+    {
+      "player": "Ayoub Al-Oui",
+      "position": "2 DF",
+      "club": "Al-Gharafa",
+      "age": NaN
+    },
+    {
+      "player": "Issa Laye",
+      "position": "2 DF",
+      "club": "Al-Arabi",
+      "age": NaN
+    },
+    {
+      "player": "Rayyan Al-Ali",
+      "position": "2 DF",
+      "club": "Al-Gharafa",
+      "age": NaN
+    },
+    {
+      "player": "Abdulaziz Hatem",
+      "position": "3 MF",
+      "club": "Al-Rayyan",
+      "age": NaN
+    },
+    {
+      "player": "Karim Boudiaf",
+      "position": "3 MF",
+      "club": "Al-Duhail",
+      "age": NaN
+    },
+    {
+      "player": "Assim Madibo",
+      "position": "3 MF",
+      "club": "Al-Wakrah",
+      "age": NaN
+    },
+    {
+      "player": "Ahmed Fathy",
+      "position": "3 MF",
+      "club": "Al-Arabi",
+      "age": NaN
+    },
+    {
+      "player": "Jassem Gaber",
+      "position": "3 MF",
+      "club": "Al-Rayyan",
+      "age": NaN
+    },
+    {
+      "player": "Mohamed Al-Mannai",
+      "position": "3 MF",
+      "club": "Al-Shamal",
+      "age": NaN
+    },
+    {
+      "player": "Tahsin Jamshid",
+      "position": "3 MF",
+      "club": "Al-Duhail",
+      "age": NaN
+    },
+    {
+      "player": "Hassan Al-Haydos ( captain )",
+      "position": "4 FW",
+      "club": "Al-Sadd",
+      "age": NaN
+    },
+    {
+      "player": "Akram Afif",
+      "position": "4 FW",
+      "club": "Al-Sadd",
+      "age": NaN
+    },
+    {
+      "player": "Almoez Ali",
+      "position": "4 FW",
+      "club": "Al-Duhail",
+      "age": NaN
+    },
+    {
+      "player": "Mohammed Muntari",
+      "position": "4 FW",
+      "club": "Al-Gharafa",
+      "age": NaN
+    },
+    {
+      "player": "Ahmed Alaaeldin",
+      "position": "4 FW",
+      "club": "Al-Rayyan",
+      "age": NaN
+    },
+    {
+      "player": "Yusuf Abdurisag",
+      "position": "4 FW",
+      "club": "Al-Wakrah",
+      "age": NaN
+    },
+    {
+      "player": "Edmilson Junior",
+      "position": "4 FW",
+      "club": "Al-Duhail",
+      "age": NaN
+    },
+    {
+      "player": "Ahmed Al-Ganehi",
+      "position": "4 FW",
+      "club": "Al-Gharafa",
+      "age": NaN
+    }
+  ],
+  "Saudi Arabia": [
+    {
+      "player": "Mohammed Al-Owais",
+      "position": "1 GK",
+      "club": "Al-Ula",
+      "age": NaN
+    },
+    {
+      "player": "Nawaf Al-Aqidi",
+      "position": "1 GK",
+      "club": "Al-Nassr",
+      "age": NaN
+    },
+    {
+      "player": "Ahmed Al-Kassar",
+      "position": "1 GK",
+      "club": "Al-Qadsiah",
+      "age": NaN
+    },
+    {
+      "player": "Abdulquddus Atiah",
+      "position": "1 GK",
+      "club": "Al-Taawoun",
+      "age": NaN
+    },
+    {
+      "player": "Saud Abdulhamid",
+      "position": "2 DF",
+      "club": "Lens",
+      "age": NaN
+    },
+    {
+      "player": "Hassan Al-Tambakti",
+      "position": "2 DF",
+      "club": "Al-Hilal",
+      "age": NaN
+    },
+    {
+      "player": "Abdulelah Al-Amri",
+      "position": "2 DF",
+      "club": "Al-Nassr",
+      "age": NaN
+    },
+    {
+      "player": "Nawaf Boushal",
+      "position": "2 DF",
+      "club": "Al-Nassr",
+      "age": NaN
+    },
+    {
+      "player": "Ali Majrashi",
+      "position": "2 DF",
+      "club": "Al-Ahli",
+      "age": NaN
+    },
+    {
+      "player": "Ali Lajami",
+      "position": "2 DF",
+      "club": "Al-Hilal",
+      "age": NaN
+    },
+    {
+      "player": "Hassan Kadesh",
+      "position": "2 DF",
+      "club": "Al-Ittihad",
+      "age": NaN
+    },
+    {
+      "player": "Moteb Al-Harbi",
+      "position": "2 DF",
+      "club": "Al-Hilal",
+      "age": NaN
+    },
+    {
+      "player": "Jehad Thakri",
+      "position": "2 DF",
+      "club": "Al-Qadsiah",
+      "age": NaN
+    },
+    {
+      "player": "Mohammed Abu Al-Shamat",
+      "position": "2 DF",
+      "club": "Al-Qadsiah",
+      "age": NaN
+    },
+    {
+      "player": "Zakaria Hawsawi",
+      "position": "2 DF",
+      "club": "Al-Ahli",
+      "age": NaN
+    },
+    {
+      "player": "Salem Al-Dawsari ( captain )",
+      "position": "3 MF",
+      "club": "Al-Hilal",
+      "age": NaN
+    },
+    {
+      "player": "Mohamed Kanno",
+      "position": "3 MF",
+      "club": "Al-Hilal",
+      "age": NaN
+    },
+    {
+      "player": "Nasser Al-Dawsari",
+      "position": "3 MF",
+      "club": "Al-Hilal",
+      "age": NaN
+    },
+    {
+      "player": "Abdullah Al-Khaibari",
+      "position": "3 MF",
+      "club": "Al-Nassr",
+      "age": NaN
+    },
+    {
+      "player": "Musab Al-Juwayr",
+      "position": "3 MF",
+      "club": "Al-Qadsiah",
+      "age": NaN
+    },
+    {
+      "player": "Ayman Yahya",
+      "position": "3 MF",
+      "club": "Al-Nassr",
+      "age": NaN
+    },
+    {
+      "player": "Ziyad Al-Johani",
+      "position": "3 MF",
+      "club": "Al-Ahli",
+      "age": NaN
+    },
+    {
+      "player": "Saleh Abu Al-Shamat",
+      "position": "3 MF",
+      "club": "Al-Ahli",
+      "age": NaN
+    },
+    {
+      "player": "Sultan Mandash",
+      "position": "3 MF",
+      "club": "Al-Hilal",
+      "age": NaN
+    },
+    {
+      "player": "Alaa Al-Hejji",
+      "position": "3 MF",
+      "club": "Neom",
+      "age": NaN
+    },
+    {
+      "player": "Firas Al-Buraikan",
+      "position": "4 FW",
+      "club": "Al-Ahli",
+      "age": NaN
+    },
+    {
+      "player": "Saleh Al-Shehri",
+      "position": "4 FW",
+      "club": "Al-Ittihad",
+      "age": NaN
+    },
+    {
+      "player": "Abdullah Al-Hamdan",
+      "position": "4 FW",
+      "club": "Al-Nassr",
+      "age": NaN
+    },
+    {
+      "player": "Khalid Al-Ghannam",
+      "position": "4 FW",
+      "club": "Al-Ettifaq",
+      "age": NaN
+    },
+    {
+      "player": "Abdullah Al-Salem",
+      "position": "4 FW",
+      "club": "Al-Qadsiah",
+      "age": NaN
+    }
+  ],
+  "Scotland": [
+    {
+      "player": "Craig Gordon",
+      "position": "1 GK",
+      "club": "Heart of Midlothian",
+      "age": NaN
+    },
+    {
+      "player": "Angus Gunn",
+      "position": "1 GK",
+      "club": "Nottingham Forest",
+      "age": NaN
+    },
+    {
+      "player": "Liam Kelly",
+      "position": "1 GK",
+      "club": "Rangers",
+      "age": NaN
+    },
+    {
+      "player": "Andy Robertson ( captain )",
+      "position": "2 DF",
+      "club": "Liverpool",
+      "age": NaN
+    },
+    {
+      "player": "Grant Hanley",
+      "position": "2 DF",
+      "club": "Hibernian",
+      "age": NaN
+    },
+    {
+      "player": "Kieran Tierney",
+      "position": "2 DF",
+      "club": "Celtic",
+      "age": NaN
+    },
+    {
+      "player": "Scott McKenna",
+      "position": "2 DF",
+      "club": "Dinamo Zagreb",
+      "age": NaN
+    },
+    {
+      "player": "Jack Hendry",
+      "position": "2 DF",
+      "club": "Al-Ettifaq",
+      "age": NaN
+    },
+    {
+      "player": "Nathan Patterson",
+      "position": "2 DF",
+      "club": "Everton",
+      "age": NaN
+    },
+    {
+      "player": "Anthony Ralston",
+      "position": "2 DF",
+      "club": "Celtic",
+      "age": NaN
+    },
+    {
+      "player": "John Souttar",
+      "position": "2 DF",
+      "club": "Rangers",
+      "age": NaN
+    },
+    {
+      "player": "Aaron Hickey",
+      "position": "2 DF",
+      "club": "Brentford",
+      "age": NaN
+    },
+    {
+      "player": "Dominic Hyam",
+      "position": "2 DF",
+      "club": "Wrexham",
+      "age": NaN
+    },
+    {
+      "player": "John McGinn",
+      "position": "3 MF",
+      "club": "Aston Villa",
+      "age": NaN
+    },
+    {
+      "player": "Scott McTominay",
+      "position": "3 MF",
+      "club": "Napoli",
+      "age": NaN
+    },
+    {
+      "player": "Ryan Christie",
+      "position": "3 MF",
+      "club": "Bournemouth",
+      "age": NaN
+    },
+    {
+      "player": "Kenny McLean",
+      "position": "3 MF",
+      "club": "Norwich City",
+      "age": NaN
+    },
+    {
+      "player": "Billy Gilmour",
+      "position": "3 MF",
+      "club": "Napoli",
+      "age": NaN
+    },
+    {
+      "player": "Lewis Ferguson",
+      "position": "3 MF",
+      "club": "Bologna",
+      "age": NaN
+    },
+    {
+      "player": "Ben Gannon-Doak",
+      "position": "3 MF",
+      "club": "Bournemouth",
+      "age": NaN
+    },
+    {
+      "player": "Findlay Curtis",
+      "position": "3 MF",
+      "club": "Kilmarnock",
+      "age": NaN
+    },
+    {
+      "player": "Lyndon Dykes",
+      "position": "4 FW",
+      "club": "Charlton Athletic",
+      "age": NaN
+    },
+    {
+      "player": "Ch\u00e9 Adams",
+      "position": "4 FW",
+      "club": "Torino",
+      "age": NaN
+    },
+    {
+      "player": "Lawrence Shankland",
+      "position": "4 FW",
+      "club": "Heart of Midlothian",
+      "age": NaN
+    },
+    {
+      "player": "George Hirst",
+      "position": "4 FW",
+      "club": "Ipswich Town",
+      "age": NaN
+    },
+    {
+      "player": "Ross Stewart",
+      "position": "4 FW",
+      "club": "Southampton",
+      "age": NaN
+    }
+  ],
+  "Senegal": [
+    {
+      "player": "\u00c9douard Mendy",
+      "position": "1 GK",
+      "club": "Al-Ahli",
+      "age": NaN
+    },
+    {
+      "player": "Mory Diaw",
+      "position": "1 GK",
+      "club": "Le Havre",
+      "age": NaN
+    },
+    {
+      "player": "Yehvann Diouf",
+      "position": "1 GK",
+      "club": "Nice",
+      "age": NaN
+    },
+    {
+      "player": "Kalidou Koulibaly ( captain )",
+      "position": "2 DF",
+      "club": "Al-Hilal",
+      "age": NaN
+    },
+    {
+      "player": "Kr\u00e9pin Diatta",
+      "position": "2 DF",
+      "club": "Monaco",
+      "age": NaN
+    },
+    {
+      "player": "Moussa Niakhat\u00e9",
+      "position": "2 DF",
+      "club": "Lyon",
+      "age": NaN
+    },
+    {
+      "player": "Ismail Jakobs",
+      "position": "2 DF",
+      "club": "Galatasaray",
+      "age": NaN
+    },
+    {
+      "player": "Abdoulaye Seck",
+      "position": "2 DF",
+      "club": "Maccabi Haifa",
+      "age": NaN
+    },
+    {
+      "player": "El Hadji Malick Diouf",
+      "position": "2 DF",
+      "club": "West Ham United",
+      "age": NaN
+    },
+    {
+      "player": "Antoine Mendy",
+      "position": "2 DF",
+      "club": "Nice",
+      "age": NaN
+    },
+    {
+      "player": "Mamadou Sarr",
+      "position": "2 DF",
+      "club": "Chelsea",
+      "age": NaN
+    },
+    {
+      "player": "Ilay Camara",
+      "position": "2 DF",
+      "club": "Anderlecht",
+      "age": NaN
+    },
+    {
+      "player": "Moustapha Mbow",
+      "position": "2 DF",
+      "club": "Paris FC",
+      "age": NaN
+    },
+    {
+      "player": "Idrissa Gueye",
+      "position": "3 MF",
+      "club": "Everton",
+      "age": NaN
+    },
+    {
+      "player": "Pape Gueye",
+      "position": "3 MF",
+      "club": "Villarreal",
+      "age": NaN
+    },
+    {
+      "player": "Pape Matar Sarr",
+      "position": "3 MF",
+      "club": "Tottenham Hotspur",
+      "age": NaN
+    },
+    {
+      "player": "Path\u00e9 Ciss",
+      "position": "3 MF",
+      "club": "Rayo Vallecano",
+      "age": NaN
+    },
+    {
+      "player": "Lamine Camara",
+      "position": "3 MF",
+      "club": "Monaco",
+      "age": NaN
+    },
+    {
+      "player": "Habib Diarra",
+      "position": "3 MF",
+      "club": "Sunderland",
+      "age": NaN
+    },
+    {
+      "player": "Bara Sapoko Ndiaye",
+      "position": "3 MF",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Sadio Man\u00e9",
+      "position": "4 FW",
+      "club": "Al-Nassr",
+      "age": NaN
+    },
+    {
+      "player": "Isma\u00efla Sarr",
+      "position": "4 FW",
+      "club": "Crystal Palace",
+      "age": NaN
+    },
+    {
+      "player": "Iliman Ndiaye",
+      "position": "4 FW",
+      "club": "Everton",
+      "age": NaN
+    },
+    {
+      "player": "Nicolas Jackson",
+      "position": "4 FW",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Bamba Dieng",
+      "position": "4 FW",
+      "club": "Lorient",
+      "age": NaN
+    },
+    {
+      "player": "Cherif Ndiaye",
+      "position": "4 FW",
+      "club": "Samsunspor",
+      "age": NaN
+    },
+    {
+      "player": "Ibrahim Mbaye",
+      "position": "4 FW",
+      "club": "Paris Saint-Germain",
+      "age": NaN
+    },
+    {
+      "player": "Assane Diao",
+      "position": "4 FW",
+      "club": "Como",
+      "age": NaN
+    }
+  ],
+  "South Africa": [
+    {
+      "player": "Ronwen Williams ( captain )",
+      "position": "1 GK",
+      "club": "Mamelodi Sundowns",
+      "age": NaN
+    },
+    {
+      "player": "Ricardo Goss",
+      "position": "1 GK",
+      "club": "Siwelele",
+      "age": NaN
+    },
+    {
+      "player": "Sipho Chaine",
+      "position": "1 GK",
+      "club": "Orlando Pirates",
+      "age": NaN
+    },
+    {
+      "player": "Aubrey Modiba",
+      "position": "2 DF",
+      "club": "Mamelodi Sundowns",
+      "age": NaN
+    },
+    {
+      "player": "Khuliso Mudau",
+      "position": "2 DF",
+      "club": "Mamelodi Sundowns",
+      "age": NaN
+    },
+    {
+      "player": "Nkosinathi Sibisi",
+      "position": "2 DF",
+      "club": "Orlando Pirates",
+      "age": NaN
+    },
+    {
+      "player": "Mbekezeli Mbokazi",
+      "position": "2 DF",
+      "club": "Chicago Fire",
+      "age": NaN
+    },
+    {
+      "player": "Ime Okon",
+      "position": "2 DF",
+      "club": "Hannover 96",
+      "age": NaN
+    },
+    {
+      "player": "Samukele Kabini",
+      "position": "2 DF",
+      "club": "Molde",
+      "age": NaN
+    },
+    {
+      "player": "Khulumani Ndamane",
+      "position": "2 DF",
+      "club": "Mamelodi Sundowns",
+      "age": NaN
+    },
+    {
+      "player": "Thabang Matuludi",
+      "position": "2 DF",
+      "club": "Polokwane City",
+      "age": NaN
+    },
+    {
+      "player": "Kamogelo Sebelebele",
+      "position": "2 DF",
+      "club": "Orlando Pirates",
+      "age": NaN
+    },
+    {
+      "player": "Bradley Cross",
+      "position": "2 DF",
+      "club": "Kaizer Chiefs",
+      "age": NaN
+    },
+    {
+      "player": "Olwethu Makhanya",
+      "position": "2 DF",
+      "club": "Philadelphia Union",
+      "age": NaN
+    },
+    {
+      "player": "Teboho Mokoena",
+      "position": "3 MF",
+      "club": "Mamelodi Sundowns",
+      "age": NaN
+    },
+    {
+      "player": "Sphephelo Sithole",
+      "position": "3 MF",
+      "club": "Tondela",
+      "age": NaN
+    },
+    {
+      "player": "Thalente Mbatha",
+      "position": "3 MF",
+      "club": "Orlando Pirates",
+      "age": NaN
+    },
+    {
+      "player": "Jayden Adams",
+      "position": "3 MF",
+      "club": "Mamelodi Sundowns",
+      "age": NaN
+    },
+    {
+      "player": "Themba Zwane",
+      "position": "4 FW",
+      "club": "Mamelodi Sundowns",
+      "age": NaN
+    },
+    {
+      "player": "Lyle Foster",
+      "position": "4 FW",
+      "club": "Burnley",
+      "age": NaN
+    },
+    {
+      "player": "Evidence Makgopa",
+      "position": "4 FW",
+      "club": "Orlando Pirates",
+      "age": NaN
+    },
+    {
+      "player": "Oswin Appollis",
+      "position": "4 FW",
+      "club": "Orlando Pirates",
+      "age": NaN
+    },
+    {
+      "player": "Iqraam Rayners",
+      "position": "4 FW",
+      "club": "Mamelodi Sundowns",
+      "age": NaN
+    },
+    {
+      "player": "Relebohile Mofokeng",
+      "position": "4 FW",
+      "club": "Orlando Pirates",
+      "age": NaN
+    },
+    {
+      "player": "Thapelo Maseko",
+      "position": "4 FW",
+      "club": "AEL Limassol",
+      "age": NaN
+    },
+    {
+      "player": "Tshepang Moremi",
+      "position": "4 FW",
+      "club": "Orlando Pirates",
+      "age": NaN
+    }
+  ],
+  "South Korea": [
+    {
+      "player": "Kim Seung-gyu",
+      "position": "1 GK",
+      "club": "FC Tokyo",
+      "age": NaN
+    },
+    {
+      "player": "Jo Hyeon-woo",
+      "position": "1 GK",
+      "club": "Ulsan HD",
+      "age": NaN
+    },
+    {
+      "player": "Song Bum-keun",
+      "position": "1 GK",
+      "club": "Jeonbuk Hyundai Motors",
+      "age": NaN
+    },
+    {
+      "player": "Kim Min-jae",
+      "position": "2 DF",
+      "club": "Bayern Munich",
+      "age": NaN
+    },
+    {
+      "player": "Kim Moon-hwan",
+      "position": "2 DF",
+      "club": "Daejeon Hana Citizen",
+      "age": NaN
+    },
+    {
+      "player": "Seol Young-woo",
+      "position": "2 DF",
+      "club": "Red Star Belgrade",
+      "age": NaN
+    },
+    {
+      "player": "Cho Yu-min",
+      "position": "2 DF",
+      "club": "Sharjah",
+      "age": NaN
+    },
+    {
+      "player": "Lee Tae-seok",
+      "position": "2 DF",
+      "club": "Austria Wien",
+      "age": NaN
+    },
+    {
+      "player": "Park Jin-seob",
+      "position": "2 DF",
+      "club": "Zhejiang FC",
+      "age": NaN
+    },
+    {
+      "player": "Kim Tae-hyeon",
+      "position": "2 DF",
+      "club": "Kashima Antlers",
+      "age": NaN
+    },
+    {
+      "player": "Lee Han-beom",
+      "position": "2 DF",
+      "club": "Midtjylland",
+      "age": NaN
+    },
+    {
+      "player": "Jens Castrop",
+      "position": "2 DF",
+      "club": "Borussia M\u00f6nchengladbach",
+      "age": NaN
+    },
+    {
+      "player": "Lee Ki-hyuk",
+      "position": "2 DF",
+      "club": "Gangwon FC",
+      "age": NaN
+    },
+    {
+      "player": "Lee Jae-sung",
+      "position": "3 MF",
+      "club": "Mainz 05",
+      "age": NaN
+    },
+    {
+      "player": "Hwang Hee-chan",
+      "position": "3 MF",
+      "club": "Wolverhampton Wanderers",
+      "age": NaN
+    },
+    {
+      "player": "Hwang In-beom",
+      "position": "3 MF",
+      "club": "Feyenoord",
+      "age": NaN
+    },
+    {
+      "player": "Lee Kang-in",
+      "position": "3 MF",
+      "club": "Paris Saint-Germain",
+      "age": NaN
+    },
+    {
+      "player": "Paik Seung-ho",
+      "position": "3 MF",
+      "club": "Birmingham City",
+      "age": NaN
+    },
+    {
+      "player": "Kim Jin-gyu",
+      "position": "3 MF",
+      "club": "Jeonbuk Hyundai Motors",
+      "age": NaN
+    },
+    {
+      "player": "Lee Dong-gyeong",
+      "position": "3 MF",
+      "club": "Ulsan HD",
+      "age": NaN
+    },
+    {
+      "player": "Bae Jun-ho",
+      "position": "3 MF",
+      "club": "Stoke City",
+      "age": NaN
+    },
+    {
+      "player": "Eom Ji-sung",
+      "position": "3 MF",
+      "club": "Swansea City",
+      "age": NaN
+    },
+    {
+      "player": "Yang Hyun-jun",
+      "position": "3 MF",
+      "club": "Celtic",
+      "age": NaN
+    },
+    {
+      "player": "Son Heung-min ( captain )",
+      "position": "4 FW",
+      "club": "Los Angeles FC",
+      "age": NaN
+    },
+    {
+      "player": "Cho Gue-sung",
+      "position": "4 FW",
+      "club": "Midtjylland",
+      "age": NaN
+    },
+    {
+      "player": "Oh Hyeon-gyu",
+      "position": "4 FW",
+      "club": "Be\u015fikta\u015f",
+      "age": NaN
+    }
+  ],
+  "Spain": [
+    {
+      "player": "Unai Sim\u00f3n",
+      "position": "1 GK",
+      "club": "Athletic Bilbao",
+      "age": NaN
+    },
+    {
+      "player": "David Raya",
+      "position": "1 GK",
+      "club": "Arsenal",
+      "age": NaN
+    },
+    {
+      "player": "Joan Garcia",
+      "position": "1 GK",
+      "club": "Barcelona",
+      "age": NaN
+    },
+    {
+      "player": "Aymeric Laporte",
+      "position": "2 DF",
+      "club": "Athletic Bilbao",
+      "age": NaN
+    },
+    {
+      "player": "Marc Cucurella",
+      "position": "2 DF",
+      "club": "Chelsea",
+      "age": NaN
+    },
+    {
+      "player": "Marcos Llorente",
+      "position": "2 DF",
+      "club": "Atl\u00e9tico Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Eric Garc\u00eda",
+      "position": "2 DF",
+      "club": "Barcelona",
+      "age": NaN
+    },
+    {
+      "player": "Pedro Porro",
+      "position": "2 DF",
+      "club": "Tottenham Hotspur",
+      "age": NaN
+    },
+    {
+      "player": "\u00c1lex Grimaldo",
+      "position": "2 DF",
+      "club": "Bayer Leverkusen",
+      "age": NaN
+    },
+    {
+      "player": "Pau Cubars\u00ed",
+      "position": "2 DF",
+      "club": "Barcelona",
+      "age": NaN
+    },
+    {
+      "player": "Marc Pubill",
+      "position": "2 DF",
+      "club": "Atl\u00e9tico Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Rodri ( captain )",
+      "position": "3 MF",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "Mikel Merino",
+      "position": "3 MF",
+      "club": "Arsenal",
+      "age": NaN
+    },
+    {
+      "player": "Fabi\u00e1n Ruiz",
+      "position": "3 MF",
+      "club": "Paris Saint-Germain",
+      "age": NaN
+    },
+    {
+      "player": "Pedri",
+      "position": "3 MF",
+      "club": "Barcelona",
+      "age": NaN
+    },
+    {
+      "player": "Gavi",
+      "position": "3 MF",
+      "club": "Barcelona",
+      "age": NaN
+    },
+    {
+      "player": "Mart\u00edn Zubimendi",
+      "position": "3 MF",
+      "club": "Arsenal",
+      "age": NaN
+    },
+    {
+      "player": "\u00c1lex Baena",
+      "position": "3 MF",
+      "club": "Atl\u00e9tico Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Ferran Torres",
+      "position": "4 FW",
+      "club": "Barcelona",
+      "age": NaN
+    },
+    {
+      "player": "Mikel Oyarzabal",
+      "position": "4 FW",
+      "club": "Real Sociedad",
+      "age": NaN
+    },
+    {
+      "player": "Dani Olmo",
+      "position": "4 FW",
+      "club": "Barcelona",
+      "age": NaN
+    },
+    {
+      "player": "Nico Williams",
+      "position": "4 FW",
+      "club": "Athletic Bilbao",
+      "age": NaN
+    },
+    {
+      "player": "Lamine Yamal",
+      "position": "4 FW",
+      "club": "Barcelona",
+      "age": NaN
+    },
+    {
+      "player": "Y\u00e9remy Pino",
+      "position": "4 FW",
+      "club": "Crystal Palace",
+      "age": NaN
+    },
+    {
+      "player": "Borja Iglesias",
+      "position": "4 FW",
+      "club": "Celta Vigo",
+      "age": NaN
+    },
+    {
+      "player": "V\u00edctor Mu\u00f1oz",
+      "position": "4 FW",
+      "club": "Osasuna",
+      "age": NaN
+    }
+  ],
+  "Sweden": [
+    {
+      "player": "Jacob Widell Zetterstr\u00f6m",
+      "position": "1 GK",
+      "club": "Derby County",
+      "age": NaN
+    },
+    {
+      "player": "Gustaf Lagerbielke",
+      "position": "2 DF",
+      "club": "Braga",
+      "age": NaN
+    },
+    {
+      "player": "Victor Lindel\u00f6f ( captain )",
+      "position": "2 DF",
+      "club": "Aston Villa",
+      "age": NaN
+    },
+    {
+      "player": "Isak Hien",
+      "position": "2 DF",
+      "club": "Atalanta",
+      "age": NaN
+    },
+    {
+      "player": "Gabriel Gudmundsson",
+      "position": "2 DF",
+      "club": "Leeds United",
+      "age": NaN
+    },
+    {
+      "player": "Emil Holm",
+      "position": "2 DF",
+      "club": "Juventus",
+      "age": NaN
+    },
+    {
+      "player": "Lucas Bergvall",
+      "position": "3 MF",
+      "club": "Tottenham Hotspur",
+      "age": NaN
+    },
+    {
+      "player": "Daniel Svensson",
+      "position": "2 DF",
+      "club": "Borussia Dortmund",
+      "age": NaN
+    },
+    {
+      "player": "Alexander Isak",
+      "position": "4 FW",
+      "club": "Liverpool",
+      "age": NaN
+    },
+    {
+      "player": "Benjamin Nygren",
+      "position": "4 FW",
+      "club": "Celtic",
+      "age": NaN
+    },
+    {
+      "player": "Anthony Elanga",
+      "position": "4 FW",
+      "club": "Newcastle United",
+      "age": NaN
+    },
+    {
+      "player": "Viktor Johansson",
+      "position": "1 GK",
+      "club": "Stoke City",
+      "age": NaN
+    },
+    {
+      "player": "Ken Sema",
+      "position": "3 MF",
+      "club": "Pafos",
+      "age": NaN
+    },
+    {
+      "player": "Hjalmar Ekdal",
+      "position": "2 DF",
+      "club": "Burnley",
+      "age": NaN
+    },
+    {
+      "player": "Carl Starfelt",
+      "position": "2 DF",
+      "club": "Celta Vigo",
+      "age": NaN
+    },
+    {
+      "player": "Jesper Karlstr\u00f6m",
+      "position": "3 MF",
+      "club": "Udinese",
+      "age": NaN
+    },
+    {
+      "player": "Viktor Gy\u00f6keres",
+      "position": "4 FW",
+      "club": "Arsenal",
+      "age": NaN
+    },
+    {
+      "player": "Yasin Ayari",
+      "position": "3 MF",
+      "club": "Brighton & Hove Albion",
+      "age": NaN
+    },
+    {
+      "player": "Mattias Svanberg",
+      "position": "3 MF",
+      "club": "VfL Wolfsburg",
+      "age": NaN
+    },
+    {
+      "player": "Eric Smith",
+      "position": "2 DF",
+      "club": "FC St. Pauli",
+      "age": NaN
+    },
+    {
+      "player": "Alexander Bernhardsson",
+      "position": "4 FW",
+      "club": "Holstein Kiel",
+      "age": NaN
+    },
+    {
+      "player": "Besfort Zeneli",
+      "position": "3 MF",
+      "club": "Union Saint-Gilloise",
+      "age": NaN
+    },
+    {
+      "player": "Kristoffer Nordfeldt",
+      "position": "1 GK",
+      "club": "AIK",
+      "age": NaN
+    },
+    {
+      "player": "Elliot Stroud",
+      "position": "2 DF",
+      "club": "Mj\u00e4llby AIF",
+      "age": NaN
+    },
+    {
+      "player": "Gustaf Nilsson",
+      "position": "4 FW",
+      "club": "Club Brugge",
+      "age": NaN
+    },
+    {
+      "player": "Taha Ali",
+      "position": "4 FW",
+      "club": "Malm\u00f6 FF",
+      "age": NaN
+    }
+  ],
+  "Switzerland": [
+    {
+      "player": "Gregor Kobel",
+      "position": "1 GK",
+      "club": "Borussia Dortmund",
+      "age": NaN
+    },
+    {
+      "player": "Miro Muheim",
+      "position": "2 DF",
+      "club": "Hamburger SV",
+      "age": NaN
+    },
+    {
+      "player": "Silvan Widmer",
+      "position": "2 DF",
+      "club": "Mainz 05",
+      "age": NaN
+    },
+    {
+      "player": "Nico Elvedi",
+      "position": "2 DF",
+      "club": "Borussia M\u00f6nchengladbach",
+      "age": NaN
+    },
+    {
+      "player": "Manuel Akanji",
+      "position": "2 DF",
+      "club": "Inter Milan",
+      "age": NaN
+    },
+    {
+      "player": "Denis Zakaria",
+      "position": "3 MF",
+      "club": "Monaco",
+      "age": NaN
+    },
+    {
+      "player": "Breel Embolo",
+      "position": "4 FW",
+      "club": "Rennes",
+      "age": NaN
+    },
+    {
+      "player": "Remo Freuler",
+      "position": "3 MF",
+      "club": "Bologna",
+      "age": NaN
+    },
+    {
+      "player": "Johan Manzambi",
+      "position": "3 MF",
+      "club": "SC Freiburg",
+      "age": NaN
+    },
+    {
+      "player": "Granit Xhaka ( captain )",
+      "position": "3 MF",
+      "club": "Sunderland",
+      "age": NaN
+    },
+    {
+      "player": "Dan Ndoye",
+      "position": "4 FW",
+      "club": "Nottingham Forest",
+      "age": NaN
+    },
+    {
+      "player": "Yvon Mvogo",
+      "position": "1 GK",
+      "club": "Lorient",
+      "age": NaN
+    },
+    {
+      "player": "Ricardo Rodriguez",
+      "position": "2 DF",
+      "club": "Real Betis",
+      "age": NaN
+    },
+    {
+      "player": "Ardon Jashari",
+      "position": "3 MF",
+      "club": "Milan",
+      "age": NaN
+    },
+    {
+      "player": "Djibril Sow",
+      "position": "3 MF",
+      "club": "Sevilla",
+      "age": NaN
+    },
+    {
+      "player": "Christian Fassnacht",
+      "position": "3 MF",
+      "club": "Young Boys",
+      "age": NaN
+    },
+    {
+      "player": "Rub\u00e9n Vargas",
+      "position": "4 FW",
+      "club": "Sevilla",
+      "age": NaN
+    },
+    {
+      "player": "Eray C\u00f6mert",
+      "position": "2 DF",
+      "club": "Valencia",
+      "age": NaN
+    },
+    {
+      "player": "Noah Okafor",
+      "position": "4 FW",
+      "club": "Leeds United",
+      "age": NaN
+    },
+    {
+      "player": "Michel Aebischer",
+      "position": "3 MF",
+      "club": "Pisa",
+      "age": NaN
+    },
+    {
+      "player": "Marvin Keller",
+      "position": "1 GK",
+      "club": "Young Boys",
+      "age": NaN
+    },
+    {
+      "player": "Fabian Rieder",
+      "position": "3 MF",
+      "club": "FC Augsburg",
+      "age": NaN
+    },
+    {
+      "player": "Zeki Amdouni",
+      "position": "4 FW",
+      "club": "Burnley",
+      "age": NaN
+    },
+    {
+      "player": "Aur\u00e8le Amenda",
+      "position": "2 DF",
+      "club": "Eintracht Frankfurt",
+      "age": NaN
+    },
+    {
+      "player": "Luca Jaquez",
+      "position": "2 DF",
+      "club": "VfB Stuttgart",
+      "age": NaN
+    },
+    {
+      "player": "Cedric Itten",
+      "position": "4 FW",
+      "club": "Fortuna D\u00fcsseldorf",
+      "age": NaN
+    }
+  ],
+  "Tunisia": [
+    {
+      "player": "Aymen Dahmen",
+      "position": "1 GK",
+      "club": "CS Sfaxien",
+      "age": NaN
+    },
+    {
+      "player": "Sabri Ben Hessen",
+      "position": "1 GK",
+      "club": "\u00c9toile du Sahel",
+      "age": NaN
+    },
+    {
+      "player": "Mouhib Chamakh",
+      "position": "1 GK",
+      "club": "Club Africain",
+      "age": NaN
+    },
+    {
+      "player": "Montassar Talbi",
+      "position": "2 DF",
+      "club": "Lorient",
+      "age": NaN
+    },
+    {
+      "player": "Dylan Bronn",
+      "position": "2 DF",
+      "club": "Servette",
+      "age": NaN
+    },
+    {
+      "player": "Ali Abdi",
+      "position": "2 DF",
+      "club": "Nice",
+      "age": NaN
+    },
+    {
+      "player": "Yan Valery",
+      "position": "2 DF",
+      "club": "Young Boys",
+      "age": NaN
+    },
+    {
+      "player": "Mohamed Amine Ben Hamida",
+      "position": "2 DF",
+      "club": "Esp\u00e9rance de Tunis",
+      "age": NaN
+    },
+    {
+      "player": "Moutaz Neffati",
+      "position": "2 DF",
+      "club": "IFK Norrk\u00f6ping",
+      "age": NaN
+    },
+    {
+      "player": "Omar Rekik",
+      "position": "2 DF",
+      "club": "Maribor",
+      "age": NaN
+    },
+    {
+      "player": "Adem Arous",
+      "position": "2 DF",
+      "club": "Kas\u0131mpa\u015fa",
+      "age": NaN
+    },
+    {
+      "player": "Raed Chikhaoui",
+      "position": "2 DF",
+      "club": "US Monastir",
+      "age": NaN
+    },
+    {
+      "player": "Ellyes Skhiri ( captain )",
+      "position": "3 MF",
+      "club": "Eintracht Frankfurt",
+      "age": NaN
+    },
+    {
+      "player": "Hannibal Mejbri",
+      "position": "3 MF",
+      "club": "Burnley",
+      "age": NaN
+    },
+    {
+      "player": "Anis Ben Slimane",
+      "position": "3 MF",
+      "club": "Norwich City",
+      "age": NaN
+    },
+    {
+      "player": "Mortadha Ben Ouanes",
+      "position": "3 MF",
+      "club": "Kas\u0131mpa\u015fa",
+      "age": NaN
+    },
+    {
+      "player": "Isma\u00ebl Gharbi",
+      "position": "3 MF",
+      "club": "FC Augsburg",
+      "age": NaN
+    },
+    {
+      "player": "Hadj Mahmoud",
+      "position": "3 MF",
+      "club": "Lugano",
+      "age": NaN
+    },
+    {
+      "player": "Rani Khedira",
+      "position": "3 MF",
+      "club": "Union Berlin",
+      "age": NaN
+    },
+    {
+      "player": "Elias Achouri",
+      "position": "4 FW",
+      "club": "Copenhagen",
+      "age": NaN
+    },
+    {
+      "player": "Firas Chaouat",
+      "position": "4 FW",
+      "club": "Club Africain",
+      "age": NaN
+    },
+    {
+      "player": "Hazem Mastouri",
+      "position": "4 FW",
+      "club": "Dynamo Makhachkala",
+      "age": NaN
+    },
+    {
+      "player": "Elias Saad",
+      "position": "4 FW",
+      "club": "Hannover 96",
+      "age": NaN
+    },
+    {
+      "player": "Sebastian Tounekti",
+      "position": "4 FW",
+      "club": "Celtic",
+      "age": NaN
+    },
+    {
+      "player": "Khalil Ayari",
+      "position": "4 FW",
+      "club": "Paris Saint-Germain",
+      "age": NaN
+    },
+    {
+      "player": "Rayan Elloumi",
+      "position": "4 FW",
+      "club": "Vancouver Whitecaps FC",
+      "age": NaN
+    }
+  ],
+  "Turkey": [
+    {
+      "player": "U\u011furcan \u00c7ak\u0131r",
+      "position": "1 GK",
+      "club": "Galatasaray",
+      "age": NaN
+    },
+    {
+      "player": "Mert G\u00fcnok",
+      "position": "1 GK",
+      "club": "Fenerbah\u00e7e",
+      "age": NaN
+    },
+    {
+      "player": "Altay Bay\u0131nd\u0131r",
+      "position": "1 GK",
+      "club": "Manchester United",
+      "age": NaN
+    },
+    {
+      "player": "Ersin Destano\u011flu",
+      "position": "1 GK",
+      "club": "Be\u015fikta\u015f",
+      "age": NaN
+    },
+    {
+      "player": "Muhammed \u015eengezer",
+      "position": "1 GK",
+      "club": "\u0130stanbul Ba\u015fak\u015fehir",
+      "age": NaN
+    },
+    {
+      "player": "Merih Demiral",
+      "position": "2 DF",
+      "club": "Al-Ahli",
+      "age": NaN
+    },
+    {
+      "player": "Zeki \u00c7elik",
+      "position": "2 DF",
+      "club": "Roma",
+      "age": NaN
+    },
+    {
+      "player": "\u00c7a\u011flar S\u00f6y\u00fcnc\u00fc",
+      "position": "2 DF",
+      "club": "Fenerbah\u00e7e",
+      "age": NaN
+    },
+    {
+      "player": "Mert M\u00fcld\u00fcr",
+      "position": "2 DF",
+      "club": "Fenerbah\u00e7e",
+      "age": NaN
+    },
+    {
+      "player": "Ferdi Kad\u0131o\u011flu",
+      "position": "2 DF",
+      "club": "Brighton & Hove Albion",
+      "age": NaN
+    },
+    {
+      "player": "Ozan Kabak",
+      "position": "2 DF",
+      "club": "TSG Hoffenheim",
+      "age": NaN
+    },
+    {
+      "player": "Abd\u00fclkerim Bardakc\u0131",
+      "position": "2 DF",
+      "club": "Galatasaray",
+      "age": NaN
+    },
+    {
+      "player": "Eren Elmal\u0131",
+      "position": "2 DF",
+      "club": "Galatasaray",
+      "age": NaN
+    },
+    {
+      "player": "Samet Akaydin",
+      "position": "2 DF",
+      "club": "\u00c7aykur Rizespor",
+      "age": NaN
+    },
+    {
+      "player": "Yusuf Ak\u00e7i\u00e7ek",
+      "position": "2 DF",
+      "club": "Al-Hilal",
+      "age": NaN
+    },
+    {
+      "player": "Mustafa Eskihella\u00e7",
+      "position": "2 DF",
+      "club": "Trabzonspor",
+      "age": NaN
+    },
+    {
+      "player": "Ahmetcan Kaplan",
+      "position": "2 DF",
+      "club": "NEC",
+      "age": NaN
+    },
+    {
+      "player": "Hakan \u00c7alhano\u011flu ( captain )",
+      "position": "3 MF",
+      "club": "Inter Milan",
+      "age": NaN
+    },
+    {
+      "player": "Kaan Ayhan",
+      "position": "3 MF",
+      "club": "Galatasaray",
+      "age": NaN
+    },
+    {
+      "player": "Orkun K\u00f6k\u00e7\u00fc",
+      "position": "3 MF",
+      "club": "Be\u015fikta\u015f",
+      "age": NaN
+    },
+    {
+      "player": "\u0130smail Y\u00fcksek",
+      "position": "3 MF",
+      "club": "Fenerbah\u00e7e",
+      "age": NaN
+    },
+    {
+      "player": "Salih \u00d6zcan",
+      "position": "3 MF",
+      "club": "Borussia Dortmund",
+      "age": NaN
+    },
+    {
+      "player": "Atakan Karazor",
+      "position": "3 MF",
+      "club": "VfB Stuttgart",
+      "age": NaN
+    },
+    {
+      "player": "Demir Ege T\u0131knaz",
+      "position": "3 MF",
+      "club": "Braga",
+      "age": NaN
+    },
+    {
+      "player": "Kerem Akt\u00fcrko\u011flu",
+      "position": "4 FW",
+      "club": "Fenerbah\u00e7e",
+      "age": NaN
+    },
+    {
+      "player": "\u0130rfan Can Kahveci",
+      "position": "4 FW",
+      "club": "Kas\u0131mpa\u015fa",
+      "age": NaN
+    },
+    {
+      "player": "Bar\u0131\u015f Alper Y\u0131lmaz",
+      "position": "4 FW",
+      "club": "Galatasaray",
+      "age": NaN
+    },
+    {
+      "player": "Arda G\u00fcler",
+      "position": "4 FW",
+      "club": "Real Madrid",
+      "age": NaN
+    },
+    {
+      "player": "Kenan Y\u0131ld\u0131z",
+      "position": "4 FW",
+      "club": "Juventus",
+      "age": NaN
+    },
+    {
+      "player": "Yunus Akg\u00fcn",
+      "position": "4 FW",
+      "club": "Galatasaray",
+      "age": NaN
+    },
+    {
+      "player": "O\u011fuz Ayd\u0131n",
+      "position": "4 FW",
+      "club": "Fenerbah\u00e7e",
+      "age": NaN
+    },
+    {
+      "player": "Deniz G\u00fcl",
+      "position": "4 FW",
+      "club": "Porto",
+      "age": NaN
+    },
+    {
+      "player": "Yusuf Sar\u0131",
+      "position": "4 FW",
+      "club": "\u0130stanbul Ba\u015fak\u015fehir",
+      "age": NaN
+    },
+    {
+      "player": "Can Uzun",
+      "position": "4 FW",
+      "club": "Eintracht Frankfurt",
+      "age": NaN
+    },
+    {
+      "player": "Aral \u015eim\u015fir",
+      "position": "4 FW",
+      "club": "Midtjylland",
+      "age": NaN
+    }
+  ],
+  "United States": [
+    {
+      "player": "Matt Turner",
+      "position": "1 GK",
+      "club": "New England Revolution",
+      "age": NaN
+    },
+    {
+      "player": "Sergi\u00f1o Dest",
+      "position": "2 DF",
+      "club": "PSV Eindhoven",
+      "age": NaN
+    },
+    {
+      "player": "Chris Richards",
+      "position": "2 DF",
+      "club": "Crystal Palace",
+      "age": NaN
+    },
+    {
+      "player": "Tyler Adams",
+      "position": "3 MF",
+      "club": "Bournemouth",
+      "age": NaN
+    },
+    {
+      "player": "Antonee Robinson",
+      "position": "2 DF",
+      "club": "Fulham",
+      "age": NaN
+    },
+    {
+      "player": "Auston Trusty",
+      "position": "2 DF",
+      "club": "Celtic",
+      "age": NaN
+    },
+    {
+      "player": "Giovanni Reyna",
+      "position": "3 MF",
+      "club": "Borussia M\u00f6nchengladbach",
+      "age": NaN
+    },
+    {
+      "player": "Weston McKennie",
+      "position": "3 MF",
+      "club": "Juventus",
+      "age": NaN
+    },
+    {
+      "player": "Ricardo Pepi",
+      "position": "4 FW",
+      "club": "PSV Eindhoven",
+      "age": NaN
+    },
+    {
+      "player": "Christian Pulisic ( captain )",
+      "position": "4 FW",
+      "club": "Milan",
+      "age": NaN
+    },
+    {
+      "player": "Brenden Aaronson",
+      "position": "4 FW",
+      "club": "Leeds United",
+      "age": NaN
+    },
+    {
+      "player": "Miles Robinson",
+      "position": "2 DF",
+      "club": "FC Cincinnati",
+      "age": NaN
+    },
+    {
+      "player": "Tim Ream",
+      "position": "2 DF",
+      "club": "Charlotte FC",
+      "age": NaN
+    },
+    {
+      "player": "Sebastian Berhalter",
+      "position": "3 MF",
+      "club": "Vancouver Whitecaps FC",
+      "age": NaN
+    },
+    {
+      "player": "Cristian Roldan",
+      "position": "3 MF",
+      "club": "Seattle Sounders FC",
+      "age": NaN
+    },
+    {
+      "player": "Alex Freeman",
+      "position": "2 DF",
+      "club": "Villarreal",
+      "age": NaN
+    },
+    {
+      "player": "Malik Tillman",
+      "position": "3 MF",
+      "club": "Bayer Leverkusen",
+      "age": NaN
+    },
+    {
+      "player": "Maximilian Arfsten",
+      "position": "2 DF",
+      "club": "Columbus Crew",
+      "age": NaN
+    },
+    {
+      "player": "Haji Wright",
+      "position": "4 FW",
+      "club": "Coventry City",
+      "age": NaN
+    },
+    {
+      "player": "Folarin Balogun",
+      "position": "4 FW",
+      "club": "Monaco",
+      "age": NaN
+    },
+    {
+      "player": "Timothy Weah",
+      "position": "4 FW",
+      "club": "Marseille",
+      "age": NaN
+    },
+    {
+      "player": "Mark McKenzie",
+      "position": "2 DF",
+      "club": "Toulouse",
+      "age": NaN
+    },
+    {
+      "player": "Joe Scally",
+      "position": "2 DF",
+      "club": "Borussia M\u00f6nchengladbach",
+      "age": NaN
+    },
+    {
+      "player": "Matt Freese",
+      "position": "1 GK",
+      "club": "New York City FC",
+      "age": NaN
+    },
+    {
+      "player": "Chris Brady",
+      "position": "1 GK",
+      "club": "Chicago Fire",
+      "age": NaN
+    },
+    {
+      "player": "Alejandro Zendejas",
+      "position": "4 FW",
+      "club": "Am\u00e9rica",
+      "age": NaN
+    }
+  ],
+  "Uzbekistan": [
+    {
+      "player": "Utkir Yusupov",
+      "position": "1 GK",
+      "club": "Navbahor",
+      "age": NaN
+    },
+    {
+      "player": "Abduvohid Nematov",
+      "position": "1 GK",
+      "club": "Nasaf",
+      "age": NaN
+    },
+    {
+      "player": "Botirali Ergashev",
+      "position": "1 GK",
+      "club": "Neftchi",
+      "age": NaN
+    },
+    {
+      "player": "Rustam Ashurmatov",
+      "position": "2 DF",
+      "club": "Esteghlal",
+      "age": NaN
+    },
+    {
+      "player": "Farrukh Sayfiev",
+      "position": "2 DF",
+      "club": "Neftchi",
+      "age": NaN
+    },
+    {
+      "player": "Khojiakbar Alijonov",
+      "position": "2 DF",
+      "club": "Pakhtakor",
+      "age": NaN
+    },
+    {
+      "player": "Sherzod Nasrullaev",
+      "position": "2 DF",
+      "club": "Nasaf",
+      "age": NaN
+    },
+    {
+      "player": "Umar Eshmurodov",
+      "position": "2 DF",
+      "club": "Nasaf",
+      "age": NaN
+    },
+    {
+      "player": "Abdukodir Khusanov",
+      "position": "2 DF",
+      "club": "Manchester City",
+      "age": NaN
+    },
+    {
+      "player": "Abdulla Abdullaev",
+      "position": "2 DF",
+      "club": "Dibba",
+      "age": NaN
+    },
+    {
+      "player": "Bekhruz Karimov",
+      "position": "2 DF",
+      "club": "Surkhon",
+      "age": NaN
+    },
+    {
+      "player": "Jakhongir Urozov",
+      "position": "2 DF",
+      "club": "Dinamo Samarqand",
+      "age": NaN
+    },
+    {
+      "player": "Avazbek Ulmasaliev",
+      "position": "2 DF",
+      "club": "AGMK",
+      "age": NaN
+    },
+    {
+      "player": "Otabek Shukurov",
+      "position": "3 MF",
+      "club": "Baniyas",
+      "age": NaN
+    },
+    {
+      "player": "Odiljon Hamrobekov",
+      "position": "3 MF",
+      "club": "Tractor",
+      "age": NaN
+    },
+    {
+      "player": "Jamshid Iskanderov",
+      "position": "3 MF",
+      "club": "Neftchi",
+      "age": NaN
+    },
+    {
+      "player": "Akmal Mozgovoy",
+      "position": "3 MF",
+      "club": "Pakhtakor",
+      "age": NaN
+    },
+    {
+      "player": "Azizjon Ganiev",
+      "position": "3 MF",
+      "club": "Al Bataeh",
+      "age": NaN
+    },
+    {
+      "player": "Jasurbek Jaloliddinov",
+      "position": "3 MF",
+      "club": "Sogdiana",
+      "age": NaN
+    },
+    {
+      "player": "Umarali Rakhmonaliev",
+      "position": "3 MF",
+      "club": "Sabah",
+      "age": NaN
+    },
+    {
+      "player": "Sherzod Esanov",
+      "position": "3 MF",
+      "club": "Buxoro",
+      "age": NaN
+    },
+    {
+      "player": "Eldor Shomurodov ( captain )",
+      "position": "4 FW",
+      "club": "\u0130stanbul Ba\u015fak\u015fehir",
+      "age": NaN
+    },
+    {
+      "player": "Igor Sergeev",
+      "position": "4 FW",
+      "club": "Persepolis",
+      "age": NaN
+    },
+    {
+      "player": "Jaloliddin Masharipov",
+      "position": "4 FW",
+      "club": "Esteghlal",
+      "age": NaN
+    },
+    {
+      "player": "Oston Urunov",
+      "position": "4 FW",
+      "club": "Persepolis",
+      "age": NaN
+    },
+    {
+      "player": "Dostonbek Khamdamov",
+      "position": "4 FW",
+      "club": "Pakhtakor",
+      "age": NaN
+    },
+    {
+      "player": "Abbosbek Fayzullaev",
+      "position": "4 FW",
+      "club": "\u0130stanbul Ba\u015fak\u015fehir",
+      "age": NaN
+    },
+    {
+      "player": "Azizbek Amonov",
+      "position": "4 FW",
+      "club": "Buxoro",
+      "age": NaN
+    },
+    {
+      "player": "Ruslanbek Jiyanov",
+      "position": "4 FW",
+      "club": "Navbahor",
+      "age": NaN
+    },
+    {
+      "player": "Sherzod Temirov",
+      "position": "4 FW",
+      "club": "Erbil",
+      "age": NaN
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+WORLD CUP 2026 SWEEPSTAKE: HOW THE DRAW WORKS
+
+
+    To ensure fairness and transparency, our sweepstake uses a split-pot randomization system. There is no bias towards drawing first or last. The teams are 
+    split into two pots (pot 1 and pot 2). Pot 1 contains the 18 top ranked teams in the world (18 players in the sweepstake) and pot 2 contains the rest of the teams in the tournament.
+    Everyone will draw 1 team from each of the pots.
+
+
+How the draw works:
+
+    Pot 1 contains the top 18 teams in the current FIFA mens world ranking table.
+    Pot 2 contains the rest of the teams in the tournament.
+
+POT 1: 18 teams, everyone draws 1 team from this pot.
+   
+    (Ordered by ranking)
+    France, Spain, Argentina, England, Portugal, Brazil, Netherlands, Morocco, Belgium, Germany, Croatia, Colombia, Senegal, Mexico, USA, Uruguay, Japan, Switzerland
+
+
+POT 2: 30 teams, everyone draws 1 team from this pot.
+
+    (Ordered by region)
+    Canada
+    Norway, Scotland, Austria, Bosnia & Herzegovina, Sweden, Türkiye, Czechia
+    Algeria, Cape Verde, DR Congo, Egypt, Ghana, Ivory Coast, South Africa
+    Australia, Iran, Iraq, Jordan, Qatar, Saudi Arabia, South Korea, Uzbekistan
+    Ecuador, Paraguay
+    Panama, Haiti, Curaçao
+    New Zealand
+
+Execution of the draw:
+
+    A. Deck Shuffling:
+        The moment the draw starts, the system takes Pot 1 and Pot 2 and completely shuffles them independently using a randomized sorting algorithm (the Fisher-Yates shuffle). 
+        The algorithm produces an unbiased permutation: every permutation is equally likely. 
+
+    B. Allocation:
+        The algorithm moves down the list of our 18 participants one by one. For each person, it draws 2 teams:
+
+            Step 1: It takes the first remaining team from Pot 1 (shuffled) and assigns it to the participant.
+            Step 2: It takes the first remaining team from the Pot 2 (shuffled) and assigns it to the same participant.
+
+    C. No card replacement:
+        Once a team is drawn from either pot, its removed from the pot.No teams can be drawn twice.
+
+
+Once the draw is finished the results are downloaded and pushed to the website and I will put a copy in the gc. 
+
+
+
+ const pot1Teams = ["France", "Spain", "Argentina", "England", "Portugal", "Brazil", 
+            "Netherlands", "Morocco", "Belgium", "Germany", "Croatia", "Colombia", "Senegal", 
+            "Mexico", "USA", "Uruguay", "Japan", "Switzerland"];
+            
+            const pot2Teams = ["Canada", "Norway", "Scotland", "Austria", "Bosnia & Herzegovina", 
+            "Sweden", "Turkey", "Czechia", "Algeria", "Cape Verde", "DR Congo", "Egypt", "Ghana", 
+            "Ivory Coast", "South Africa", "Australia", "Iran", "Iraq", "Jordan", "Qatar", "Saudi Arabia", 
+            "South Korea", "Uzbekistan", "Ecuador", "Paraguay", "Panama", "Haiti", "Curaçao", "New Zealand"];

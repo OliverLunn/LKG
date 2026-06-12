@@ -1,0 +1,130 @@
+[
+  {
+    "player": "Philip",
+    "teams": [
+      "Croatia",
+      "Uzbekistan"
+    ],
+    "status": "In Tournament"
+  },
+  {
+    "player": "Kimberley",
+    "teams": [
+      "USA",
+      "South Korea"
+    ],
+    "status": "In Tournament"
+  },
+  {
+    "player": "Oliver",
+    "teams": [
+      "Belgium",
+      "DR Congo"
+    ],
+    "status": "In Tournament"
+  },
+  {
+    "player": "Felix",
+    "teams": [
+      "England",
+      "Canada"
+    ],
+    "status": "In Tournament"
+  },
+  {
+    "player": "Tabitha",
+    "teams": [
+      "France",
+      "Turkey"
+    ],
+    "status": "In Tournament"
+  },
+  {
+    "player": "Florence",
+    "teams": [
+      "Argentina",
+      "Egypt"
+    ],
+    "status": "In Tournament"
+  },
+  {
+    "player": "David",
+    "teams": [
+      "Netherlands",
+      "South Africa"
+    ],
+    "status": "In Tournament"
+  },
+  {
+    "player": "Eilidh",
+    "teams": [
+      "Spain",
+      "Czechia"
+    ],
+    "status": "In Tournament"
+  },
+  {
+    "player": "Joanne",
+    "teams": [
+      "Colombia",
+      "Curaçao"
+    ],
+    "status": "In Tournament"
+  },
+  {
+    "player": "Tony",
+    "teams": [
+      "Portugal",
+      "Bosnia & Herzegovina"
+    ],
+    "status": "In Tournament"
+  },
+  {
+    "player": "Em",
+    "teams": [
+      "Brazil",
+      "Sweden"
+    ],
+    "status": "In Tournament"
+  },
+  {
+    "player": "Hannah",
+    "teams": [
+      "Morocco",
+      "Algeria"
+    ],
+    "status": "In Tournament"
+  },
+  {
+    "player": "Caz",
+    "teams": [
+      "Uruguay",
+      "Norway"
+    ],
+    "status": "In Tournament"
+  },
+  {
+    "player": "Maz",
+    "teams": [
+      "Germany",
+      "Jordan"
+    ],
+    "status": "In Tournament"
+  },
+  {
+    "player": "Malcolm",
+    "teams": [
+      "Japan",
+      "Saudi Arabia"
+    ],
+    "status": "In Tournament"
+  },
+  {
+    "player": "Frances",
+    "teams": [
+      "Mexico",
+      "Ecuador"
+    ],
+    "status": "In Tournament"
+  }
+]

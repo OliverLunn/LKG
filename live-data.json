@@ -1,0 +1,1152 @@
+{
+  "fixturesData": [
+    {
+      "date": "Jun 11",
+      "utcDate": "2026-06-11T19:00:00Z",
+      "time": "20:00",
+      "match": "Mexico vs South Africa",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 12",
+      "utcDate": "2026-06-12T02:00:00Z",
+      "time": "03:00",
+      "match": "South Korea vs Czechia",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 12",
+      "utcDate": "2026-06-12T19:00:00Z",
+      "time": "20:00",
+      "match": "Canada vs Bosnia-Herzegovina",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 13",
+      "utcDate": "2026-06-13T01:00:00Z",
+      "time": "02:00",
+      "match": "United States vs Paraguay",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 13",
+      "utcDate": "2026-06-13T19:00:00Z",
+      "time": "20:00",
+      "match": "Qatar vs Switzerland",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 13",
+      "utcDate": "2026-06-13T22:00:00Z",
+      "time": "23:00",
+      "match": "Brazil vs Morocco",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 14",
+      "utcDate": "2026-06-14T01:00:00Z",
+      "time": "02:00",
+      "match": "Haiti vs Scotland",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 14",
+      "utcDate": "2026-06-14T04:00:00Z",
+      "time": "05:00",
+      "match": "Australia vs Turkey",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 14",
+      "utcDate": "2026-06-14T17:00:00Z",
+      "time": "18:00",
+      "match": "Germany vs Curaçao",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 14",
+      "utcDate": "2026-06-14T20:00:00Z",
+      "time": "21:00",
+      "match": "Netherlands vs Japan",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 14",
+      "utcDate": "2026-06-14T23:00:00Z",
+      "time": "00:00",
+      "match": "Ivory Coast vs Ecuador",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 15",
+      "utcDate": "2026-06-15T02:00:00Z",
+      "time": "03:00",
+      "match": "Sweden vs Tunisia",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 15",
+      "utcDate": "2026-06-15T16:00:00Z",
+      "time": "17:00",
+      "match": "Spain vs Cape Verde Islands",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 15",
+      "utcDate": "2026-06-15T19:00:00Z",
+      "time": "20:00",
+      "match": "Belgium vs Egypt",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 15",
+      "utcDate": "2026-06-15T22:00:00Z",
+      "time": "23:00",
+      "match": "Saudi Arabia vs Uruguay",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 16",
+      "utcDate": "2026-06-16T01:00:00Z",
+      "time": "02:00",
+      "match": "Iran vs New Zealand",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 16",
+      "utcDate": "2026-06-16T19:00:00Z",
+      "time": "20:00",
+      "match": "France vs Senegal",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 16",
+      "utcDate": "2026-06-16T22:00:00Z",
+      "time": "23:00",
+      "match": "Iraq vs Norway",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 17",
+      "utcDate": "2026-06-17T01:00:00Z",
+      "time": "02:00",
+      "match": "Argentina vs Algeria",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 17",
+      "utcDate": "2026-06-17T04:00:00Z",
+      "time": "05:00",
+      "match": "Austria vs Jordan",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 17",
+      "utcDate": "2026-06-17T17:00:00Z",
+      "time": "18:00",
+      "match": "Portugal vs Congo DR",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 17",
+      "utcDate": "2026-06-17T20:00:00Z",
+      "time": "21:00",
+      "match": "England vs Croatia",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 17",
+      "utcDate": "2026-06-17T23:00:00Z",
+      "time": "00:00",
+      "match": "Ghana vs Panama",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 18",
+      "utcDate": "2026-06-18T02:00:00Z",
+      "time": "03:00",
+      "match": "Uzbekistan vs Colombia",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 18",
+      "utcDate": "2026-06-18T16:00:00Z",
+      "time": "17:00",
+      "match": "Czechia vs South Africa",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 18",
+      "utcDate": "2026-06-18T19:00:00Z",
+      "time": "20:00",
+      "match": "Switzerland vs Bosnia-Herzegovina",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 18",
+      "utcDate": "2026-06-18T22:00:00Z",
+      "time": "23:00",
+      "match": "Canada vs Qatar",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 19",
+      "utcDate": "2026-06-19T01:00:00Z",
+      "time": "02:00",
+      "match": "Mexico vs South Korea",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 19",
+      "utcDate": "2026-06-19T19:00:00Z",
+      "time": "20:00",
+      "match": "United States vs Australia",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 19",
+      "utcDate": "2026-06-19T22:00:00Z",
+      "time": "23:00",
+      "match": "Scotland vs Morocco",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 20",
+      "utcDate": "2026-06-20T00:30:00Z",
+      "time": "01:30",
+      "match": "Brazil vs Haiti",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 20",
+      "utcDate": "2026-06-20T03:00:00Z",
+      "time": "04:00",
+      "match": "Turkey vs Paraguay",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 20",
+      "utcDate": "2026-06-20T17:00:00Z",
+      "time": "18:00",
+      "match": "Netherlands vs Sweden",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 20",
+      "utcDate": "2026-06-20T20:00:00Z",
+      "time": "21:00",
+      "match": "Germany vs Ivory Coast",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 21",
+      "utcDate": "2026-06-21T00:00:00Z",
+      "time": "01:00",
+      "match": "Ecuador vs Curaçao",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 21",
+      "utcDate": "2026-06-21T04:00:00Z",
+      "time": "05:00",
+      "match": "Tunisia vs Japan",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 21",
+      "utcDate": "2026-06-21T16:00:00Z",
+      "time": "17:00",
+      "match": "Spain vs Saudi Arabia",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 21",
+      "utcDate": "2026-06-21T19:00:00Z",
+      "time": "20:00",
+      "match": "Belgium vs Iran",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 21",
+      "utcDate": "2026-06-21T22:00:00Z",
+      "time": "23:00",
+      "match": "Uruguay vs Cape Verde Islands",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 22",
+      "utcDate": "2026-06-22T01:00:00Z",
+      "time": "02:00",
+      "match": "New Zealand vs Egypt",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 22",
+      "utcDate": "2026-06-22T17:00:00Z",
+      "time": "18:00",
+      "match": "Argentina vs Austria",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 22",
+      "utcDate": "2026-06-22T21:00:00Z",
+      "time": "22:00",
+      "match": "France vs Iraq",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 23",
+      "utcDate": "2026-06-23T00:00:00Z",
+      "time": "01:00",
+      "match": "Norway vs Senegal",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 23",
+      "utcDate": "2026-06-23T03:00:00Z",
+      "time": "04:00",
+      "match": "Jordan vs Algeria",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 23",
+      "utcDate": "2026-06-23T17:00:00Z",
+      "time": "18:00",
+      "match": "Portugal vs Uzbekistan",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 23",
+      "utcDate": "2026-06-23T20:00:00Z",
+      "time": "21:00",
+      "match": "England vs Ghana",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 23",
+      "utcDate": "2026-06-23T23:00:00Z",
+      "time": "00:00",
+      "match": "Panama vs Croatia",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 24",
+      "utcDate": "2026-06-24T02:00:00Z",
+      "time": "03:00",
+      "match": "Colombia vs Congo DR",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 24",
+      "utcDate": "2026-06-24T19:00:00Z",
+      "time": "20:00",
+      "match": "Switzerland vs Canada",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 24",
+      "utcDate": "2026-06-24T19:00:00Z",
+      "time": "20:00",
+      "match": "Bosnia-Herzegovina vs Qatar",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 24",
+      "utcDate": "2026-06-24T22:00:00Z",
+      "time": "23:00",
+      "match": "Morocco vs Haiti",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 24",
+      "utcDate": "2026-06-24T22:00:00Z",
+      "time": "23:00",
+      "match": "Scotland vs Brazil",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 25",
+      "utcDate": "2026-06-25T01:00:00Z",
+      "time": "02:00",
+      "match": "Czechia vs Mexico",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 25",
+      "utcDate": "2026-06-25T01:00:00Z",
+      "time": "02:00",
+      "match": "South Africa vs South Korea",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 25",
+      "utcDate": "2026-06-25T20:00:00Z",
+      "time": "21:00",
+      "match": "Ecuador vs Germany",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 25",
+      "utcDate": "2026-06-25T20:00:00Z",
+      "time": "21:00",
+      "match": "Curaçao vs Ivory Coast",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 25",
+      "utcDate": "2026-06-25T23:00:00Z",
+      "time": "00:00",
+      "match": "Tunisia vs Netherlands",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 25",
+      "utcDate": "2026-06-25T23:00:00Z",
+      "time": "00:00",
+      "match": "Japan vs Sweden",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 26",
+      "utcDate": "2026-06-26T02:00:00Z",
+      "time": "03:00",
+      "match": "Turkey vs United States",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 26",
+      "utcDate": "2026-06-26T02:00:00Z",
+      "time": "03:00",
+      "match": "Paraguay vs Australia",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 26",
+      "utcDate": "2026-06-26T19:00:00Z",
+      "time": "20:00",
+      "match": "Norway vs France",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 26",
+      "utcDate": "2026-06-26T19:00:00Z",
+      "time": "20:00",
+      "match": "Senegal vs Iraq",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 27",
+      "utcDate": "2026-06-27T00:00:00Z",
+      "time": "01:00",
+      "match": "Uruguay vs Spain",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 27",
+      "utcDate": "2026-06-27T00:00:00Z",
+      "time": "01:00",
+      "match": "Cape Verde Islands vs Saudi Arabia",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 27",
+      "utcDate": "2026-06-27T03:00:00Z",
+      "time": "04:00",
+      "match": "New Zealand vs Belgium",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 27",
+      "utcDate": "2026-06-27T03:00:00Z",
+      "time": "04:00",
+      "match": "Egypt vs Iran",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 27",
+      "utcDate": "2026-06-27T21:00:00Z",
+      "time": "22:00",
+      "match": "Panama vs England",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 27",
+      "utcDate": "2026-06-27T21:00:00Z",
+      "time": "22:00",
+      "match": "Croatia vs Ghana",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 27",
+      "utcDate": "2026-06-27T23:30:00Z",
+      "time": "00:30",
+      "match": "Colombia vs Portugal",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 27",
+      "utcDate": "2026-06-27T23:30:00Z",
+      "time": "00:30",
+      "match": "Congo DR vs Uzbekistan",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 28",
+      "utcDate": "2026-06-28T02:00:00Z",
+      "time": "03:00",
+      "match": "Jordan vs Argentina",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 28",
+      "utcDate": "2026-06-28T02:00:00Z",
+      "time": "03:00",
+      "match": "Algeria vs Austria",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 28",
+      "utcDate": "2026-06-28T19:00:00Z",
+      "time": "20:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 29",
+      "utcDate": "2026-06-29T17:00:00Z",
+      "time": "18:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 29",
+      "utcDate": "2026-06-29T20:30:00Z",
+      "time": "21:30",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 30",
+      "utcDate": "2026-06-30T01:00:00Z",
+      "time": "02:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 30",
+      "utcDate": "2026-06-30T17:00:00Z",
+      "time": "18:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jun 30",
+      "utcDate": "2026-06-30T21:00:00Z",
+      "time": "22:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 1",
+      "utcDate": "2026-07-01T01:00:00Z",
+      "time": "02:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 1",
+      "utcDate": "2026-07-01T16:00:00Z",
+      "time": "17:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 1",
+      "utcDate": "2026-07-01T20:00:00Z",
+      "time": "21:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 2",
+      "utcDate": "2026-07-02T00:00:00Z",
+      "time": "01:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 2",
+      "utcDate": "2026-07-02T19:00:00Z",
+      "time": "20:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 2",
+      "utcDate": "2026-07-02T23:00:00Z",
+      "time": "00:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 3",
+      "utcDate": "2026-07-03T03:00:00Z",
+      "time": "04:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 3",
+      "utcDate": "2026-07-03T18:00:00Z",
+      "time": "19:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 3",
+      "utcDate": "2026-07-03T22:00:00Z",
+      "time": "23:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 4",
+      "utcDate": "2026-07-04T01:30:00Z",
+      "time": "02:30",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 4",
+      "utcDate": "2026-07-04T17:00:00Z",
+      "time": "18:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 4",
+      "utcDate": "2026-07-04T21:00:00Z",
+      "time": "22:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 5",
+      "utcDate": "2026-07-05T20:00:00Z",
+      "time": "21:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 6",
+      "utcDate": "2026-07-06T00:00:00Z",
+      "time": "01:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 6",
+      "utcDate": "2026-07-06T19:00:00Z",
+      "time": "20:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 7",
+      "utcDate": "2026-07-07T00:00:00Z",
+      "time": "01:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 7",
+      "utcDate": "2026-07-07T16:00:00Z",
+      "time": "17:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 7",
+      "utcDate": "2026-07-07T20:00:00Z",
+      "time": "21:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 9",
+      "utcDate": "2026-07-09T20:00:00Z",
+      "time": "21:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 10",
+      "utcDate": "2026-07-10T19:00:00Z",
+      "time": "20:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 11",
+      "utcDate": "2026-07-11T21:00:00Z",
+      "time": "22:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 12",
+      "utcDate": "2026-07-12T01:00:00Z",
+      "time": "02:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 14",
+      "utcDate": "2026-07-14T19:00:00Z",
+      "time": "20:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 15",
+      "utcDate": "2026-07-15T19:00:00Z",
+      "time": "20:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 18",
+      "utcDate": "2026-07-18T21:00:00Z",
+      "time": "22:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    },
+    {
+      "date": "Jul 19",
+      "utcDate": "2026-07-19T19:00:00Z",
+      "time": "20:00",
+      "match": "null vs null",
+      "score": "TBD",
+      "status": "Scheduled"
+    }
+  ],
+  "groupsData": {
+    "Group A": [
+      {
+        "team": "Czechia",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Mexico",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "South Africa",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "South Korea",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      }
+    ],
+    "Group B": [
+      {
+        "team": "Bosnia-Herzegovina",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Canada",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Qatar",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Switzerland",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      }
+    ],
+    "Group C": [
+      {
+        "team": "Brazil",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Morocco",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Haiti",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Scotland",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      }
+    ],
+    "Group D": [
+      {
+        "team": "Turkey",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "United States",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Paraguay",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Australia",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      }
+    ],
+    "Group E": [
+      {
+        "team": "Germany",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Curaçao",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Ivory Coast",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Ecuador",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      }
+    ],
+    "Group F": [
+      {
+        "team": "Sweden",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Netherlands",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Japan",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Tunisia",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      }
+    ],
+    "Group G": [
+      {
+        "team": "Belgium",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Egypt",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Iran",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "New Zealand",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      }
+    ],
+    "Group H": [
+      {
+        "team": "Spain",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Cape Verde Islands",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Saudi Arabia",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Uruguay",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      }
+    ],
+    "Group I": [
+      {
+        "team": "Iraq",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "France",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Senegal",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Norway",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      }
+    ],
+    "Group J": [
+      {
+        "team": "Argentina",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Algeria",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Austria",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Jordan",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      }
+    ],
+    "Group K": [
+      {
+        "team": "Congo DR",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Portugal",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Uzbekistan",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Colombia",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      }
+    ],
+    "Group L": [
+      {
+        "team": "England",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Croatia",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Ghana",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Panama",
+        "pld": 0,
+        "gd": 0,
+        "pts": 0
+      }
+    ]
+  },
+  "scorersData": [],
+  "lastUpdated": "Tue, 09 Jun 2026 14:22:17 GMT"
+}

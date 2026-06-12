@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIFA World Cup 2026 Sweepstake</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>World Cup 2026 Sweepstake</h1>
+        <div class="tabs">
+            <button class="tab-btn active" onclick="openTab('sweepstake')">The Draw</button>
+            <button class="tab-btn" onclick="openTab('fixtures')">Fixtures & Results</button>
+            <button class="tab-btn" onclick="openTab('groups')">Group Standings</button>
+            <button class="tab-btn" onclick="openTab('squads')">Squads</button>
+        </div>
+    </header>
+
+    <main>
+        <section id="sweepstake" class="tab-content active-content">
+            <h2>Assigned Teams</h2>
+            <p class="instruction-text">Click on a country to view its squad and fixtures.</p>
+            <p class="instruction-text">100% of the prize pot goes to the winning nation.</p>
+            <div class="draw-controls">
+                <div class="password-input-group">
+                    <input type="password" id="draw-password" class="draw-password-input" placeholder="Enter password to start draw">
+                    <button id="start-draw-btn" class="draw-button" onclick="startDraw()">Start The Draw</button>
+                </div>
+            </div>
+            <div id="draw-complete-message" style="display: none; text-align: center; margin: 20px 0;">
+                <div style="background: linear-gradient(135deg, #86cae6 0%, #91b9e6 100%); border: 2px solid #000000; border-radius: 10px; padding: 20px; color: #000000;">
+                    <h3 style="margin-top: 0;">Draw Complete - click to download.</h3>
+                    <p> </p>
+                    <button id="download-results-btn" class="draw-button" style="background: linear-gradient(135deg, #000000 0%, #0a0a0a 100%);" onclick="downloadDrawResults()">Full draw.</button>
+                </div>
+            </div>
+            <div id="draw-status" class="draw-status" style="display: none;">
+                <div class="draw-status-content">
+                    <div id="current-player">Current Player: <strong></strong></div>
+                    <div id="current-pot">Drawing from: <strong></strong></div>
+                    <div id="teams-remaining">Teams Remaining - Pot 1: <span id="pot1-count">0</span> | Pot 2: <span id="pot2-count">0</span></div>
+                </div>
+            </div>
+            <div id="sweepstake-list"></div>
+
+            <div class="bracket-section">
+                <h2>🌳 Tournament Knockout Tree</h2>
+                <p class="instruction-text">Scroll horizontally if viewing on a smaller screen to see the path to the Final.</p>
+                <div id="bracket-container" class="bracket-container"></div>
+            </div>
+
+            <div id="scorers-leaderboard" class="scorers-section"></div>
+        </section>
+
+        <section id="fixtures" class="tab-content">
+            <h2>Tournament Fixtures</h2>
+            <p class="instruction-text">Click on any country to see their individual path.</p>
+            <div id="fixtures-list"></div>
+        </section>
+
+        <section id="groups" class="tab-content">
+            <h2>Group Stage Tables</h2>
+            <div id="groups-list" class="groups-container"></div>
+        </section>
+
+        <section id="squads" class="tab-content">
+            <h2>Tournament Teams</h2>
+            <p class="instruction-text">Select a national team card to view upcoming fixtures and squad lists.</p>
+            <div id="squad-cards-container" class="squad-grid"></div>
+        </section>
+
+        <section id="team-detail" class="tab-content">
+            <button onclick="closeTeamDetail()" class="back-btn">← Back to Dashboard</button>
+            
+            <h2 id="team-title">Country Name</h2>
+            
+            <div class="team-grid">
+                <div class="team-fixtures-box">
+                    <h3> Team Fixtures</h3>
+                    <div id="team-fixtures-list"></div>
+                </div>
+                
+                <div class="team-squad-box">
+                    <h3>📋 Squad List</h3>
+                    <div id="team-squad-list"></div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>World Cup 2026 Sweepstake Tracker</p>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+    <script id="data-source-script" src="data.js"></script>
+</body>
+</html>
