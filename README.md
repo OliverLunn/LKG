@@ -1,1 +1,1 @@
-https://oliverlunn.github.io/World-Cup-Sweepstake/
+https://oliverlunn.github.io/LKG/
