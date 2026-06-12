@@ -1,0 +1,45 @@
+name: Update live-data.json
+
+on:
+  schedule:
+    - cron: '0 * * * *' # every hour
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-live-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install deps (none required, kept for future)
+        run: |
+          echo "No dependencies to install"
+
+      - name: Run data update script
+        env:
+          FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
+        run: |
+          node update_data.js
+
+      - name: Commit live-data.json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet --exit-code -- live-data.json; then
+            git add live-data.json
+            git commit -m "chore: update live-data.json (automated)"
+            git push origin HEAD:main
+          else
+            echo "No changes to live-data.json"
+          fi
