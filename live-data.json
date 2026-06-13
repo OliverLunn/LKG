@@ -29,8 +29,8 @@
       "utcDate": "2026-06-13T01:00:00Z",
       "time": "02:00",
       "match": "United States vs Paraguay",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "4 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 13",
@@ -914,13 +914,13 @@
     ],
     "Group D": [
       {
-        "team": "Australia",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
+        "team": "United States",
+        "pld": 1,
+        "gd": 2,
+        "pts": 3
       },
       {
-        "team": "Paraguay",
+        "team": "Australia",
         "pld": 0,
         "gd": 0,
         "pts": 0
@@ -932,9 +932,9 @@
         "pts": 0
       },
       {
-        "team": "United States",
-        "pld": 0,
-        "gd": 0,
+        "team": "Paraguay",
+        "pld": 1,
+        "gd": -2,
         "pts": 0
       }
     ],
@@ -1149,6 +1149,12 @@
   },
   "scorersData": [
     {
+      "name": "Folarin Balogun",
+      "goals": 2,
+      "team": "United States",
+      "photo": null
+    },
+    {
       "name": "Julián Quiñones",
       "goals": 1,
       "team": "Mexico",
@@ -1189,7 +1195,19 @@
       "goals": 1,
       "team": "Canada",
       "photo": null
+    },
+    {
+      "name": "Mauricio",
+      "goals": 1,
+      "team": "Paraguay",
+      "photo": null
+    },
+    {
+      "name": "Gio Reyna",
+      "goals": 1,
+      "team": "United States",
+      "photo": null
     }
   ],
-  "lastUpdated": "Fri, 12 Jun 2026 23:15:05 GMT"
+  "lastUpdated": "Sat, 13 Jun 2026 03:26:57 GMT"
 }
