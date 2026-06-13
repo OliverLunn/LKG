@@ -916,7 +916,7 @@
       {
         "team": "United States",
         "pld": 1,
-        "gd": 2,
+        "gd": 3,
         "pts": 3
       },
       {
@@ -934,7 +934,7 @@
       {
         "team": "Paraguay",
         "pld": 1,
-        "gd": -2,
+        "gd": -3,
         "pts": 0
       }
     ],
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sat, 13 Jun 2026 03:26:57 GMT"
+  "lastUpdated": "Sat, 13 Jun 2026 07:43:59 GMT"
 }
