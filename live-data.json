@@ -37,8 +37,8 @@
       "utcDate": "2026-06-13T19:00:00Z",
       "time": "20:00",
       "match": "Qatar vs Switzerland",
-      "score": "0 - 1",
-      "status": "Scheduled"
+      "score": "1 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 13",
@@ -862,12 +862,6 @@
     ],
     "Group B": [
       {
-        "team": "Switzerland",
-        "pld": 1,
-        "gd": 1,
-        "pts": 3
-      },
-      {
         "team": "Bosnia-Herzegovina",
         "pld": 1,
         "gd": 0,
@@ -882,25 +876,31 @@
       {
         "team": "Qatar",
         "pld": 1,
-        "gd": -1,
-        "pts": 0
+        "gd": 0,
+        "pts": 1
+      },
+      {
+        "team": "Switzerland",
+        "pld": 1,
+        "gd": 0,
+        "pts": 1
       }
     ],
     "Group C": [
       {
         "team": "Brazil",
-        "pld": 0,
+        "pld": 1,
         "gd": 0,
-        "pts": 0
-      },
-      {
-        "team": "Haiti",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
+        "pts": 1
       },
       {
         "team": "Morocco",
+        "pld": 1,
+        "gd": 0,
+        "pts": 1
+      },
+      {
+        "team": "Haiti",
         "pld": 0,
         "gd": 0,
         "pts": 0
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sat, 13 Jun 2026 20:14:01 GMT"
+  "lastUpdated": "Sat, 13 Jun 2026 22:01:27 GMT"
 }
