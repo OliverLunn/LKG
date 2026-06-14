@@ -77,8 +77,8 @@
       "utcDate": "2026-06-14T20:00:00Z",
       "time": "21:00",
       "match": "Netherlands vs Japan",
-      "score": "0 - 0",
-      "status": "Scheduled"
+      "score": "2 - 2",
+      "status": "Finished"
     },
     {
       "date": "Jun 14",
@@ -947,15 +947,15 @@
       },
       {
         "team": "Ecuador",
-        "pld": 0,
+        "pld": 1,
         "gd": 0,
-        "pts": 0
+        "pts": 1
       },
       {
         "team": "Ivory Coast",
-        "pld": 0,
+        "pld": 1,
         "gd": 0,
-        "pts": 0
+        "pts": 1
       },
       {
         "team": "Curaçao",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sun, 14 Jun 2026 21:08:43 GMT"
+  "lastUpdated": "Sun, 14 Jun 2026 23:06:38 GMT"
 }
