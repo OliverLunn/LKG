@@ -69,8 +69,8 @@
       "utcDate": "2026-06-14T17:00:00Z",
       "time": "18:00",
       "match": "Germany vs Curaçao",
-      "score": "1 - 0",
-      "status": "Live"
+      "score": "7 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 14",
@@ -940,16 +940,10 @@
     ],
     "Group E": [
       {
-        "team": "Curaçao",
-        "pld": 1,
-        "gd": 0,
-        "pts": 1
-      },
-      {
         "team": "Germany",
         "pld": 1,
-        "gd": 0,
-        "pts": 1
+        "gd": 6,
+        "pts": 3
       },
       {
         "team": "Ecuador",
@@ -961,6 +955,12 @@
         "team": "Ivory Coast",
         "pld": 0,
         "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Curaçao",
+        "pld": 1,
+        "gd": -6,
         "pts": 0
       }
     ],
@@ -1155,6 +1155,12 @@
       "photo": null
     },
     {
+      "name": "Kai Havertz",
+      "goals": 2,
+      "team": "Germany",
+      "photo": null
+    },
+    {
       "name": "Julián Quiñones",
       "goals": 1,
       "team": "Mexico",
@@ -1201,13 +1207,7 @@
       "goals": 1,
       "team": "Paraguay",
       "photo": null
-    },
-    {
-      "name": "Gio Reyna",
-      "goals": 1,
-      "team": "United States",
-      "photo": null
     }
   ],
-  "lastUpdated": "Sun, 14 Jun 2026 17:18:09 GMT"
+  "lastUpdated": "Sun, 14 Jun 2026 19:22:13 GMT"
 }
