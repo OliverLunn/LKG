@@ -69,8 +69,8 @@
       "utcDate": "2026-06-14T17:00:00Z",
       "time": "18:00",
       "match": "Germany vs Curaçao",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "1 - 0",
+      "status": "Live"
     },
     {
       "date": "Jun 14",
@@ -941,15 +941,15 @@
     "Group E": [
       {
         "team": "Curaçao",
-        "pld": 0,
+        "pld": 1,
         "gd": 0,
-        "pts": 0
+        "pts": 1
       },
       {
         "team": "Germany",
-        "pld": 0,
+        "pld": 1,
         "gd": 0,
-        "pts": 0
+        "pts": 1
       },
       {
         "team": "Ecuador",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sun, 14 Jun 2026 15:49:08 GMT"
+  "lastUpdated": "Sun, 14 Jun 2026 17:18:09 GMT"
 }
