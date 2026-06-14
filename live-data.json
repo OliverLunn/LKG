@@ -21,7 +21,7 @@
       "utcDate": "2026-06-12T19:00:00Z",
       "time": "20:00",
       "match": "Canada vs Bosnia-Herzegovina",
-      "score": "TBD",
+      "score": "1 - 1",
       "status": "Finished"
     },
     {
@@ -62,7 +62,7 @@
       "time": "05:00",
       "match": "Australia vs Turkey",
       "score": "2 - 0",
-      "status": "Live"
+      "status": "Finished"
     },
     {
       "date": "Jun 14",
@@ -862,7 +862,7 @@
     ],
     "Group B": [
       {
-        "team": "Bosnia-Herzegovina",
+        "team": "Switzerland",
         "pld": 1,
         "gd": 0,
         "pts": 1
@@ -880,7 +880,7 @@
         "pts": 1
       },
       {
-        "team": "Switzerland",
+        "team": "Bosnia-Herzegovina",
         "pld": 1,
         "gd": 0,
         "pts": 1
@@ -894,13 +894,13 @@
         "pts": 3
       },
       {
-        "team": "Brazil",
+        "team": "Morocco",
         "pld": 1,
         "gd": 0,
         "pts": 1
       },
       {
-        "team": "Morocco",
+        "team": "Brazil",
         "pld": 1,
         "gd": 0,
         "pts": 1
@@ -922,13 +922,13 @@
       {
         "team": "Australia",
         "pld": 1,
-        "gd": 1,
+        "gd": 2,
         "pts": 3
       },
       {
         "team": "Turkey",
         "pld": 1,
-        "gd": -1,
+        "gd": -2,
         "pts": 0
       },
       {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sun, 14 Jun 2026 05:46:44 GMT"
+  "lastUpdated": "Sun, 14 Jun 2026 11:55:08 GMT"
 }
