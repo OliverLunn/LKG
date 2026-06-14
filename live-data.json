@@ -45,8 +45,8 @@
       "utcDate": "2026-06-13T22:00:00Z",
       "time": "23:00",
       "match": "Brazil vs Morocco",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "1 - 1",
+      "status": "Live"
     },
     {
       "date": "Jun 14",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sat, 13 Jun 2026 22:01:27 GMT"
+  "lastUpdated": "Sun, 14 Jun 2026 00:04:04 GMT"
 }
