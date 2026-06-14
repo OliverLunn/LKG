@@ -21,7 +21,7 @@
       "utcDate": "2026-06-12T19:00:00Z",
       "time": "20:00",
       "match": "Canada vs Bosnia-Herzegovina",
-      "score": "1 - 1",
+      "score": "TBD",
       "status": "Finished"
     },
     {
@@ -46,23 +46,23 @@
       "time": "23:00",
       "match": "Brazil vs Morocco",
       "score": "1 - 1",
-      "status": "Live"
+      "status": "Finished"
     },
     {
       "date": "Jun 14",
       "utcDate": "2026-06-14T01:00:00Z",
       "time": "02:00",
       "match": "Haiti vs Scotland",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 14",
       "utcDate": "2026-06-14T04:00:00Z",
       "time": "05:00",
       "match": "Australia vs Turkey",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "2 - 0",
+      "status": "Live"
     },
     {
       "date": "Jun 14",
@@ -888,6 +888,12 @@
     ],
     "Group C": [
       {
+        "team": "Scotland",
+        "pld": 1,
+        "gd": 1,
+        "pts": 3
+      },
+      {
         "team": "Brazil",
         "pld": 1,
         "gd": 0,
@@ -901,14 +907,8 @@
       },
       {
         "team": "Haiti",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
-      },
-      {
-        "team": "Scotland",
-        "pld": 0,
-        "gd": 0,
+        "pld": 1,
+        "gd": -1,
         "pts": 0
       }
     ],
@@ -921,14 +921,14 @@
       },
       {
         "team": "Australia",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
+        "pld": 1,
+        "gd": 1,
+        "pts": 3
       },
       {
         "team": "Turkey",
-        "pld": 0,
-        "gd": 0,
+        "pld": 1,
+        "gd": -1,
         "pts": 0
       },
       {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sun, 14 Jun 2026 00:04:04 GMT"
+  "lastUpdated": "Sun, 14 Jun 2026 05:46:44 GMT"
 }
