@@ -102,15 +102,15 @@
       "time": "17:00",
       "match": "Spain vs Cape Verde Islands",
       "score": "0 - 0",
-      "status": "Live"
+      "status": "Finished"
     },
     {
       "date": "Jun 15",
       "utcDate": "2026-06-15T19:00:00Z",
       "time": "20:00",
       "match": "Belgium vs Egypt",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 1",
+      "status": "Live"
     },
     {
       "date": "Jun 15",
@@ -993,15 +993,9 @@
     "Group G": [
       {
         "team": "Egypt",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
-      },
-      {
-        "team": "Belgium",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
+        "pld": 1,
+        "gd": 1,
+        "pts": 3
       },
       {
         "team": "Iran",
@@ -1013,6 +1007,12 @@
         "team": "New Zealand",
         "pld": 0,
         "gd": 0,
+        "pts": 0
+      },
+      {
+        "team": "Belgium",
+        "pld": 1,
+        "gd": -1,
         "pts": 0
       }
     ],
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Mon, 15 Jun 2026 16:16:04 GMT"
+  "lastUpdated": "Mon, 15 Jun 2026 20:23:40 GMT"
 }
