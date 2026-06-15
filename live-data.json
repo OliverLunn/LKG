@@ -109,15 +109,15 @@
       "utcDate": "2026-06-15T19:00:00Z",
       "time": "20:00",
       "match": "Belgium vs Egypt",
-      "score": "0 - 1",
-      "status": "Live"
+      "score": "1 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 15",
       "utcDate": "2026-06-15T22:00:00Z",
       "time": "23:00",
       "match": "Saudi Arabia vs Uruguay",
-      "score": "TBD",
+      "score": "1 - 0",
       "status": "Scheduled"
     },
     {
@@ -992,10 +992,16 @@
     ],
     "Group G": [
       {
+        "team": "Belgium",
+        "pld": 1,
+        "gd": 0,
+        "pts": 1
+      },
+      {
         "team": "Egypt",
         "pld": 1,
-        "gd": 1,
-        "pts": 3
+        "gd": 0,
+        "pts": 1
       },
       {
         "team": "Iran",
@@ -1008,20 +1014,14 @@
         "pld": 0,
         "gd": 0,
         "pts": 0
-      },
-      {
-        "team": "Belgium",
-        "pld": 1,
-        "gd": -1,
-        "pts": 0
       }
     ],
     "Group H": [
       {
-        "team": "Cape Verde Islands",
+        "team": "Saudi Arabia",
         "pld": 1,
-        "gd": 0,
-        "pts": 1
+        "gd": 1,
+        "pts": 3
       },
       {
         "team": "Spain",
@@ -1030,15 +1030,15 @@
         "pts": 1
       },
       {
-        "team": "Saudi Arabia",
-        "pld": 0,
+        "team": "Cape Verde Islands",
+        "pld": 1,
         "gd": 0,
-        "pts": 0
+        "pts": 1
       },
       {
         "team": "Uruguay",
-        "pld": 0,
-        "gd": 0,
+        "pld": 1,
+        "gd": -1,
         "pts": 0
       }
     ],
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Mon, 15 Jun 2026 20:23:40 GMT"
+  "lastUpdated": "Mon, 15 Jun 2026 23:00:47 GMT"
 }
