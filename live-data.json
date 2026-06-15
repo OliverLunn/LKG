@@ -21,7 +21,7 @@
       "utcDate": "2026-06-12T19:00:00Z",
       "time": "20:00",
       "match": "Canada vs Bosnia-Herzegovina",
-      "score": "1 - 1",
+      "score": "TBD",
       "status": "Finished"
     },
     {
@@ -85,16 +85,16 @@
       "utcDate": "2026-06-14T23:00:00Z",
       "time": "00:00",
       "match": "Ivory Coast vs Ecuador",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "1 - 0",
+      "status": "Finished"
     },
     {
       "date": "Jun 15",
       "utcDate": "2026-06-15T02:00:00Z",
       "time": "03:00",
       "match": "Sweden vs Tunisia",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "4 - 1",
+      "status": "Live"
     },
     {
       "date": "Jun 15",
@@ -946,16 +946,16 @@
         "pts": 3
       },
       {
-        "team": "Ecuador",
-        "pld": 1,
-        "gd": 0,
-        "pts": 1
-      },
-      {
         "team": "Ivory Coast",
         "pld": 1,
-        "gd": 0,
-        "pts": 1
+        "gd": 1,
+        "pts": 3
+      },
+      {
+        "team": "Ecuador",
+        "pld": 1,
+        "gd": -1,
+        "pts": 0
       },
       {
         "team": "Curaçao",
@@ -965,6 +965,12 @@
       }
     ],
     "Group F": [
+      {
+        "team": "Sweden",
+        "pld": 1,
+        "gd": 2,
+        "pts": 3
+      },
       {
         "team": "Japan",
         "pld": 1,
@@ -978,15 +984,9 @@
         "pts": 1
       },
       {
-        "team": "Sweden",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
-      },
-      {
         "team": "Tunisia",
-        "pld": 0,
-        "gd": 0,
+        "pld": 1,
+        "gd": -2,
         "pts": 0
       }
     ],
@@ -1161,6 +1161,12 @@
       "photo": null
     },
     {
+      "name": "Yasin Ayari",
+      "goals": 2,
+      "team": "Sweden",
+      "photo": null
+    },
+    {
       "name": "Julián Quiñones",
       "goals": 1,
       "team": "Mexico",
@@ -1201,13 +1207,7 @@
       "goals": 1,
       "team": "Canada",
       "photo": null
-    },
-    {
-      "name": "Mauricio",
-      "goals": 1,
-      "team": "Paraguay",
-      "photo": null
     }
   ],
-  "lastUpdated": "Sun, 14 Jun 2026 23:06:38 GMT"
+  "lastUpdated": "Mon, 15 Jun 2026 03:58:07 GMT"
 }
