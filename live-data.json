@@ -101,8 +101,8 @@
       "utcDate": "2026-06-15T16:00:00Z",
       "time": "17:00",
       "match": "Spain vs Cape Verde Islands",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 0",
+      "status": "Live"
     },
     {
       "date": "Jun 15",
@@ -1019,18 +1019,18 @@
     "Group H": [
       {
         "team": "Cape Verde Islands",
-        "pld": 0,
+        "pld": 1,
         "gd": 0,
-        "pts": 0
-      },
-      {
-        "team": "Saudi Arabia",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
+        "pts": 1
       },
       {
         "team": "Spain",
+        "pld": 1,
+        "gd": 0,
+        "pts": 1
+      },
+      {
+        "team": "Saudi Arabia",
         "pld": 0,
         "gd": 0,
         "pts": 0
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Mon, 15 Jun 2026 10:28:07 GMT"
+  "lastUpdated": "Mon, 15 Jun 2026 16:16:04 GMT"
 }
