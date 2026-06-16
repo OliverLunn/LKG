@@ -117,16 +117,16 @@
       "utcDate": "2026-06-15T22:00:00Z",
       "time": "23:00",
       "match": "Saudi Arabia vs Uruguay",
-      "score": "1 - 0",
-      "status": "Scheduled"
+      "score": "1 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 16",
       "utcDate": "2026-06-16T01:00:00Z",
       "time": "02:00",
       "match": "Iran vs New Zealand",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "2 - 2",
+      "status": "Finished"
     },
     {
       "date": "Jun 16",
@@ -992,6 +992,18 @@
     ],
     "Group G": [
       {
+        "team": "Iran",
+        "pld": 1,
+        "gd": 0,
+        "pts": 1
+      },
+      {
+        "team": "New Zealand",
+        "pld": 1,
+        "gd": 0,
+        "pts": 1
+      },
+      {
         "team": "Belgium",
         "pld": 1,
         "gd": 0,
@@ -1002,26 +1014,20 @@
         "pld": 1,
         "gd": 0,
         "pts": 1
-      },
-      {
-        "team": "Iran",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
-      },
-      {
-        "team": "New Zealand",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
       }
     ],
     "Group H": [
       {
         "team": "Saudi Arabia",
         "pld": 1,
-        "gd": 1,
-        "pts": 3
+        "gd": 0,
+        "pts": 1
+      },
+      {
+        "team": "Uruguay",
+        "pld": 1,
+        "gd": 0,
+        "pts": 1
       },
       {
         "team": "Spain",
@@ -1034,12 +1040,6 @@
         "pld": 1,
         "gd": 0,
         "pts": 1
-      },
-      {
-        "team": "Uruguay",
-        "pld": 1,
-        "gd": -1,
-        "pts": 0
       }
     ],
     "Group I": [
@@ -1167,6 +1167,12 @@
       "photo": null
     },
     {
+      "name": "Elijah Just",
+      "goals": 2,
+      "team": "New Zealand",
+      "photo": null
+    },
+    {
       "name": "Julián Quiñones",
       "goals": 1,
       "team": "Mexico",
@@ -1201,13 +1207,7 @@
       "goals": 1,
       "team": "Bosnia-Herzegovina",
       "photo": null
-    },
-    {
-      "name": "Cyle Larin",
-      "goals": 1,
-      "team": "Canada",
-      "photo": null
     }
   ],
-  "lastUpdated": "Mon, 15 Jun 2026 23:00:47 GMT"
+  "lastUpdated": "Tue, 16 Jun 2026 03:46:03 GMT"
 }
