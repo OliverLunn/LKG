@@ -21,7 +21,7 @@
       "utcDate": "2026-06-12T19:00:00Z",
       "time": "20:00",
       "match": "Canada vs Bosnia-Herzegovina",
-      "score": "TBD",
+      "score": "1 - 1",
       "status": "Finished"
     },
     {
@@ -133,16 +133,16 @@
       "utcDate": "2026-06-16T19:00:00Z",
       "time": "20:00",
       "match": "France vs Senegal",
-      "score": "0 - 0",
-      "status": "Live"
+      "score": "3 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 16",
       "utcDate": "2026-06-16T22:00:00Z",
       "time": "23:00",
       "match": "Iraq vs Norway",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 0",
+      "status": "Live"
     },
     {
       "date": "Jun 17",
@@ -1046,25 +1046,25 @@
       {
         "team": "France",
         "pld": 1,
+        "gd": 2,
+        "pts": 3
+      },
+      {
+        "team": "Iraq",
+        "pld": 1,
+        "gd": 0,
+        "pts": 1
+      },
+      {
+        "team": "Norway",
+        "pld": 1,
         "gd": 0,
         "pts": 1
       },
       {
         "team": "Senegal",
         "pld": 1,
-        "gd": 0,
-        "pts": 1
-      },
-      {
-        "team": "Iraq",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
-      },
-      {
-        "team": "Norway",
-        "pld": 0,
-        "gd": 0,
+        "gd": -2,
         "pts": 0
       }
     ],
@@ -1173,6 +1173,12 @@
       "photo": null
     },
     {
+      "name": "Kylian Mbappé",
+      "goals": 2,
+      "team": "France",
+      "photo": null
+    },
+    {
       "name": "Julián Quiñones",
       "goals": 1,
       "team": "Mexico",
@@ -1201,13 +1207,7 @@
       "goals": 1,
       "team": "South Korea",
       "photo": null
-    },
-    {
-      "name": "Jovo Lukić",
-      "goals": 1,
-      "team": "Bosnia-Herzegovina",
-      "photo": null
     }
   ],
-  "lastUpdated": "Tue, 16 Jun 2026 19:32:18 GMT"
+  "lastUpdated": "Tue, 16 Jun 2026 22:09:03 GMT"
 }
