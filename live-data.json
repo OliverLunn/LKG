@@ -992,13 +992,13 @@
     ],
     "Group G": [
       {
-        "team": "Iran",
+        "team": "New Zealand",
         "pld": 1,
         "gd": 0,
         "pts": 1
       },
       {
-        "team": "New Zealand",
+        "team": "Iran",
         "pld": 1,
         "gd": 0,
         "pts": 1
@@ -1018,13 +1018,13 @@
     ],
     "Group H": [
       {
-        "team": "Saudi Arabia",
+        "team": "Uruguay",
         "pld": 1,
         "gd": 0,
         "pts": 1
       },
       {
-        "team": "Uruguay",
+        "team": "Saudi Arabia",
         "pld": 1,
         "gd": 0,
         "pts": 1
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Tue, 16 Jun 2026 03:46:03 GMT"
+  "lastUpdated": "Tue, 16 Jun 2026 09:24:05 GMT"
 }
