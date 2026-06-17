@@ -173,16 +173,16 @@
       "utcDate": "2026-06-17T20:00:00Z",
       "time": "21:00",
       "match": "England vs Croatia",
-      "score": "2 - 2",
-      "status": "Scheduled"
+      "score": "4 - 2",
+      "status": "Finished"
     },
     {
       "date": "Jun 17",
       "utcDate": "2026-06-17T23:00:00Z",
       "time": "00:00",
       "match": "Ghana vs Panama",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 0",
+      "status": "Live"
     },
     {
       "date": "Jun 18",
@@ -1124,25 +1124,25 @@
       {
         "team": "England",
         "pld": 1,
+        "gd": 2,
+        "pts": 3
+      },
+      {
+        "team": "Ghana",
+        "pld": 1,
+        "gd": 0,
+        "pts": 1
+      },
+      {
+        "team": "Panama",
+        "pld": 1,
         "gd": 0,
         "pts": 1
       },
       {
         "team": "Croatia",
         "pld": 1,
-        "gd": 0,
-        "pts": 1
-      },
-      {
-        "team": "Ghana",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
-      },
-      {
-        "team": "Panama",
-        "pld": 0,
-        "gd": 0,
+        "gd": -2,
         "pts": 0
       }
     ]
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Wed, 17 Jun 2026 21:03:19 GMT"
+  "lastUpdated": "Wed, 17 Jun 2026 23:21:26 GMT"
 }
