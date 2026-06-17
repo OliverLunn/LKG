@@ -21,7 +21,7 @@
       "utcDate": "2026-06-12T19:00:00Z",
       "time": "20:00",
       "match": "Canada vs Bosnia-Herzegovina",
-      "score": "1 - 1",
+      "score": "TBD",
       "status": "Finished"
     },
     {
@@ -157,8 +157,8 @@
       "utcDate": "2026-06-17T04:00:00Z",
       "time": "05:00",
       "match": "Austria vs Jordan",
-      "score": "2 - 1",
-      "status": "Live"
+      "score": "3 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 17",
@@ -1078,13 +1078,13 @@
       {
         "team": "Austria",
         "pld": 1,
-        "gd": 1,
+        "gd": 2,
         "pts": 3
       },
       {
         "team": "Jordan",
         "pld": 1,
-        "gd": -1,
+        "gd": -2,
         "pts": 0
       },
       {
@@ -1147,6 +1147,67 @@
       }
     ]
   },
-  "scorersData": [],
-  "lastUpdated": "Wed, 17 Jun 2026 06:07:56 GMT"
+  "scorersData": [
+    {
+      "name": "Lionel Messi",
+      "goals": 3,
+      "team": "Argentina",
+      "photo": null
+    },
+    {
+      "name": "Folarin Balogun",
+      "goals": 2,
+      "team": "United States",
+      "photo": null
+    },
+    {
+      "name": "Kai Havertz",
+      "goals": 2,
+      "team": "Germany",
+      "photo": null
+    },
+    {
+      "name": "Yasin Ayari",
+      "goals": 2,
+      "team": "Sweden",
+      "photo": null
+    },
+    {
+      "name": "Elijah Just",
+      "goals": 2,
+      "team": "New Zealand",
+      "photo": null
+    },
+    {
+      "name": "Kylian Mbappé",
+      "goals": 2,
+      "team": "France",
+      "photo": null
+    },
+    {
+      "name": "Erling Haaland",
+      "goals": 2,
+      "team": "Norway",
+      "photo": null
+    },
+    {
+      "name": "Julián Quiñones",
+      "goals": 1,
+      "team": "Mexico",
+      "photo": null
+    },
+    {
+      "name": "Raúl Jiménez",
+      "goals": 1,
+      "team": "Mexico",
+      "photo": null
+    },
+    {
+      "name": "Ladislav Krejčí",
+      "goals": 1,
+      "team": "Czechia",
+      "photo": null
+    }
+  ],
+  "lastUpdated": "Wed, 17 Jun 2026 11:45:00 GMT"
 }
