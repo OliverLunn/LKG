@@ -141,8 +141,8 @@
       "utcDate": "2026-06-16T22:00:00Z",
       "time": "23:00",
       "match": "Iraq vs Norway",
-      "score": "0 - 0",
-      "status": "Live"
+      "score": "1 - 4",
+      "status": "Finished"
     },
     {
       "date": "Jun 17",
@@ -1050,16 +1050,16 @@
         "pts": 3
       },
       {
-        "team": "Iraq",
-        "pld": 1,
-        "gd": 0,
-        "pts": 1
-      },
-      {
         "team": "Norway",
         "pld": 1,
-        "gd": 0,
-        "pts": 1
+        "gd": 2,
+        "pts": 3
+      },
+      {
+        "team": "Iraq",
+        "pld": 1,
+        "gd": -2,
+        "pts": 0
       },
       {
         "team": "Senegal",
@@ -1179,6 +1179,12 @@
       "photo": null
     },
     {
+      "name": "Erling Haaland",
+      "goals": 2,
+      "team": "Norway",
+      "photo": null
+    },
+    {
       "name": "Julián Quiñones",
       "goals": 1,
       "team": "Mexico",
@@ -1201,13 +1207,7 @@
       "goals": 1,
       "team": "South Korea",
       "photo": null
-    },
-    {
-      "name": "Hyun-Gyu Oh",
-      "goals": 1,
-      "team": "South Korea",
-      "photo": null
     }
   ],
-  "lastUpdated": "Tue, 16 Jun 2026 22:09:03 GMT"
+  "lastUpdated": "Wed, 17 Jun 2026 00:14:00 GMT"
 }
