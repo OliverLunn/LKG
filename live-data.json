@@ -149,16 +149,16 @@
       "utcDate": "2026-06-17T01:00:00Z",
       "time": "02:00",
       "match": "Argentina vs Algeria",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "3 - 0",
+      "status": "Finished"
     },
     {
       "date": "Jun 17",
       "utcDate": "2026-06-17T04:00:00Z",
       "time": "05:00",
       "match": "Austria vs Jordan",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "2 - 1",
+      "status": "Live"
     },
     {
       "date": "Jun 17",
@@ -1044,53 +1044,53 @@
     ],
     "Group I": [
       {
+        "team": "Norway",
+        "pld": 1,
+        "gd": 3,
+        "pts": 3
+      },
+      {
         "team": "France",
         "pld": 1,
         "gd": 2,
         "pts": 3
       },
       {
-        "team": "Norway",
-        "pld": 1,
-        "gd": 2,
-        "pts": 3
-      },
-      {
-        "team": "Iraq",
+        "team": "Senegal",
         "pld": 1,
         "gd": -2,
         "pts": 0
       },
       {
-        "team": "Senegal",
+        "team": "Iraq",
         "pld": 1,
-        "gd": -2,
+        "gd": -3,
         "pts": 0
       }
     ],
     "Group J": [
       {
-        "team": "Algeria",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
-      },
-      {
         "team": "Argentina",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
-      },
-      {
-        "team": "Jordan",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
+        "pld": 1,
+        "gd": 3,
+        "pts": 3
       },
       {
         "team": "Austria",
-        "pld": 0,
-        "gd": 0,
+        "pld": 1,
+        "gd": 1,
+        "pts": 3
+      },
+      {
+        "team": "Jordan",
+        "pld": 1,
+        "gd": -1,
+        "pts": 0
+      },
+      {
+        "team": "Algeria",
+        "pld": 1,
+        "gd": -3,
         "pts": 0
       }
     ],
@@ -1147,67 +1147,6 @@
       }
     ]
   },
-  "scorersData": [
-    {
-      "name": "Folarin Balogun",
-      "goals": 2,
-      "team": "United States",
-      "photo": null
-    },
-    {
-      "name": "Kai Havertz",
-      "goals": 2,
-      "team": "Germany",
-      "photo": null
-    },
-    {
-      "name": "Yasin Ayari",
-      "goals": 2,
-      "team": "Sweden",
-      "photo": null
-    },
-    {
-      "name": "Elijah Just",
-      "goals": 2,
-      "team": "New Zealand",
-      "photo": null
-    },
-    {
-      "name": "Kylian Mbappé",
-      "goals": 2,
-      "team": "France",
-      "photo": null
-    },
-    {
-      "name": "Erling Haaland",
-      "goals": 2,
-      "team": "Norway",
-      "photo": null
-    },
-    {
-      "name": "Julián Quiñones",
-      "goals": 1,
-      "team": "Mexico",
-      "photo": null
-    },
-    {
-      "name": "Raúl Jiménez",
-      "goals": 1,
-      "team": "Mexico",
-      "photo": null
-    },
-    {
-      "name": "Ladislav Krejčí",
-      "goals": 1,
-      "team": "Czechia",
-      "photo": null
-    },
-    {
-      "name": "In-beom Hwang",
-      "goals": 1,
-      "team": "South Korea",
-      "photo": null
-    }
-  ],
-  "lastUpdated": "Wed, 17 Jun 2026 00:14:00 GMT"
+  "scorersData": [],
+  "lastUpdated": "Wed, 17 Jun 2026 06:07:56 GMT"
 }
