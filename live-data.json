@@ -197,8 +197,8 @@
       "utcDate": "2026-06-18T16:00:00Z",
       "time": "17:00",
       "match": "Czechia vs South Africa",
-      "score": "1 - 0",
-      "status": "Live"
+      "score": "1 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 18",
@@ -863,9 +863,15 @@
     "Group B": [
       {
         "team": "Switzerland",
-        "pld": 1,
+        "pld": 2,
         "gd": 0,
-        "pts": 1
+        "pts": 2
+      },
+      {
+        "team": "Bosnia-Herzegovina",
+        "pld": 2,
+        "gd": 0,
+        "pts": 2
       },
       {
         "team": "Canada",
@@ -875,12 +881,6 @@
       },
       {
         "team": "Qatar",
-        "pld": 1,
-        "gd": 0,
-        "pts": 1
-      },
-      {
-        "team": "Bosnia-Herzegovina",
         "pld": 1,
         "gd": 0,
         "pts": 1
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Thu, 18 Jun 2026 16:28:10 GMT"
+  "lastUpdated": "Thu, 18 Jun 2026 19:25:35 GMT"
 }
