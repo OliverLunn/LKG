@@ -197,8 +197,8 @@
       "utcDate": "2026-06-18T16:00:00Z",
       "time": "17:00",
       "match": "Czechia vs South Africa",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "1 - 0",
+      "status": "Live"
     },
     {
       "date": "Jun 18",
@@ -849,15 +849,15 @@
       },
       {
         "team": "Czechia",
-        "pld": 1,
+        "pld": 2,
         "gd": -1,
-        "pts": 0
+        "pts": 1
       },
       {
         "team": "South Africa",
-        "pld": 1,
+        "pld": 2,
         "gd": -2,
-        "pts": 0
+        "pts": 1
       }
     ],
     "Group B": [
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Thu, 18 Jun 2026 12:23:05 GMT"
+  "lastUpdated": "Thu, 18 Jun 2026 16:28:10 GMT"
 }
