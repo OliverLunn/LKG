@@ -21,7 +21,7 @@
       "utcDate": "2026-06-12T19:00:00Z",
       "time": "20:00",
       "match": "Canada vs Bosnia-Herzegovina",
-      "score": "1 - 1",
+      "score": "TBD",
       "status": "Finished"
     },
     {
@@ -205,8 +205,8 @@
       "utcDate": "2026-06-18T19:00:00Z",
       "time": "20:00",
       "match": "Switzerland vs Bosnia-Herzegovina",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "4 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 18",
@@ -864,25 +864,25 @@
       {
         "team": "Switzerland",
         "pld": 2,
+        "gd": 3,
+        "pts": 4
+      },
+      {
+        "team": "Canada",
+        "pld": 2,
+        "gd": 0,
+        "pts": 2
+      },
+      {
+        "team": "Qatar",
+        "pld": 2,
         "gd": 0,
         "pts": 2
       },
       {
         "team": "Bosnia-Herzegovina",
         "pld": 2,
-        "gd": 0,
-        "pts": 2
-      },
-      {
-        "team": "Canada",
-        "pld": 1,
-        "gd": 0,
-        "pts": 1
-      },
-      {
-        "team": "Qatar",
-        "pld": 1,
-        "gd": 0,
+        "gd": -3,
         "pts": 1
       }
     ],
@@ -1197,17 +1197,17 @@
       "photo": null
     },
     {
-      "name": "Julián Quiñones",
-      "goals": 1,
-      "team": "Mexico",
+      "name": "Johan Manzambi",
+      "goals": 2,
+      "team": "Switzerland",
       "photo": null
     },
     {
-      "name": "Raúl Jiménez",
+      "name": "Julián Quiñones",
       "goals": 1,
       "team": "Mexico",
       "photo": null
     }
   ],
-  "lastUpdated": "Thu, 18 Jun 2026 19:25:35 GMT"
+  "lastUpdated": "Thu, 18 Jun 2026 22:04:58 GMT"
 }
