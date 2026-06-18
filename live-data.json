@@ -181,16 +181,16 @@
       "utcDate": "2026-06-17T23:00:00Z",
       "time": "00:00",
       "match": "Ghana vs Panama",
-      "score": "0 - 0",
-      "status": "Live"
+      "score": "1 - 0",
+      "status": "Finished"
     },
     {
       "date": "Jun 18",
       "utcDate": "2026-06-18T02:00:00Z",
       "time": "03:00",
       "match": "Uzbekistan vs Colombia",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "1 - 2",
+      "status": "Live"
     },
     {
       "date": "Jun 18",
@@ -1096,6 +1096,12 @@
     ],
     "Group K": [
       {
+        "team": "Colombia",
+        "pld": 1,
+        "gd": 1,
+        "pts": 3
+      },
+      {
         "team": "Congo DR",
         "pld": 1,
         "gd": 0,
@@ -1108,15 +1114,9 @@
         "pts": 1
       },
       {
-        "team": "Colombia",
-        "pld": 0,
-        "gd": 0,
-        "pts": 0
-      },
-      {
         "team": "Uzbekistan",
-        "pld": 0,
-        "gd": 0,
+        "pld": 1,
+        "gd": -1,
         "pts": 0
       }
     ],
@@ -1130,14 +1130,14 @@
       {
         "team": "Ghana",
         "pld": 1,
-        "gd": 0,
-        "pts": 1
+        "gd": 1,
+        "pts": 3
       },
       {
         "team": "Panama",
         "pld": 1,
-        "gd": 0,
-        "pts": 1
+        "gd": -1,
+        "pts": 0
       },
       {
         "team": "Croatia",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Wed, 17 Jun 2026 23:21:26 GMT"
+  "lastUpdated": "Thu, 18 Jun 2026 03:38:06 GMT"
 }
