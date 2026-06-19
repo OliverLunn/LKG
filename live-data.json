@@ -21,7 +21,7 @@
       "utcDate": "2026-06-12T19:00:00Z",
       "time": "20:00",
       "match": "Canada vs Bosnia-Herzegovina",
-      "score": "TBD",
+      "score": "1 - 1",
       "status": "Finished"
     },
     {
@@ -213,8 +213,8 @@
       "utcDate": "2026-06-18T22:00:00Z",
       "time": "23:00",
       "match": "Canada vs Qatar",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "6 - 0",
+      "status": "Finished"
     },
     {
       "date": "Jun 19",
@@ -862,27 +862,27 @@
     ],
     "Group B": [
       {
+        "team": "Canada",
+        "pld": 2,
+        "gd": 6,
+        "pts": 4
+      },
+      {
         "team": "Switzerland",
         "pld": 2,
         "gd": 3,
         "pts": 4
       },
       {
-        "team": "Canada",
+        "team": "Bosnia-Herzegovina",
         "pld": 2,
-        "gd": 0,
-        "pts": 2
+        "gd": -3,
+        "pts": 1
       },
       {
         "team": "Qatar",
         "pld": 2,
-        "gd": 0,
-        "pts": 2
-      },
-      {
-        "team": "Bosnia-Herzegovina",
-        "pld": 2,
-        "gd": -3,
+        "gd": -6,
         "pts": 1
       }
     ],
@@ -1155,6 +1155,18 @@
       "photo": null
     },
     {
+      "name": "Jonathan David",
+      "goals": 3,
+      "team": "Canada",
+      "photo": null
+    },
+    {
+      "name": "Cyle Larin",
+      "goals": 2,
+      "team": "Canada",
+      "photo": null
+    },
+    {
       "name": "Folarin Balogun",
       "goals": 2,
       "team": "United States",
@@ -1195,19 +1207,7 @@
       "goals": 2,
       "team": "England",
       "photo": null
-    },
-    {
-      "name": "Johan Manzambi",
-      "goals": 2,
-      "team": "Switzerland",
-      "photo": null
-    },
-    {
-      "name": "Julián Quiñones",
-      "goals": 1,
-      "team": "Mexico",
-      "photo": null
     }
   ],
-  "lastUpdated": "Thu, 18 Jun 2026 22:04:58 GMT"
+  "lastUpdated": "Fri, 19 Jun 2026 00:24:11 GMT"
 }
