@@ -229,8 +229,8 @@
       "utcDate": "2026-06-19T19:00:00Z",
       "time": "20:00",
       "match": "United States vs Australia",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "1 - 0",
+      "status": "Live"
     },
     {
       "date": "Jun 19",
@@ -915,14 +915,14 @@
     "Group D": [
       {
         "team": "United States",
-        "pld": 1,
-        "gd": 3,
-        "pts": 3
+        "pld": 2,
+        "gd": 4,
+        "pts": 6
       },
       {
         "team": "Australia",
-        "pld": 1,
-        "gd": 2,
+        "pld": 2,
+        "gd": 1,
         "pts": 3
       },
       {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Fri, 19 Jun 2026 17:22:25 GMT"
+  "lastUpdated": "Fri, 19 Jun 2026 19:45:54 GMT"
 }
