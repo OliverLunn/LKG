@@ -230,15 +230,15 @@
       "time": "20:00",
       "match": "United States vs Australia",
       "score": "2 - 0",
-      "status": "Live"
+      "status": "Finished"
     },
     {
       "date": "Jun 19",
       "utcDate": "2026-06-19T22:00:00Z",
       "time": "23:00",
       "match": "Scotland vs Morocco",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 1",
+      "status": "Live"
     },
     {
       "date": "Jun 20",
@@ -888,16 +888,16 @@
     ],
     "Group C": [
       {
-        "team": "Scotland",
-        "pld": 1,
+        "team": "Morocco",
+        "pld": 2,
         "gd": 1,
-        "pts": 3
+        "pts": 4
       },
       {
-        "team": "Morocco",
-        "pld": 1,
+        "team": "Scotland",
+        "pld": 2,
         "gd": 0,
-        "pts": 1
+        "pts": 3
       },
       {
         "team": "Brazil",
@@ -1173,6 +1173,12 @@
       "photo": null
     },
     {
+      "name": "Ismael Saibari",
+      "goals": 2,
+      "team": "Morocco",
+      "photo": null
+    },
+    {
       "name": "Kai Havertz",
       "goals": 2,
       "team": "Germany",
@@ -1201,13 +1207,7 @@
       "goals": 2,
       "team": "Norway",
       "photo": null
-    },
-    {
-      "name": "Harry Kane",
-      "goals": 2,
-      "team": "England",
-      "photo": null
     }
   ],
-  "lastUpdated": "Fri, 19 Jun 2026 21:07:59 GMT"
+  "lastUpdated": "Fri, 19 Jun 2026 22:54:09 GMT"
 }
