@@ -221,8 +221,8 @@
       "utcDate": "2026-06-19T01:00:00Z",
       "time": "02:00",
       "match": "Mexico vs South Korea",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "1 - 0",
+      "status": "Finished"
     },
     {
       "date": "Jun 19",
@@ -837,14 +837,14 @@
     "Group A": [
       {
         "team": "Mexico",
-        "pld": 1,
-        "gd": 2,
-        "pts": 3
+        "pld": 2,
+        "gd": 3,
+        "pts": 6
       },
       {
         "team": "South Korea",
-        "pld": 1,
-        "gd": 1,
+        "pld": 2,
+        "gd": 0,
         "pts": 3
       },
       {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Fri, 19 Jun 2026 00:24:11 GMT"
+  "lastUpdated": "Fri, 19 Jun 2026 06:15:20 GMT"
 }
