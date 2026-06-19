@@ -229,7 +229,7 @@
       "utcDate": "2026-06-19T19:00:00Z",
       "time": "20:00",
       "match": "United States vs Australia",
-      "score": "1 - 0",
+      "score": "2 - 0",
       "status": "Live"
     },
     {
@@ -916,13 +916,13 @@
       {
         "team": "United States",
         "pld": 2,
-        "gd": 4,
+        "gd": 5,
         "pts": 6
       },
       {
         "team": "Australia",
         "pld": 2,
-        "gd": 1,
+        "gd": 0,
         "pts": 3
       },
       {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Fri, 19 Jun 2026 19:45:54 GMT"
+  "lastUpdated": "Fri, 19 Jun 2026 21:07:59 GMT"
 }
