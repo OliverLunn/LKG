@@ -238,23 +238,23 @@
       "time": "23:00",
       "match": "Scotland vs Morocco",
       "score": "0 - 1",
-      "status": "Live"
+      "status": "Finished"
     },
     {
       "date": "Jun 20",
       "utcDate": "2026-06-20T00:30:00Z",
       "time": "01:30",
       "match": "Brazil vs Haiti",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "3 - 0",
+      "status": "Finished"
     },
     {
       "date": "Jun 20",
       "utcDate": "2026-06-20T03:00:00Z",
       "time": "04:00",
       "match": "Turkey vs Paraguay",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 1",
+      "status": "Live"
     },
     {
       "date": "Jun 20",
@@ -888,6 +888,12 @@
     ],
     "Group C": [
       {
+        "team": "Brazil",
+        "pld": 2,
+        "gd": 3,
+        "pts": 4
+      },
+      {
         "team": "Morocco",
         "pld": 2,
         "gd": 1,
@@ -900,15 +906,9 @@
         "pts": 3
       },
       {
-        "team": "Brazil",
-        "pld": 1,
-        "gd": 0,
-        "pts": 1
-      },
-      {
         "team": "Haiti",
-        "pld": 1,
-        "gd": -1,
+        "pld": 2,
+        "gd": -4,
         "pts": 0
       }
     ],
@@ -926,14 +926,14 @@
         "pts": 3
       },
       {
-        "team": "Turkey",
-        "pld": 1,
+        "team": "Paraguay",
+        "pld": 2,
         "gd": -2,
-        "pts": 0
+        "pts": 3
       },
       {
-        "team": "Paraguay",
-        "pld": 1,
+        "team": "Turkey",
+        "pld": 2,
         "gd": -3,
         "pts": 0
       }
@@ -1179,6 +1179,12 @@
       "photo": null
     },
     {
+      "name": "Vinicius Junior",
+      "goals": 2,
+      "team": "Brazil",
+      "photo": null
+    },
+    {
       "name": "Kai Havertz",
       "goals": 2,
       "team": "Germany",
@@ -1201,13 +1207,7 @@
       "goals": 2,
       "team": "France",
       "photo": null
-    },
-    {
-      "name": "Erling Haaland",
-      "goals": 2,
-      "team": "Norway",
-      "photo": null
     }
   ],
-  "lastUpdated": "Sat, 20 Jun 2026 00:07:06 GMT"
+  "lastUpdated": "Sat, 20 Jun 2026 05:10:50 GMT"
 }
