@@ -21,7 +21,7 @@
       "utcDate": "2026-06-12T19:00:00Z",
       "time": "20:00",
       "match": "Canada vs Bosnia-Herzegovina",
-      "score": "1 - 1",
+      "score": "TBD",
       "status": "Finished"
     },
     {
@@ -261,8 +261,8 @@
       "utcDate": "2026-06-20T17:00:00Z",
       "time": "18:00",
       "match": "Netherlands vs Sweden",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "2 - 0",
+      "status": "Live"
     },
     {
       "date": "Jun 20",
@@ -967,18 +967,18 @@
     "Group F": [
       {
         "team": "Sweden",
-        "pld": 1,
+        "pld": 2,
         "gd": 4,
-        "pts": 3
-      },
-      {
-        "team": "Japan",
-        "pld": 1,
-        "gd": 0,
-        "pts": 1
+        "pts": 4
       },
       {
         "team": "Netherlands",
+        "pld": 2,
+        "gd": 0,
+        "pts": 2
+      },
+      {
+        "team": "Japan",
         "pld": 1,
         "gd": 0,
         "pts": 1
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sat, 20 Jun 2026 15:45:26 GMT"
+  "lastUpdated": "Sat, 20 Jun 2026 17:23:45 GMT"
 }
