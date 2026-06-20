@@ -269,8 +269,8 @@
       "utcDate": "2026-06-20T20:00:00Z",
       "time": "21:00",
       "match": "Germany vs Ivory Coast",
-      "score": "0 - 1",
-      "status": "Live"
+      "score": "2 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 21",
@@ -940,15 +940,15 @@
     ],
     "Group E": [
       {
-        "team": "Ivory Coast",
+        "team": "Germany",
         "pld": 2,
-        "gd": 2,
+        "gd": 7,
         "pts": 6
       },
       {
-        "team": "Germany",
+        "team": "Ivory Coast",
         "pld": 2,
-        "gd": 5,
+        "gd": 0,
         "pts": 3
       },
       {
@@ -1149,6 +1149,12 @@
   },
   "scorersData": [
     {
+      "name": "Deniz Undav",
+      "goals": 3,
+      "team": "Germany",
+      "photo": null
+    },
+    {
       "name": "Lionel Messi",
       "goals": 3,
       "team": "Argentina",
@@ -1201,13 +1207,7 @@
       "goals": 2,
       "team": "New Zealand",
       "photo": null
-    },
-    {
-      "name": "Kylian Mbappé",
-      "goals": 2,
-      "team": "France",
-      "photo": null
     }
   ],
-  "lastUpdated": "Sat, 20 Jun 2026 21:15:04 GMT"
+  "lastUpdated": "Sat, 20 Jun 2026 23:05:03 GMT"
 }
