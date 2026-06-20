@@ -269,8 +269,8 @@
       "utcDate": "2026-06-20T20:00:00Z",
       "time": "21:00",
       "match": "Germany vs Ivory Coast",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 1",
+      "status": "Live"
     },
     {
       "date": "Jun 21",
@@ -940,15 +940,15 @@
     ],
     "Group E": [
       {
-        "team": "Germany",
-        "pld": 1,
-        "gd": 6,
-        "pts": 3
+        "team": "Ivory Coast",
+        "pld": 2,
+        "gd": 2,
+        "pts": 6
       },
       {
-        "team": "Ivory Coast",
-        "pld": 1,
-        "gd": 1,
+        "team": "Germany",
+        "pld": 2,
+        "gd": 5,
         "pts": 3
       },
       {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sat, 20 Jun 2026 19:21:21 GMT"
+  "lastUpdated": "Sat, 20 Jun 2026 21:15:04 GMT"
 }
