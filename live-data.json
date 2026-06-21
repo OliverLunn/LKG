@@ -277,8 +277,8 @@
       "utcDate": "2026-06-21T00:00:00Z",
       "time": "01:00",
       "match": "Ecuador vs Curaçao",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 0",
+      "status": "Finished"
     },
     {
       "date": "Jun 21",
@@ -953,15 +953,15 @@
       },
       {
         "team": "Ecuador",
-        "pld": 1,
+        "pld": 2,
         "gd": -1,
-        "pts": 0
+        "pts": 1
       },
       {
         "team": "Curaçao",
-        "pld": 1,
+        "pld": 2,
         "gd": -6,
-        "pts": 0
+        "pts": 1
       }
     ],
     "Group F": [
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sat, 20 Jun 2026 23:05:03 GMT"
+  "lastUpdated": "Sun, 21 Jun 2026 03:54:02 GMT"
 }
