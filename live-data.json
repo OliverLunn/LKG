@@ -21,7 +21,7 @@
       "utcDate": "2026-06-12T19:00:00Z",
       "time": "20:00",
       "match": "Canada vs Bosnia-Herzegovina",
-      "score": "TBD",
+      "score": "1 - 1",
       "status": "Finished"
     },
     {
@@ -293,8 +293,8 @@
       "utcDate": "2026-06-21T16:00:00Z",
       "time": "17:00",
       "match": "Spain vs Saudi Arabia",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "1 - 0",
+      "status": "Live"
     },
     {
       "date": "Jun 21",
@@ -1018,19 +1018,19 @@
     ],
     "Group H": [
       {
-        "team": "Uruguay",
-        "pld": 1,
-        "gd": 0,
-        "pts": 1
-      },
-      {
         "team": "Saudi Arabia",
-        "pld": 1,
+        "pld": 2,
         "gd": 0,
-        "pts": 1
+        "pts": 2
       },
       {
         "team": "Spain",
+        "pld": 2,
+        "gd": 0,
+        "pts": 2
+      },
+      {
+        "team": "Uruguay",
         "pld": 1,
         "gd": 0,
         "pts": 1
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sun, 21 Jun 2026 14:03:48 GMT"
+  "lastUpdated": "Sun, 21 Jun 2026 16:28:35 GMT"
 }
