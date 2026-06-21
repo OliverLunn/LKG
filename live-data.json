@@ -293,7 +293,7 @@
       "utcDate": "2026-06-21T16:00:00Z",
       "time": "17:00",
       "match": "Spain vs Saudi Arabia",
-      "score": "5 - 0",
+      "score": "4 - 0",
       "status": "Finished"
     },
     {
@@ -302,15 +302,15 @@
       "time": "20:00",
       "match": "Belgium vs Iran",
       "score": "0 - 0",
-      "status": "Live"
+      "status": "Finished"
     },
     {
       "date": "Jun 21",
       "utcDate": "2026-06-21T22:00:00Z",
       "time": "23:00",
       "match": "Uruguay vs Cape Verde Islands",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 0",
+      "status": "Live"
     },
     {
       "date": "Jun 22",
@@ -1025,20 +1025,20 @@
       },
       {
         "team": "Uruguay",
-        "pld": 1,
+        "pld": 2,
         "gd": 0,
-        "pts": 1
+        "pts": 2
+      },
+      {
+        "team": "Cape Verde Islands",
+        "pld": 2,
+        "gd": 0,
+        "pts": 2
       },
       {
         "team": "Saudi Arabia",
         "pld": 2,
         "gd": -4,
-        "pts": 1
-      },
-      {
-        "team": "Cape Verde Islands",
-        "pld": 1,
-        "gd": 0,
         "pts": 1
       }
     ],
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sun, 21 Jun 2026 20:22:56 GMT"
+  "lastUpdated": "Sun, 21 Jun 2026 22:11:56 GMT"
 }
