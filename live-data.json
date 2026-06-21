@@ -301,8 +301,8 @@
       "utcDate": "2026-06-21T19:00:00Z",
       "time": "20:00",
       "match": "Belgium vs Iran",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 0",
+      "status": "Live"
     },
     {
       "date": "Jun 21",
@@ -992,19 +992,19 @@
     ],
     "Group G": [
       {
-        "team": "New Zealand",
-        "pld": 1,
-        "gd": 0,
-        "pts": 1
-      },
-      {
         "team": "Iran",
-        "pld": 1,
+        "pld": 2,
         "gd": 0,
-        "pts": 1
+        "pts": 2
       },
       {
         "team": "Belgium",
+        "pld": 2,
+        "gd": 0,
+        "pts": 2
+      },
+      {
+        "team": "New Zealand",
         "pld": 1,
         "gd": 0,
         "pts": 1
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sun, 21 Jun 2026 18:18:17 GMT"
+  "lastUpdated": "Sun, 21 Jun 2026 20:22:56 GMT"
 }
