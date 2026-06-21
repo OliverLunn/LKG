@@ -293,8 +293,8 @@
       "utcDate": "2026-06-21T16:00:00Z",
       "time": "17:00",
       "match": "Spain vs Saudi Arabia",
-      "score": "1 - 0",
-      "status": "Live"
+      "score": "5 - 0",
+      "status": "Finished"
     },
     {
       "date": "Jun 21",
@@ -1018,21 +1018,21 @@
     ],
     "Group H": [
       {
-        "team": "Saudi Arabia",
-        "pld": 2,
-        "gd": 0,
-        "pts": 2
-      },
-      {
         "team": "Spain",
         "pld": 2,
-        "gd": 0,
-        "pts": 2
+        "gd": 4,
+        "pts": 4
       },
       {
         "team": "Uruguay",
         "pld": 1,
         "gd": 0,
+        "pts": 1
+      },
+      {
+        "team": "Saudi Arabia",
+        "pld": 2,
+        "gd": -4,
         "pts": 1
       },
       {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sun, 21 Jun 2026 16:28:35 GMT"
+  "lastUpdated": "Sun, 21 Jun 2026 18:18:17 GMT"
 }
