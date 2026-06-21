@@ -285,8 +285,8 @@
       "utcDate": "2026-06-21T04:00:00Z",
       "time": "05:00",
       "match": "Tunisia vs Japan",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 4",
+      "status": "Finished"
     },
     {
       "date": "Jun 21",
@@ -972,21 +972,21 @@
         "pts": 4
       },
       {
+        "team": "Japan",
+        "pld": 2,
+        "gd": 4,
+        "pts": 4
+      },
+      {
         "team": "Sweden",
         "pld": 2,
         "gd": 0,
         "pts": 3
       },
       {
-        "team": "Japan",
-        "pld": 1,
-        "gd": 0,
-        "pts": 1
-      },
-      {
         "team": "Tunisia",
-        "pld": 1,
-        "gd": -4,
+        "pld": 2,
+        "gd": -8,
         "pts": 0
       }
     ],
@@ -1197,17 +1197,17 @@
       "photo": null
     },
     {
+      "name": "Daichi Kamada",
+      "goals": 2,
+      "team": "Japan",
+      "photo": null
+    },
+    {
       "name": "Yasin Ayari",
       "goals": 2,
       "team": "Sweden",
       "photo": null
-    },
-    {
-      "name": "Elijah Just",
-      "goals": 2,
-      "team": "New Zealand",
-      "photo": null
     }
   ],
-  "lastUpdated": "Sun, 21 Jun 2026 03:54:02 GMT"
+  "lastUpdated": "Sun, 21 Jun 2026 08:28:15 GMT"
 }
