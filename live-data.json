@@ -325,8 +325,8 @@
       "utcDate": "2026-06-22T17:00:00Z",
       "time": "18:00",
       "match": "Argentina vs Austria",
-      "score": "0 - 0",
-      "status": "Live"
+      "score": "2 - 0",
+      "status": "Finished"
     },
     {
       "date": "Jun 22",
@@ -1072,14 +1072,14 @@
       {
         "team": "Argentina",
         "pld": 2,
-        "gd": 3,
-        "pts": 4
+        "gd": 5,
+        "pts": 6
       },
       {
         "team": "Austria",
         "pld": 2,
-        "gd": 2,
-        "pts": 4
+        "gd": 0,
+        "pts": 3
       },
       {
         "team": "Jordan",
@@ -1149,15 +1149,15 @@
   },
   "scorersData": [
     {
-      "name": "Deniz Undav",
-      "goals": 3,
-      "team": "Germany",
+      "name": "Lionel Messi",
+      "goals": 5,
+      "team": "Argentina",
       "photo": null
     },
     {
-      "name": "Lionel Messi",
+      "name": "Deniz Undav",
       "goals": 3,
-      "team": "Argentina",
+      "team": "Germany",
       "photo": null
     },
     {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Mon, 22 Jun 2026 17:29:41 GMT"
+  "lastUpdated": "Mon, 22 Jun 2026 20:43:15 GMT"
 }
