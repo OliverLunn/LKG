@@ -310,15 +310,15 @@
       "time": "23:00",
       "match": "Uruguay vs Cape Verde Islands",
       "score": "2 - 2",
-      "status": "Live"
+      "status": "Finished"
     },
     {
       "date": "Jun 22",
       "utcDate": "2026-06-22T01:00:00Z",
       "time": "02:00",
       "match": "New Zealand vs Egypt",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "1 - 3",
+      "status": "Finished"
     },
     {
       "date": "Jun 22",
@@ -992,6 +992,12 @@
     ],
     "Group G": [
       {
+        "team": "Egypt",
+        "pld": 2,
+        "gd": 2,
+        "pts": 4
+      },
+      {
         "team": "Iran",
         "pld": 2,
         "gd": 0,
@@ -1005,14 +1011,8 @@
       },
       {
         "team": "New Zealand",
-        "pld": 1,
-        "gd": 0,
-        "pts": 1
-      },
-      {
-        "team": "Egypt",
-        "pld": 1,
-        "gd": 0,
+        "pld": 2,
+        "gd": -2,
         "pts": 1
       }
     ],
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Mon, 22 Jun 2026 00:08:59 GMT"
+  "lastUpdated": "Mon, 22 Jun 2026 06:26:27 GMT"
 }
