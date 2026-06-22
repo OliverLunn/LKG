@@ -21,7 +21,7 @@
       "utcDate": "2026-06-12T19:00:00Z",
       "time": "20:00",
       "match": "Canada vs Bosnia-Herzegovina",
-      "score": "1 - 1",
+      "score": "TBD",
       "status": "Finished"
     },
     {
@@ -333,7 +333,7 @@
       "utcDate": "2026-06-22T21:00:00Z",
       "time": "22:00",
       "match": "France vs Iraq",
-      "score": "TBD",
+      "score": "1 - 0",
       "status": "Scheduled"
     },
     {
@@ -1044,15 +1044,15 @@
     ],
     "Group I": [
       {
+        "team": "France",
+        "pld": 2,
+        "gd": 3,
+        "pts": 6
+      },
+      {
         "team": "Norway",
         "pld": 1,
         "gd": 3,
-        "pts": 3
-      },
-      {
-        "team": "France",
-        "pld": 1,
-        "gd": 2,
         "pts": 3
       },
       {
@@ -1063,8 +1063,8 @@
       },
       {
         "team": "Iraq",
-        "pld": 1,
-        "gd": -3,
+        "pld": 2,
+        "gd": -4,
         "pts": 0
       }
     ],
@@ -1161,6 +1161,12 @@
       "photo": null
     },
     {
+      "name": "Kylian Mbappé",
+      "goals": 3,
+      "team": "France",
+      "photo": null
+    },
+    {
       "name": "Jonathan David",
       "goals": 3,
       "team": "Canada",
@@ -1201,13 +1207,7 @@
       "goals": 2,
       "team": "Japan",
       "photo": null
-    },
-    {
-      "name": "Yasin Ayari",
-      "goals": 2,
-      "team": "Sweden",
-      "photo": null
     }
   ],
-  "lastUpdated": "Mon, 22 Jun 2026 20:43:15 GMT"
+  "lastUpdated": "Mon, 22 Jun 2026 22:45:12 GMT"
 }
