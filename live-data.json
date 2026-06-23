@@ -333,24 +333,24 @@
       "utcDate": "2026-06-22T21:00:00Z",
       "time": "22:00",
       "match": "France vs Iraq",
-      "score": "1 - 0",
-      "status": "Scheduled"
+      "score": "3 - 0",
+      "status": "Finished"
     },
     {
       "date": "Jun 23",
       "utcDate": "2026-06-23T00:00:00Z",
       "time": "01:00",
       "match": "Norway vs Senegal",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "3 - 2",
+      "status": "Finished"
     },
     {
       "date": "Jun 23",
       "utcDate": "2026-06-23T03:00:00Z",
       "time": "04:00",
       "match": "Jordan vs Algeria",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "1 - 2",
+      "status": "Live"
     },
     {
       "date": "Jun 23",
@@ -1046,25 +1046,25 @@
       {
         "team": "France",
         "pld": 2,
-        "gd": 3,
+        "gd": 5,
         "pts": 6
       },
       {
         "team": "Norway",
         "pld": 2,
-        "gd": 3,
-        "pts": 4
+        "gd": 4,
+        "pts": 6
       },
       {
         "team": "Senegal",
         "pld": 2,
-        "gd": -2,
-        "pts": 1
+        "gd": -3,
+        "pts": 0
       },
       {
         "team": "Iraq",
         "pld": 2,
-        "gd": -4,
+        "gd": -6,
         "pts": 0
       }
     ],
@@ -1083,14 +1083,14 @@
       },
       {
         "team": "Jordan",
-        "pld": 1,
-        "gd": -2,
-        "pts": 0
+        "pld": 2,
+        "gd": -1,
+        "pts": 3
       },
       {
         "team": "Algeria",
-        "pld": 1,
-        "gd": -3,
+        "pld": 2,
+        "gd": -4,
         "pts": 0
       }
     ],
@@ -1155,15 +1155,21 @@
       "photo": null
     },
     {
-      "name": "Deniz Undav",
-      "goals": 3,
-      "team": "Germany",
+      "name": "Kylian Mbappé",
+      "goals": 4,
+      "team": "France",
       "photo": null
     },
     {
-      "name": "Kylian Mbappé",
+      "name": "Erling Haaland",
+      "goals": 4,
+      "team": "Norway",
+      "photo": null
+    },
+    {
+      "name": "Deniz Undav",
       "goals": 3,
-      "team": "France",
+      "team": "Germany",
       "photo": null
     },
     {
@@ -1201,13 +1207,7 @@
       "goals": 2,
       "team": "Germany",
       "photo": null
-    },
-    {
-      "name": "Daichi Kamada",
-      "goals": 2,
-      "team": "Japan",
-      "photo": null
     }
   ],
-  "lastUpdated": "Tue, 23 Jun 2026 00:03:14 GMT"
+  "lastUpdated": "Tue, 23 Jun 2026 04:57:43 GMT"
 }
