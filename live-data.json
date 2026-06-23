@@ -366,14 +366,14 @@
       "time": "21:00",
       "match": "England vs Ghana",
       "score": "0 - 0",
-      "status": "Scheduled"
+      "status": "Finished"
     },
     {
       "date": "Jun 23",
       "utcDate": "2026-06-23T23:00:00Z",
       "time": "00:00",
       "match": "Panama vs Croatia",
-      "score": "TBD",
+      "score": "0 - 0",
       "status": "Scheduled"
     },
     {
@@ -1135,15 +1135,15 @@
       },
       {
         "team": "Panama",
-        "pld": 1,
+        "pld": 2,
         "gd": -1,
-        "pts": 0
+        "pts": 1
       },
       {
         "team": "Croatia",
-        "pld": 1,
+        "pld": 2,
         "gd": -2,
-        "pts": 0
+        "pts": 1
       }
     ]
   },
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Tue, 23 Jun 2026 21:47:02 GMT"
+  "lastUpdated": "Tue, 23 Jun 2026 23:06:53 GMT"
 }
