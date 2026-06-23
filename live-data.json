@@ -21,7 +21,7 @@
       "utcDate": "2026-06-12T19:00:00Z",
       "time": "20:00",
       "match": "Canada vs Bosnia-Herzegovina",
-      "score": "TBD",
+      "score": "1 - 1",
       "status": "Finished"
     },
     {
@@ -1051,15 +1051,15 @@
       },
       {
         "team": "Norway",
-        "pld": 1,
+        "pld": 2,
         "gd": 3,
-        "pts": 3
+        "pts": 4
       },
       {
         "team": "Senegal",
-        "pld": 1,
+        "pld": 2,
         "gd": -2,
-        "pts": 0
+        "pts": 1
       },
       {
         "team": "Iraq",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Mon, 22 Jun 2026 22:45:12 GMT"
+  "lastUpdated": "Tue, 23 Jun 2026 00:03:14 GMT"
 }
