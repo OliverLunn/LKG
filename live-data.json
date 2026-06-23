@@ -365,7 +365,7 @@
       "utcDate": "2026-06-23T20:00:00Z",
       "time": "21:00",
       "match": "England vs Ghana",
-      "score": "TBD",
+      "score": "0 - 0",
       "status": "Scheduled"
     },
     {
@@ -1123,15 +1123,15 @@
     "Group L": [
       {
         "team": "England",
-        "pld": 1,
+        "pld": 2,
         "gd": 2,
-        "pts": 3
+        "pts": 4
       },
       {
         "team": "Ghana",
-        "pld": 1,
+        "pld": 2,
         "gd": 1,
-        "pts": 3
+        "pts": 4
       },
       {
         "team": "Panama",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Tue, 23 Jun 2026 19:58:57 GMT"
+  "lastUpdated": "Tue, 23 Jun 2026 21:47:02 GMT"
 }
