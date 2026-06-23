@@ -357,8 +357,8 @@
       "utcDate": "2026-06-23T17:00:00Z",
       "time": "18:00",
       "match": "Portugal vs Uzbekistan",
-      "score": "3 - 0",
-      "status": "Live"
+      "score": "5 - 0",
+      "status": "Finished"
     },
     {
       "date": "Jun 23",
@@ -1098,7 +1098,7 @@
       {
         "team": "Portugal",
         "pld": 2,
-        "gd": 1,
+        "gd": 5,
         "pts": 4
       },
       {
@@ -1116,7 +1116,7 @@
       {
         "team": "Uzbekistan",
         "pld": 2,
-        "gd": -3,
+        "gd": -7,
         "pts": 0
       }
     ],
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Tue, 23 Jun 2026 17:50:38 GMT"
+  "lastUpdated": "Tue, 23 Jun 2026 19:58:57 GMT"
 }
