@@ -350,7 +350,7 @@
       "time": "04:00",
       "match": "Jordan vs Algeria",
       "score": "1 - 2",
-      "status": "Live"
+      "status": "Finished"
     },
     {
       "date": "Jun 23",
@@ -1082,15 +1082,15 @@
         "pts": 3
       },
       {
-        "team": "Jordan",
+        "team": "Algeria",
         "pld": 2,
-        "gd": -1,
+        "gd": -2,
         "pts": 3
       },
       {
-        "team": "Algeria",
+        "team": "Jordan",
         "pld": 2,
-        "gd": -4,
+        "gd": -3,
         "pts": 0
       }
     ],
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Tue, 23 Jun 2026 04:57:43 GMT"
+  "lastUpdated": "Tue, 23 Jun 2026 08:31:26 GMT"
 }
