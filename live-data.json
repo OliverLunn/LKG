@@ -390,22 +390,22 @@
       "time": "20:00",
       "match": "Switzerland vs Canada",
       "score": "2 - 1",
-      "status": "Live"
+      "status": "Finished"
     },
     {
       "date": "Jun 24",
       "utcDate": "2026-06-24T19:00:00Z",
       "time": "20:00",
       "match": "Bosnia-Herzegovina vs Qatar",
-      "score": "2 - 1",
-      "status": "Live"
+      "score": "3 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 24",
       "utcDate": "2026-06-24T22:00:00Z",
       "time": "23:00",
       "match": "Morocco vs Haiti",
-      "score": "TBD",
+      "score": "0 - 0",
       "status": "Scheduled"
     },
     {
@@ -413,7 +413,7 @@
       "utcDate": "2026-06-24T22:00:00Z",
       "time": "23:00",
       "match": "Scotland vs Brazil",
-      "score": "TBD",
+      "score": "0 - 1",
       "status": "Scheduled"
     },
     {
@@ -596,7 +596,7 @@
       "date": "Jun 29",
       "utcDate": "2026-06-29T20:30:00Z",
       "time": "21:30",
-      "match": "null vs null",
+      "match": "Germany vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -628,7 +628,7 @@
       "date": "Jul 1",
       "utcDate": "2026-07-01T01:00:00Z",
       "time": "02:00",
-      "match": "null vs null",
+      "match": "Mexico vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -652,7 +652,7 @@
       "date": "Jul 2",
       "utcDate": "2026-07-02T00:00:00Z",
       "time": "01:00",
-      "match": "null vs null",
+      "match": "United States vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -692,7 +692,7 @@
       "date": "Jul 3",
       "utcDate": "2026-07-03T22:00:00Z",
       "time": "23:00",
-      "match": "null vs null",
+      "match": "Argentina vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -864,52 +864,52 @@
       {
         "team": "Switzerland",
         "pld": 3,
-        "gd": 5,
+        "gd": 4,
         "pts": 7
       },
       {
         "team": "Canada",
         "pld": 3,
-        "gd": 4,
+        "gd": 5,
         "pts": 4
       },
       {
         "team": "Bosnia-Herzegovina",
         "pld": 3,
-        "gd": -2,
+        "gd": -1,
         "pts": 4
       },
       {
         "team": "Qatar",
         "pld": 3,
-        "gd": -7,
+        "gd": -8,
         "pts": 1
       }
     ],
     "Group C": [
       {
         "team": "Brazil",
-        "pld": 2,
+        "pld": 3,
         "gd": 3,
-        "pts": 4
+        "pts": 5
       },
       {
         "team": "Morocco",
-        "pld": 2,
+        "pld": 3,
         "gd": 1,
-        "pts": 4
+        "pts": 5
       },
       {
         "team": "Scotland",
-        "pld": 2,
+        "pld": 3,
         "gd": 0,
-        "pts": 3
+        "pts": 4
       },
       {
         "team": "Haiti",
-        "pld": 2,
+        "pld": 3,
         "gd": -4,
-        "pts": 0
+        "pts": 1
       }
     ],
     "Group D": [
@@ -1167,6 +1167,12 @@
       "photo": null
     },
     {
+      "name": "Vinicius Junior",
+      "goals": 3,
+      "team": "Brazil",
+      "photo": null
+    },
+    {
       "name": "Deniz Undav",
       "goals": 3,
       "team": "Germany",
@@ -1201,13 +1207,7 @@
       "goals": 2,
       "team": "Morocco",
       "photo": null
-    },
-    {
-      "name": "Vinicius Junior",
-      "goals": 2,
-      "team": "Brazil",
-      "photo": null
     }
   ],
-  "lastUpdated": "Wed, 24 Jun 2026 20:46:36 GMT"
+  "lastUpdated": "Wed, 24 Jun 2026 22:14:35 GMT"
 }
