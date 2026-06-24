@@ -373,15 +373,15 @@
       "utcDate": "2026-06-23T23:00:00Z",
       "time": "00:00",
       "match": "Panama vs Croatia",
-      "score": "0 - 0",
-      "status": "Scheduled"
+      "score": "0 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 24",
       "utcDate": "2026-06-24T02:00:00Z",
       "time": "03:00",
       "match": "Colombia vs Congo DR",
-      "score": "TBD",
+      "score": "0 - 0",
       "status": "Scheduled"
     },
     {
@@ -1103,15 +1103,15 @@
       },
       {
         "team": "Colombia",
-        "pld": 1,
+        "pld": 2,
         "gd": 2,
-        "pts": 3
+        "pts": 4
       },
       {
         "team": "Congo DR",
-        "pld": 1,
+        "pld": 2,
         "gd": 0,
-        "pts": 1
+        "pts": 2
       },
       {
         "team": "Uzbekistan",
@@ -1134,16 +1134,16 @@
         "pts": 4
       },
       {
-        "team": "Panama",
-        "pld": 2,
-        "gd": -1,
-        "pts": 1
-      },
-      {
         "team": "Croatia",
         "pld": 2,
+        "gd": -1,
+        "pts": 3
+      },
+      {
+        "team": "Panama",
+        "pld": 2,
         "gd": -2,
-        "pts": 1
+        "pts": 0
       }
     ]
   },
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Tue, 23 Jun 2026 23:06:53 GMT"
+  "lastUpdated": "Wed, 24 Jun 2026 02:55:53 GMT"
 }
