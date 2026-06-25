@@ -405,16 +405,16 @@
       "utcDate": "2026-06-24T22:00:00Z",
       "time": "23:00",
       "match": "Morocco vs Haiti",
-      "score": "0 - 0",
-      "status": "Scheduled"
+      "score": "4 - 2",
+      "status": "Finished"
     },
     {
       "date": "Jun 24",
       "utcDate": "2026-06-24T22:00:00Z",
       "time": "23:00",
       "match": "Scotland vs Brazil",
-      "score": "0 - 1",
-      "status": "Scheduled"
+      "score": "0 - 3",
+      "status": "Finished"
     },
     {
       "date": "Jun 25",
@@ -890,26 +890,26 @@
       {
         "team": "Brazil",
         "pld": 3,
-        "gd": 3,
-        "pts": 5
+        "gd": 6,
+        "pts": 7
       },
       {
         "team": "Morocco",
         "pld": 3,
-        "gd": 1,
-        "pts": 5
+        "gd": 3,
+        "pts": 7
       },
       {
         "team": "Scotland",
         "pld": 3,
-        "gd": 0,
-        "pts": 4
+        "gd": -3,
+        "pts": 3
       },
       {
         "team": "Haiti",
         "pld": 3,
-        "gd": -4,
-        "pts": 1
+        "gd": -6,
+        "pts": 0
       }
     ],
     "Group D": [
@@ -1155,6 +1155,12 @@
       "photo": null
     },
     {
+      "name": "Vinicius Junior",
+      "goals": 4,
+      "team": "Brazil",
+      "photo": null
+    },
+    {
       "name": "Kylian Mbappé",
       "goals": 4,
       "team": "France",
@@ -1167,9 +1173,9 @@
       "photo": null
     },
     {
-      "name": "Vinicius Junior",
+      "name": "Ismael Saibari",
       "goals": 3,
-      "team": "Brazil",
+      "team": "Morocco",
       "photo": null
     },
     {
@@ -1191,23 +1197,17 @@
       "photo": null
     },
     {
+      "name": "Matheus Cunha",
+      "goals": 3,
+      "team": "Brazil",
+      "photo": null
+    },
+    {
       "name": "Cyle Larin",
       "goals": 2,
       "team": "Canada",
       "photo": null
-    },
-    {
-      "name": "Folarin Balogun",
-      "goals": 2,
-      "team": "United States",
-      "photo": null
-    },
-    {
-      "name": "Ismael Saibari",
-      "goals": 2,
-      "team": "Morocco",
-      "photo": null
     }
   ],
-  "lastUpdated": "Wed, 24 Jun 2026 22:14:35 GMT"
+  "lastUpdated": "Thu, 25 Jun 2026 00:08:30 GMT"
 }
