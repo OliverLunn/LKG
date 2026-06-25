@@ -437,32 +437,32 @@
       "utcDate": "2026-06-25T20:00:00Z",
       "time": "21:00",
       "match": "Ecuador vs Germany",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "2 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 25",
       "utcDate": "2026-06-25T20:00:00Z",
       "time": "21:00",
       "match": "Curaçao vs Ivory Coast",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 2",
+      "status": "Finished"
     },
     {
       "date": "Jun 25",
       "utcDate": "2026-06-25T23:00:00Z",
       "time": "00:00",
       "match": "Tunisia vs Netherlands",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 2",
+      "status": "Live"
     },
     {
       "date": "Jun 25",
       "utcDate": "2026-06-25T23:00:00Z",
       "time": "00:00",
       "match": "Japan vs Sweden",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 0",
+      "status": "Live"
     },
     {
       "date": "Jun 26",
@@ -942,8 +942,8 @@
       {
         "team": "Germany",
         "pld": 3,
-        "gd": 7,
-        "pts": 7
+        "gd": 6,
+        "pts": 6
       },
       {
         "team": "Ivory Coast",
@@ -954,8 +954,8 @@
       {
         "team": "Ecuador",
         "pld": 3,
-        "gd": -1,
-        "pts": 2
+        "gd": 0,
+        "pts": 4
       },
       {
         "team": "Curaçao",
@@ -967,27 +967,27 @@
     "Group F": [
       {
         "team": "Netherlands",
-        "pld": 2,
+        "pld": 3,
         "gd": 4,
-        "pts": 4
+        "pts": 5
       },
       {
         "team": "Japan",
-        "pld": 2,
+        "pld": 3,
         "gd": 4,
-        "pts": 4
+        "pts": 5
       },
       {
         "team": "Sweden",
-        "pld": 2,
+        "pld": 3,
         "gd": 0,
-        "pts": 3
+        "pts": 4
       },
       {
         "team": "Tunisia",
-        "pld": 2,
+        "pld": 3,
         "gd": -8,
-        "pts": 0
+        "pts": 1
       }
     ],
     "Group G": [
@@ -1203,11 +1203,11 @@
       "photo": null
     },
     {
-      "name": "Julián Quiñones",
-      "goals": 2,
-      "team": "Mexico",
+      "name": "Brian Brobbey",
+      "goals": 3,
+      "team": "Netherlands",
       "photo": null
     }
   ],
-  "lastUpdated": "Thu, 25 Jun 2026 21:41:48 GMT"
+  "lastUpdated": "Thu, 25 Jun 2026 23:15:33 GMT"
 }
