@@ -485,16 +485,16 @@
       "utcDate": "2026-06-26T19:00:00Z",
       "time": "20:00",
       "match": "Norway vs France",
-      "score": "1 - 3",
-      "status": "Live"
+      "score": "1 - 4",
+      "status": "Finished"
     },
     {
       "date": "Jun 26",
       "utcDate": "2026-06-26T19:00:00Z",
       "time": "20:00",
       "match": "Senegal vs Iraq",
-      "score": "4 - 0",
-      "status": "Live"
+      "score": "5 - 0",
+      "status": "Finished"
     },
     {
       "date": "Jun 27",
@@ -1046,25 +1046,25 @@
       {
         "team": "France",
         "pld": 3,
-        "gd": 7,
+        "gd": 8,
         "pts": 9
       },
       {
         "team": "Norway",
         "pld": 3,
-        "gd": 2,
+        "gd": 1,
         "pts": 6
       },
       {
         "team": "Senegal",
         "pld": 3,
-        "gd": 0,
+        "gd": 2,
         "pts": 3
       },
       {
         "team": "Iraq",
         "pld": 3,
-        "gd": -9,
+        "gd": -11,
         "pts": 0
       }
     ],
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Fri, 26 Jun 2026 20:44:58 GMT"
+  "lastUpdated": "Fri, 26 Jun 2026 22:10:26 GMT"
 }
