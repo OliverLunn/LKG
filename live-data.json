@@ -533,23 +533,23 @@
       "utcDate": "2026-06-27T21:00:00Z",
       "time": "22:00",
       "match": "Panama vs England",
-      "score": "0 - 0",
-      "status": "Live"
+      "score": "0 - 2",
+      "status": "Finished"
     },
     {
       "date": "Jun 27",
       "utcDate": "2026-06-27T21:00:00Z",
       "time": "22:00",
       "match": "Croatia vs Ghana",
-      "score": "1 - 0",
-      "status": "Scheduled"
+      "score": "2 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 27",
       "utcDate": "2026-06-27T23:30:00Z",
       "time": "00:30",
       "match": "Colombia vs Portugal",
-      "score": "TBD",
+      "score": "0 - 0",
       "status": "Scheduled"
     },
     {
@@ -557,7 +557,7 @@
       "utcDate": "2026-06-27T23:30:00Z",
       "time": "00:30",
       "match": "Congo DR vs Uzbekistan",
-      "score": "TBD",
+      "score": "1 - 1",
       "status": "Scheduled"
     },
     {
@@ -1097,41 +1097,41 @@
     "Group K": [
       {
         "team": "Colombia",
-        "pld": 2,
+        "pld": 3,
         "gd": 3,
-        "pts": 6
+        "pts": 7
       },
       {
         "team": "Portugal",
-        "pld": 2,
+        "pld": 3,
         "gd": 5,
-        "pts": 4
+        "pts": 5
       },
       {
         "team": "Congo DR",
-        "pld": 2,
+        "pld": 3,
         "gd": -1,
-        "pts": 1
+        "pts": 2
       },
       {
         "team": "Uzbekistan",
-        "pld": 2,
+        "pld": 3,
         "gd": -7,
-        "pts": 0
+        "pts": 1
       }
     ],
     "Group L": [
+      {
+        "team": "England",
+        "pld": 3,
+        "gd": 4,
+        "pts": 7
+      },
       {
         "team": "Croatia",
         "pld": 3,
         "gd": 0,
         "pts": 6
-      },
-      {
-        "team": "England",
-        "pld": 3,
-        "gd": 2,
-        "pts": 5
       },
       {
         "team": "Ghana",
@@ -1142,8 +1142,8 @@
       {
         "team": "Panama",
         "pld": 3,
-        "gd": -2,
-        "pts": 1
+        "gd": -4,
+        "pts": 0
       }
     ]
   },
@@ -1197,17 +1197,17 @@
       "photo": null
     },
     {
+      "name": "Harry Kane",
+      "goals": 3,
+      "team": "England",
+      "photo": null
+    },
+    {
       "name": "Johan Manzambi",
       "goals": 3,
       "team": "Switzerland",
       "photo": null
-    },
-    {
-      "name": "Jonathan David",
-      "goals": 3,
-      "team": "Canada",
-      "photo": null
     }
   ],
-  "lastUpdated": "Sat, 27 Jun 2026 22:10:35 GMT"
+  "lastUpdated": "Sat, 27 Jun 2026 23:59:17 GMT"
 }
