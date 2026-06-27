@@ -501,32 +501,32 @@
       "utcDate": "2026-06-27T00:00:00Z",
       "time": "01:00",
       "match": "Uruguay vs Spain",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jun 27",
       "utcDate": "2026-06-27T00:00:00Z",
       "time": "01:00",
       "match": "Cape Verde Islands vs Saudi Arabia",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 0",
+      "status": "Finished"
     },
     {
       "date": "Jun 27",
       "utcDate": "2026-06-27T03:00:00Z",
       "time": "04:00",
       "match": "New Zealand vs Belgium",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 3",
+      "status": "Live"
     },
     {
       "date": "Jun 27",
       "utcDate": "2026-06-27T03:00:00Z",
       "time": "04:00",
       "match": "Egypt vs Iran",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "1 - 1",
+      "status": "Live"
     },
     {
       "date": "Jun 27",
@@ -992,27 +992,27 @@
     ],
     "Group G": [
       {
+        "team": "Belgium",
+        "pld": 3,
+        "gd": 3,
+        "pts": 5
+      },
+      {
         "team": "Egypt",
-        "pld": 2,
+        "pld": 3,
         "gd": 2,
-        "pts": 4
+        "pts": 5
       },
       {
         "team": "Iran",
-        "pld": 2,
+        "pld": 3,
         "gd": 0,
-        "pts": 2
-      },
-      {
-        "team": "Belgium",
-        "pld": 2,
-        "gd": 0,
-        "pts": 2
+        "pts": 3
       },
       {
         "team": "New Zealand",
-        "pld": 2,
-        "gd": -2,
+        "pld": 3,
+        "gd": -5,
         "pts": 1
       }
     ],
@@ -1020,20 +1020,20 @@
       {
         "team": "Spain",
         "pld": 3,
-        "gd": 4,
-        "pts": 5
-      },
-      {
-        "team": "Uruguay",
-        "pld": 3,
-        "gd": 0,
-        "pts": 3
+        "gd": 5,
+        "pts": 7
       },
       {
         "team": "Cape Verde Islands",
         "pld": 3,
         "gd": 0,
         "pts": 3
+      },
+      {
+        "team": "Uruguay",
+        "pld": 3,
+        "gd": -1,
+        "pts": 2
       },
       {
         "team": "Saudi Arabia",
@@ -1191,6 +1191,12 @@
       "photo": null
     },
     {
+      "name": "Elijah Just",
+      "goals": 3,
+      "team": "New Zealand",
+      "photo": null
+    },
+    {
       "name": "Johan Manzambi",
       "goals": 3,
       "team": "Switzerland",
@@ -1201,13 +1207,7 @@
       "goals": 3,
       "team": "Canada",
       "photo": null
-    },
-    {
-      "name": "Matheus Cunha",
-      "goals": 3,
-      "team": "Brazil",
-      "photo": null
     }
   ],
-  "lastUpdated": "Sat, 27 Jun 2026 00:04:07 GMT"
+  "lastUpdated": "Sat, 27 Jun 2026 04:51:11 GMT"
 }
