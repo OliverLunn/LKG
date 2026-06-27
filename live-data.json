@@ -580,7 +580,7 @@
       "date": "Jun 28",
       "utcDate": "2026-06-28T19:00:00Z",
       "time": "20:00",
-      "match": "South Africa vs Canada",
+      "match": "null vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -588,7 +588,7 @@
       "date": "Jun 29",
       "utcDate": "2026-06-29T17:00:00Z",
       "time": "18:00",
-      "match": "Brazil vs Japan",
+      "match": "null vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -596,7 +596,7 @@
       "date": "Jun 29",
       "utcDate": "2026-06-29T20:30:00Z",
       "time": "21:30",
-      "match": "Germany vs null",
+      "match": "null vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -604,7 +604,7 @@
       "date": "Jun 30",
       "utcDate": "2026-06-30T01:00:00Z",
       "time": "02:00",
-      "match": "Netherlands vs Morocco",
+      "match": "null vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -612,7 +612,7 @@
       "date": "Jun 30",
       "utcDate": "2026-06-30T17:00:00Z",
       "time": "18:00",
-      "match": "Ivory Coast vs null",
+      "match": "null vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -628,7 +628,7 @@
       "date": "Jul 1",
       "utcDate": "2026-07-01T01:00:00Z",
       "time": "02:00",
-      "match": "Mexico vs null",
+      "match": "null vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -652,7 +652,7 @@
       "date": "Jul 2",
       "utcDate": "2026-07-02T00:00:00Z",
       "time": "01:00",
-      "match": "United States vs Bosnia-Herzegovina",
+      "match": "null vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -676,7 +676,7 @@
       "date": "Jul 3",
       "utcDate": "2026-07-03T03:00:00Z",
       "time": "04:00",
-      "match": "Switzerland vs null",
+      "match": "null vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -684,7 +684,7 @@
       "date": "Jul 3",
       "utcDate": "2026-07-03T18:00:00Z",
       "time": "19:00",
-      "match": "Australia vs null",
+      "match": "null vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -692,7 +692,7 @@
       "date": "Jul 3",
       "utcDate": "2026-07-03T22:00:00Z",
       "time": "23:00",
-      "match": "Argentina vs null",
+      "match": "null vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sat, 27 Jun 2026 14:27:20 GMT"
+  "lastUpdated": "Sat, 27 Jun 2026 16:02:35 GMT"
 }
