@@ -533,15 +533,15 @@
       "utcDate": "2026-06-27T21:00:00Z",
       "time": "22:00",
       "match": "Panama vs England",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 0",
+      "status": "Live"
     },
     {
       "date": "Jun 27",
       "utcDate": "2026-06-27T21:00:00Z",
       "time": "22:00",
       "match": "Croatia vs Ghana",
-      "score": "TBD",
+      "score": "1 - 0",
       "status": "Scheduled"
     },
     {
@@ -1122,28 +1122,28 @@
     ],
     "Group L": [
       {
+        "team": "Croatia",
+        "pld": 3,
+        "gd": 0,
+        "pts": 6
+      },
+      {
         "team": "England",
-        "pld": 2,
+        "pld": 3,
         "gd": 2,
-        "pts": 4
+        "pts": 5
       },
       {
         "team": "Ghana",
-        "pld": 2,
-        "gd": 1,
+        "pld": 3,
+        "gd": 0,
         "pts": 4
       },
       {
-        "team": "Croatia",
-        "pld": 2,
-        "gd": -1,
-        "pts": 3
-      },
-      {
         "team": "Panama",
-        "pld": 2,
+        "pld": 3,
         "gd": -2,
-        "pts": 0
+        "pts": 1
       }
     ]
   },
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sat, 27 Jun 2026 20:59:17 GMT"
+  "lastUpdated": "Sat, 27 Jun 2026 22:10:35 GMT"
 }
