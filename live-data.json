@@ -581,8 +581,8 @@
       "utcDate": "2026-06-28T19:00:00Z",
       "time": "20:00",
       "match": "South Africa vs Canada",
-      "score": "0 - 0",
-      "status": "Live"
+      "score": "0 - 1",
+      "status": "Scheduled"
     },
     {
       "date": "Jun 29",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sun, 28 Jun 2026 19:14:45 GMT"
+  "lastUpdated": "Sun, 28 Jun 2026 20:58:36 GMT"
 }
