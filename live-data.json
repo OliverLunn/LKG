@@ -708,7 +708,7 @@
       "date": "Jul 4",
       "utcDate": "2026-07-04T17:00:00Z",
       "time": "18:00",
-      "match": "null vs null",
+      "match": "Canada vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Mon, 29 Jun 2026 05:28:36 GMT"
+  "lastUpdated": "Mon, 29 Jun 2026 10:51:59 GMT"
 }
