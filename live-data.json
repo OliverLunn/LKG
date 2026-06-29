@@ -589,8 +589,8 @@
       "utcDate": "2026-06-29T17:00:00Z",
       "time": "18:00",
       "match": "Brazil vs Japan",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 0",
+      "status": "Live"
     },
     {
       "date": "Jun 29",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Mon, 29 Jun 2026 14:49:26 GMT"
+  "lastUpdated": "Mon, 29 Jun 2026 17:33:45 GMT"
 }
