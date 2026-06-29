@@ -597,7 +597,7 @@
       "utcDate": "2026-06-29T20:30:00Z",
       "time": "21:30",
       "match": "Germany vs Paraguay",
-      "score": "0 - 1",
+      "score": "2 - 1",
       "status": "Live"
     },
     {
@@ -1185,6 +1185,12 @@
       "photo": null
     },
     {
+      "name": "Kai Havertz",
+      "goals": 3,
+      "team": "Germany",
+      "photo": null
+    },
+    {
       "name": "Deniz Undav",
       "goals": 3,
       "team": "Germany",
@@ -1201,13 +1207,7 @@
       "goals": 3,
       "team": "Congo DR",
       "photo": null
-    },
-    {
-      "name": "Harry Kane",
-      "goals": 3,
-      "team": "England",
-      "photo": null
     }
   ],
-  "lastUpdated": "Mon, 29 Jun 2026 21:23:36 GMT"
+  "lastUpdated": "Mon, 29 Jun 2026 22:57:11 GMT"
 }
