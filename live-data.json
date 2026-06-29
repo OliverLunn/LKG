@@ -597,8 +597,8 @@
       "utcDate": "2026-06-29T20:30:00Z",
       "time": "21:30",
       "match": "Germany vs Paraguay",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 1",
+      "status": "Live"
     },
     {
       "date": "Jun 30",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Mon, 29 Jun 2026 19:52:42 GMT"
+  "lastUpdated": "Mon, 29 Jun 2026 21:23:36 GMT"
 }
