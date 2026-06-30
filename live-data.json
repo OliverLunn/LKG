@@ -613,8 +613,8 @@
       "utcDate": "2026-06-30T17:00:00Z",
       "time": "18:00",
       "match": "Ivory Coast vs Norway",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 1",
+      "status": "Live"
     },
     {
       "date": "Jun 30",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Tue, 30 Jun 2026 15:25:07 GMT"
+  "lastUpdated": "Tue, 30 Jun 2026 17:50:21 GMT"
 }
