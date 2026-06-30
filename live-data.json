@@ -621,8 +621,8 @@
       "utcDate": "2026-06-30T21:00:00Z",
       "time": "22:00",
       "match": "France vs Sweden",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 0",
+      "status": "Live"
     },
     {
       "date": "Jul 1",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Tue, 30 Jun 2026 19:51:13 GMT"
+  "lastUpdated": "Tue, 30 Jun 2026 21:26:06 GMT"
 }
