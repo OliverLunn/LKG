@@ -621,8 +621,8 @@
       "utcDate": "2026-06-30T21:00:00Z",
       "time": "22:00",
       "match": "France vs Sweden",
-      "score": "0 - 0",
-      "status": "Live"
+      "score": "3 - 0",
+      "status": "Finished"
     },
     {
       "date": "Jul 1",
@@ -1149,6 +1149,12 @@
   },
   "scorersData": [
     {
+      "name": "Kylian Mbappé",
+      "goals": 6,
+      "team": "France",
+      "photo": null
+    },
+    {
       "name": "Lionel Messi",
       "goals": 6,
       "team": "Argentina",
@@ -1164,12 +1170,6 @@
       "name": "Vinicius Junior",
       "goals": 4,
       "team": "Brazil",
-      "photo": null
-    },
-    {
-      "name": "Kylian Mbappé",
-      "goals": 4,
-      "team": "France",
       "photo": null
     },
     {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Tue, 30 Jun 2026 21:26:06 GMT"
+  "lastUpdated": "Tue, 30 Jun 2026 23:08:40 GMT"
 }
