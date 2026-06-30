@@ -708,7 +708,7 @@
       "date": "Jul 4",
       "utcDate": "2026-07-04T17:00:00Z",
       "time": "18:00",
-      "match": "Canada vs null",
+      "match": "Canada vs Morocco",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -716,7 +716,7 @@
       "date": "Jul 4",
       "utcDate": "2026-07-04T21:00:00Z",
       "time": "22:00",
-      "match": "null vs null",
+      "match": "Paraguay vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -724,7 +724,7 @@
       "date": "Jul 5",
       "utcDate": "2026-07-05T20:00:00Z",
       "time": "21:00",
-      "match": "null vs null",
+      "match": "Brazil vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Tue, 30 Jun 2026 05:00:17 GMT"
+  "lastUpdated": "Tue, 30 Jun 2026 09:29:04 GMT"
 }
