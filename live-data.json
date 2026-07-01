@@ -629,8 +629,8 @@
       "utcDate": "2026-07-01T01:00:00Z",
       "time": "02:00",
       "match": "Mexico vs Ecuador",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "2 - 0",
+      "status": "Live"
     },
     {
       "date": "Jul 1",
@@ -1179,6 +1179,12 @@
       "photo": null
     },
     {
+      "name": "Julián Quiñones",
+      "goals": 3,
+      "team": "Mexico",
+      "photo": null
+    },
+    {
       "name": "Ismael Saibari",
       "goals": 3,
       "team": "Morocco",
@@ -1201,13 +1207,7 @@
       "goals": 3,
       "team": "New Zealand",
       "photo": null
-    },
-    {
-      "name": "Yoane Wissa",
-      "goals": 3,
-      "team": "Congo DR",
-      "photo": null
     }
   ],
-  "lastUpdated": "Tue, 30 Jun 2026 23:08:40 GMT"
+  "lastUpdated": "Wed, 01 Jul 2026 03:32:10 GMT"
 }
