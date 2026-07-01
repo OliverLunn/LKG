@@ -637,8 +637,8 @@
       "utcDate": "2026-07-01T16:00:00Z",
       "time": "17:00",
       "match": "England vs Congo DR",
-      "score": "0 - 1",
-      "status": "Scheduled"
+      "score": "2 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jul 1",
@@ -1167,6 +1167,12 @@
       "photo": null
     },
     {
+      "name": "Harry Kane",
+      "goals": 5,
+      "team": "England",
+      "photo": null
+    },
+    {
       "name": "Vinicius Junior",
       "goals": 4,
       "team": "Brazil",
@@ -1201,13 +1207,7 @@
       "goals": 3,
       "team": "Germany",
       "photo": null
-    },
-    {
-      "name": "Elijah Just",
-      "goals": 3,
-      "team": "New Zealand",
-      "photo": null
     }
   ],
-  "lastUpdated": "Wed, 01 Jul 2026 17:11:59 GMT"
+  "lastUpdated": "Wed, 01 Jul 2026 19:50:02 GMT"
 }
