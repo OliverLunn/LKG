@@ -637,7 +637,7 @@
       "utcDate": "2026-07-01T16:00:00Z",
       "time": "17:00",
       "match": "England vs Congo DR",
-      "score": "TBD",
+      "score": "0 - 1",
       "status": "Scheduled"
     },
     {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Wed, 01 Jul 2026 14:52:14 GMT"
+  "lastUpdated": "Wed, 01 Jul 2026 17:11:59 GMT"
 }
