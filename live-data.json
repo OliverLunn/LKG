@@ -630,7 +630,7 @@
       "time": "02:00",
       "match": "Mexico vs Ecuador",
       "score": "2 - 0",
-      "status": "Live"
+      "status": "Finished"
     },
     {
       "date": "Jul 1",
@@ -716,7 +716,7 @@
       "date": "Jul 4",
       "utcDate": "2026-07-04T21:00:00Z",
       "time": "22:00",
-      "match": "Paraguay vs null",
+      "match": "Paraguay vs France",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -724,7 +724,7 @@
       "date": "Jul 5",
       "utcDate": "2026-07-05T20:00:00Z",
       "time": "21:00",
-      "match": "Brazil vs null",
+      "match": "Brazil vs Norway",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Wed, 01 Jul 2026 03:32:10 GMT"
+  "lastUpdated": "Wed, 01 Jul 2026 08:09:08 GMT"
 }
