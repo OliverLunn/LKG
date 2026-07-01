@@ -645,8 +645,8 @@
       "utcDate": "2026-07-01T20:00:00Z",
       "time": "21:00",
       "match": "Belgium vs Senegal",
-      "score": "0 - 2",
-      "status": "Live"
+      "score": "3 - 2",
+      "status": "Finished"
     },
     {
       "date": "Jul 2",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Wed, 01 Jul 2026 21:25:18 GMT"
+  "lastUpdated": "Wed, 01 Jul 2026 23:12:11 GMT"
 }
