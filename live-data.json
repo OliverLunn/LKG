@@ -645,8 +645,8 @@
       "utcDate": "2026-07-01T20:00:00Z",
       "time": "21:00",
       "match": "Belgium vs Senegal",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 2",
+      "status": "Live"
     },
     {
       "date": "Jul 2",
@@ -1185,6 +1185,12 @@
       "photo": null
     },
     {
+      "name": "Ismaïla Sarr",
+      "goals": 4,
+      "team": "Senegal",
+      "photo": null
+    },
+    {
       "name": "Julián Quiñones",
       "goals": 3,
       "team": "Mexico",
@@ -1201,13 +1207,7 @@
       "goals": 3,
       "team": "Germany",
       "photo": null
-    },
-    {
-      "name": "Deniz Undav",
-      "goals": 3,
-      "team": "Germany",
-      "photo": null
     }
   ],
-  "lastUpdated": "Wed, 01 Jul 2026 19:50:02 GMT"
+  "lastUpdated": "Wed, 01 Jul 2026 21:25:18 GMT"
 }
