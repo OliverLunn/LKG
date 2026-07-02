@@ -1147,67 +1147,6 @@
       }
     ]
   },
-  "scorersData": [
-    {
-      "name": "Kylian Mbappé",
-      "goals": 6,
-      "team": "France",
-      "photo": null
-    },
-    {
-      "name": "Lionel Messi",
-      "goals": 6,
-      "team": "Argentina",
-      "photo": null
-    },
-    {
-      "name": "Erling Haaland",
-      "goals": 5,
-      "team": "Norway",
-      "photo": null
-    },
-    {
-      "name": "Harry Kane",
-      "goals": 5,
-      "team": "England",
-      "photo": null
-    },
-    {
-      "name": "Vinicius Junior",
-      "goals": 4,
-      "team": "Brazil",
-      "photo": null
-    },
-    {
-      "name": "Ousmane Dembélé",
-      "goals": 4,
-      "team": "France",
-      "photo": null
-    },
-    {
-      "name": "Ismaïla Sarr",
-      "goals": 4,
-      "team": "Senegal",
-      "photo": null
-    },
-    {
-      "name": "Julián Quiñones",
-      "goals": 3,
-      "team": "Mexico",
-      "photo": null
-    },
-    {
-      "name": "Folarin Balogun",
-      "goals": 3,
-      "team": "United States",
-      "photo": null
-    },
-    {
-      "name": "Ismael Saibari",
-      "goals": 3,
-      "team": "Morocco",
-      "photo": null
-    }
-  ],
-  "lastUpdated": "Thu, 02 Jul 2026 17:43:45 GMT"
+  "scorersData": [],
+  "lastUpdated": "Thu, 02 Jul 2026 19:20:04 GMT"
 }
