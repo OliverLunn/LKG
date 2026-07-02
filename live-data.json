@@ -662,7 +662,7 @@
       "time": "20:00",
       "match": "Spain vs Austria",
       "score": "3 - 0",
-      "status": "Live"
+      "status": "Finished"
     },
     {
       "date": "Jul 2",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Thu, 02 Jul 2026 21:02:10 GMT"
+  "lastUpdated": "Thu, 02 Jul 2026 23:02:25 GMT"
 }
