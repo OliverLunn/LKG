@@ -661,8 +661,8 @@
       "utcDate": "2026-07-02T19:00:00Z",
       "time": "20:00",
       "match": "Spain vs Austria",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "3 - 0",
+      "status": "Live"
     },
     {
       "date": "Jul 2",
@@ -1147,6 +1147,67 @@
       }
     ]
   },
-  "scorersData": [],
-  "lastUpdated": "Thu, 02 Jul 2026 19:20:04 GMT"
+  "scorersData": [
+    {
+      "name": "Kylian Mbappé",
+      "goals": 6,
+      "team": "France",
+      "photo": null
+    },
+    {
+      "name": "Lionel Messi",
+      "goals": 6,
+      "team": "Argentina",
+      "photo": null
+    },
+    {
+      "name": "Erling Haaland",
+      "goals": 5,
+      "team": "Norway",
+      "photo": null
+    },
+    {
+      "name": "Harry Kane",
+      "goals": 5,
+      "team": "England",
+      "photo": null
+    },
+    {
+      "name": "Vinicius Junior",
+      "goals": 4,
+      "team": "Brazil",
+      "photo": null
+    },
+    {
+      "name": "Mikel Oyarzabal",
+      "goals": 4,
+      "team": "Spain",
+      "photo": null
+    },
+    {
+      "name": "Ousmane Dembélé",
+      "goals": 4,
+      "team": "France",
+      "photo": null
+    },
+    {
+      "name": "Ismaïla Sarr",
+      "goals": 4,
+      "team": "Senegal",
+      "photo": null
+    },
+    {
+      "name": "Julián Quiñones",
+      "goals": 3,
+      "team": "Mexico",
+      "photo": null
+    },
+    {
+      "name": "Folarin Balogun",
+      "goals": 3,
+      "team": "United States",
+      "photo": null
+    }
+  ],
+  "lastUpdated": "Thu, 02 Jul 2026 21:02:10 GMT"
 }
