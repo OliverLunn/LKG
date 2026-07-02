@@ -626,8 +626,8 @@
     },
     {
       "date": "Jul 1",
-      "utcDate": "2026-07-01T01:00:00Z",
-      "time": "02:00",
+      "utcDate": "2026-07-01T02:00:00Z",
+      "time": "03:00",
       "match": "Mexico vs Ecuador",
       "score": "2 - 0",
       "status": "Finished"
@@ -732,7 +732,7 @@
       "date": "Jul 6",
       "utcDate": "2026-07-06T00:00:00Z",
       "time": "01:00",
-      "match": "null vs null",
+      "match": "Mexico vs England",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -748,7 +748,7 @@
       "date": "Jul 7",
       "utcDate": "2026-07-07T00:00:00Z",
       "time": "01:00",
-      "match": "null vs null",
+      "match": "United States vs Belgium",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Thu, 02 Jul 2026 02:56:47 GMT"
+  "lastUpdated": "Thu, 02 Jul 2026 06:41:45 GMT"
 }
