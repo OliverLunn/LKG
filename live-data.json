@@ -693,7 +693,7 @@
       "utcDate": "2026-07-03T22:00:00Z",
       "time": "23:00",
       "match": "Argentina vs Cape Verde Islands",
-      "score": "TBD",
+      "score": "1 - 0",
       "status": "Scheduled"
     },
     {
@@ -1149,15 +1149,15 @@
   },
   "scorersData": [
     {
-      "name": "Kylian Mbappé",
-      "goals": 6,
-      "team": "France",
+      "name": "Lionel Messi",
+      "goals": 7,
+      "team": "Argentina",
       "photo": null
     },
     {
-      "name": "Lionel Messi",
+      "name": "Kylian Mbappé",
       "goals": 6,
-      "team": "Argentina",
+      "team": "France",
       "photo": null
     },
     {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Fri, 03 Jul 2026 21:01:36 GMT"
+  "lastUpdated": "Fri, 03 Jul 2026 22:59:35 GMT"
 }
