@@ -677,8 +677,8 @@
       "utcDate": "2026-07-03T03:00:00Z",
       "time": "04:00",
       "match": "Switzerland vs Algeria",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "2 - 0",
+      "status": "Finished"
     },
     {
       "date": "Jul 3",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Fri, 03 Jul 2026 02:40:19 GMT"
+  "lastUpdated": "Fri, 03 Jul 2026 06:29:13 GMT"
 }
