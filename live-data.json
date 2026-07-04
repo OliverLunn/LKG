@@ -693,8 +693,8 @@
       "utcDate": "2026-07-03T22:00:00Z",
       "time": "23:00",
       "match": "Argentina vs Cape Verde Islands",
-      "score": "1 - 0",
-      "status": "Scheduled"
+      "score": "2 - 1",
+      "status": "Live"
     },
     {
       "date": "Jul 4",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Fri, 03 Jul 2026 22:59:35 GMT"
+  "lastUpdated": "Sat, 04 Jul 2026 00:13:47 GMT"
 }
