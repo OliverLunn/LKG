@@ -740,7 +740,7 @@
       "date": "Jul 6",
       "utcDate": "2026-07-06T19:00:00Z",
       "time": "20:00",
-      "match": "null vs null",
+      "match": "Portugal vs Spain",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -756,7 +756,7 @@
       "date": "Jul 7",
       "utcDate": "2026-07-07T16:00:00Z",
       "time": "17:00",
-      "match": "null vs null",
+      "match": "Argentina vs Egypt",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -764,7 +764,7 @@
       "date": "Jul 7",
       "utcDate": "2026-07-07T20:00:00Z",
       "time": "21:00",
-      "match": "null vs null",
+      "match": "Switzerland vs Colombia",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sat, 04 Jul 2026 04:32:34 GMT"
+  "lastUpdated": "Sat, 04 Jul 2026 07:43:37 GMT"
 }
