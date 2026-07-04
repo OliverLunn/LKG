@@ -709,8 +709,8 @@
       "utcDate": "2026-07-04T17:00:00Z",
       "time": "18:00",
       "match": "Canada vs Morocco",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 0",
+      "status": "Live"
     },
     {
       "date": "Jul 4",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sat, 04 Jul 2026 15:59:39 GMT"
+  "lastUpdated": "Sat, 04 Jul 2026 17:15:32 GMT"
 }
