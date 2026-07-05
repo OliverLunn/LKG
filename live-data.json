@@ -725,8 +725,8 @@
       "utcDate": "2026-07-05T20:00:00Z",
       "time": "21:00",
       "match": "Brazil vs Norway",
-      "score": "0 - 0",
-      "status": "Live"
+      "score": "0 - 2",
+      "status": "Scheduled"
     },
     {
       "date": "Jul 6",
@@ -1155,15 +1155,15 @@
       "photo": null
     },
     {
-      "name": "Lionel Messi",
+      "name": "Erling Haaland",
       "goals": 7,
-      "team": "Argentina",
+      "team": "Norway",
       "photo": null
     },
     {
-      "name": "Erling Haaland",
-      "goals": 5,
-      "team": "Norway",
+      "name": "Lionel Messi",
+      "goals": 7,
+      "team": "Argentina",
       "photo": null
     },
     {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sun, 05 Jul 2026 20:56:35 GMT"
+  "lastUpdated": "Sun, 05 Jul 2026 22:02:07 GMT"
 }
