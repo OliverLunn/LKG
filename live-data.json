@@ -772,7 +772,7 @@
       "date": "Jul 9",
       "utcDate": "2026-07-09T20:00:00Z",
       "time": "21:00",
-      "match": "null vs null",
+      "match": "France vs Morocco",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sun, 05 Jul 2026 04:53:51 GMT"
+  "lastUpdated": "Sun, 05 Jul 2026 07:54:30 GMT"
 }
