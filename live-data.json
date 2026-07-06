@@ -733,8 +733,8 @@
       "utcDate": "2026-07-06T01:00:00Z",
       "time": "02:00",
       "match": "Mexico vs England",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "2 - 3",
+      "status": "Finished"
     },
     {
       "date": "Jul 6",
@@ -1168,14 +1168,26 @@
     },
     {
       "name": "Harry Kane",
-      "goals": 5,
+      "goals": 6,
       "team": "England",
+      "photo": null
+    },
+    {
+      "name": "Julián Quiñones",
+      "goals": 4,
+      "team": "Mexico",
       "photo": null
     },
     {
       "name": "Vinicius Junior",
       "goals": 4,
       "team": "Brazil",
+      "photo": null
+    },
+    {
+      "name": "Jude Bellingham",
+      "goals": 4,
+      "team": "England",
       "photo": null
     },
     {
@@ -1195,19 +1207,7 @@
       "goals": 4,
       "team": "Senegal",
       "photo": null
-    },
-    {
-      "name": "Julián Quiñones",
-      "goals": 3,
-      "team": "Mexico",
-      "photo": null
-    },
-    {
-      "name": "Folarin Balogun",
-      "goals": 3,
-      "team": "United States",
-      "photo": null
     }
   ],
-  "lastUpdated": "Mon, 06 Jul 2026 00:02:14 GMT"
+  "lastUpdated": "Mon, 06 Jul 2026 05:08:06 GMT"
 }
