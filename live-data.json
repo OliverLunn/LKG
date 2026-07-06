@@ -725,13 +725,13 @@
       "utcDate": "2026-07-05T20:00:00Z",
       "time": "21:00",
       "match": "Brazil vs Norway",
-      "score": "0 - 2",
-      "status": "Scheduled"
+      "score": "1 - 2",
+      "status": "Finished"
     },
     {
       "date": "Jul 6",
-      "utcDate": "2026-07-06T00:00:00Z",
-      "time": "01:00",
+      "utcDate": "2026-07-06T01:00:00Z",
+      "time": "02:00",
       "match": "Mexico vs England",
       "score": "TBD",
       "status": "Scheduled"
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sun, 05 Jul 2026 22:02:07 GMT"
+  "lastUpdated": "Mon, 06 Jul 2026 00:02:14 GMT"
 }
