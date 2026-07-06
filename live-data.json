@@ -741,8 +741,8 @@
       "utcDate": "2026-07-06T19:00:00Z",
       "time": "20:00",
       "match": "Portugal vs Spain",
-      "score": "0 - 0",
-      "status": "Scheduled"
+      "score": "0 - 1",
+      "status": "Finished"
     },
     {
       "date": "Jul 7",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Mon, 06 Jul 2026 19:51:34 GMT"
+  "lastUpdated": "Mon, 06 Jul 2026 21:26:40 GMT"
 }
