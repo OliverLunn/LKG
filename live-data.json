@@ -788,7 +788,7 @@
       "date": "Jul 11",
       "utcDate": "2026-07-11T21:00:00Z",
       "time": "22:00",
-      "match": "null vs null",
+      "match": "Norway vs England",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Mon, 06 Jul 2026 05:08:06 GMT"
+  "lastUpdated": "Mon, 06 Jul 2026 10:13:06 GMT"
 }
