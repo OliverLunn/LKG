@@ -757,8 +757,8 @@
       "utcDate": "2026-07-07T16:00:00Z",
       "time": "17:00",
       "match": "Argentina vs Egypt",
-      "score": "0 - 1",
-      "status": "Scheduled"
+      "score": "3 - 2",
+      "status": "Finished"
     },
     {
       "date": "Jul 7",
@@ -1149,6 +1149,12 @@
   },
   "scorersData": [
     {
+      "name": "Lionel Messi",
+      "goals": 8,
+      "team": "Argentina",
+      "photo": null
+    },
+    {
       "name": "Kylian Mbappé",
       "goals": 7,
       "team": "France",
@@ -1158,12 +1164,6 @@
       "name": "Erling Haaland",
       "goals": 7,
       "team": "Norway",
-      "photo": null
-    },
-    {
-      "name": "Lionel Messi",
-      "goals": 7,
-      "team": "Argentina",
       "photo": null
     },
     {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Tue, 07 Jul 2026 16:27:35 GMT"
+  "lastUpdated": "Tue, 07 Jul 2026 18:59:29 GMT"
 }
