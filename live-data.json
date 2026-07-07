@@ -757,7 +757,7 @@
       "utcDate": "2026-07-07T16:00:00Z",
       "time": "17:00",
       "match": "Argentina vs Egypt",
-      "score": "TBD",
+      "score": "0 - 1",
       "status": "Scheduled"
     },
     {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Tue, 07 Jul 2026 13:17:14 GMT"
+  "lastUpdated": "Tue, 07 Jul 2026 16:27:35 GMT"
 }
