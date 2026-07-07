@@ -765,8 +765,8 @@
       "utcDate": "2026-07-07T20:00:00Z",
       "time": "21:00",
       "match": "Switzerland vs Colombia",
-      "score": "0 - 0",
-      "status": "Scheduled"
+      "score": "4 - 3",
+      "status": "Finished"
     },
     {
       "date": "Jul 9",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Tue, 07 Jul 2026 22:09:10 GMT"
+  "lastUpdated": "Tue, 07 Jul 2026 23:55:18 GMT"
 }
