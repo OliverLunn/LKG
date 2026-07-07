@@ -749,8 +749,8 @@
       "utcDate": "2026-07-07T00:00:00Z",
       "time": "01:00",
       "match": "United States vs Belgium",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "1 - 4",
+      "status": "Finished"
     },
     {
       "date": "Jul 7",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Mon, 06 Jul 2026 23:04:16 GMT"
+  "lastUpdated": "Tue, 07 Jul 2026 02:48:20 GMT"
 }
