@@ -796,7 +796,7 @@
       "date": "Jul 12",
       "utcDate": "2026-07-12T01:00:00Z",
       "time": "02:00",
-      "match": "null vs null",
+      "match": "Argentina vs Switzerland",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Wed, 08 Jul 2026 05:48:06 GMT"
+  "lastUpdated": "Wed, 08 Jul 2026 08:22:55 GMT"
 }
