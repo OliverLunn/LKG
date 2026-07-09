@@ -773,8 +773,8 @@
       "utcDate": "2026-07-09T20:00:00Z",
       "time": "21:00",
       "match": "France vs Morocco",
-      "score": "0 - 0",
-      "status": "Live"
+      "score": "2 - 0",
+      "status": "Finished"
     },
     {
       "date": "Jul 10",
@@ -1149,15 +1149,15 @@
   },
   "scorersData": [
     {
-      "name": "Lionel Messi",
+      "name": "Kylian Mbappé",
       "goals": 8,
-      "team": "Argentina",
+      "team": "France",
       "photo": null
     },
     {
-      "name": "Kylian Mbappé",
-      "goals": 7,
-      "team": "France",
+      "name": "Lionel Messi",
+      "goals": 8,
+      "team": "Argentina",
       "photo": null
     },
     {
@@ -1170,6 +1170,12 @@
       "name": "Harry Kane",
       "goals": 6,
       "team": "England",
+      "photo": null
+    },
+    {
+      "name": "Ousmane Dembélé",
+      "goals": 5,
+      "team": "France",
       "photo": null
     },
     {
@@ -1197,17 +1203,11 @@
       "photo": null
     },
     {
-      "name": "Ousmane Dembélé",
-      "goals": 4,
-      "team": "France",
-      "photo": null
-    },
-    {
       "name": "Ismaïla Sarr",
       "goals": 4,
       "team": "Senegal",
       "photo": null
     }
   ],
-  "lastUpdated": "Thu, 09 Jul 2026 21:20:28 GMT"
+  "lastUpdated": "Thu, 09 Jul 2026 23:08:27 GMT"
 }
