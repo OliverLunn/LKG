@@ -804,7 +804,7 @@
       "date": "Jul 14",
       "utcDate": "2026-07-14T19:00:00Z",
       "time": "20:00",
-      "match": "null vs null",
+      "match": "France vs null",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Fri, 10 Jul 2026 02:42:46 GMT"
+  "lastUpdated": "Fri, 10 Jul 2026 06:41:58 GMT"
 }
