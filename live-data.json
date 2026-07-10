@@ -781,8 +781,8 @@
       "utcDate": "2026-07-10T19:00:00Z",
       "time": "20:00",
       "match": "Spain vs Belgium",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "1 - 1",
+      "status": "Live"
     },
     {
       "date": "Jul 11",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Fri, 10 Jul 2026 18:21:01 GMT"
+  "lastUpdated": "Fri, 10 Jul 2026 20:20:10 GMT"
 }
