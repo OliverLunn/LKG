@@ -734,7 +734,7 @@
       "time": "02:00",
       "match": "Mexico vs England",
       "score": "2 - 3",
-      "status": "Finished"
+      "status": "Scheduled"
     },
     {
       "date": "Jul 6",
@@ -789,8 +789,8 @@
       "utcDate": "2026-07-11T21:00:00Z",
       "time": "22:00",
       "match": "Norway vs England",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "1 - 0",
+      "status": "Live"
     },
     {
       "date": "Jul 12",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sat, 11 Jul 2026 20:06:18 GMT"
+  "lastUpdated": "Sat, 11 Jul 2026 21:45:16 GMT"
 }
