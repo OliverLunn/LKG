@@ -804,7 +804,7 @@
       "date": "Jul 14",
       "utcDate": "2026-07-14T19:00:00Z",
       "time": "20:00",
-      "match": "France vs null",
+      "match": "France vs Spain",
       "score": "TBD",
       "status": "Scheduled"
     },
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sat, 11 Jul 2026 05:37:32 GMT"
+  "lastUpdated": "Sat, 11 Jul 2026 07:50:20 GMT"
 }
