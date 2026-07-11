@@ -789,8 +789,8 @@
       "utcDate": "2026-07-11T21:00:00Z",
       "time": "22:00",
       "match": "Norway vs England",
-      "score": "2 - 1",
-      "status": "Live"
+      "score": "1 - 2",
+      "status": "Scheduled"
     },
     {
       "date": "Jul 12",
@@ -1174,7 +1174,7 @@
     },
     {
       "name": "Jude Bellingham",
-      "goals": 5,
+      "goals": 6,
       "team": "England",
       "photo": null
     },
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sat, 11 Jul 2026 22:44:08 GMT"
+  "lastUpdated": "Sat, 11 Jul 2026 23:52:07 GMT"
 }
