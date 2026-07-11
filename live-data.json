@@ -789,7 +789,7 @@
       "utcDate": "2026-07-11T21:00:00Z",
       "time": "22:00",
       "match": "Norway vs England",
-      "score": "1 - 0",
+      "score": "2 - 1",
       "status": "Live"
     },
     {
@@ -1173,6 +1173,12 @@
       "photo": null
     },
     {
+      "name": "Jude Bellingham",
+      "goals": 5,
+      "team": "England",
+      "photo": null
+    },
+    {
       "name": "Ousmane Dembélé",
       "goals": 5,
       "team": "France",
@@ -1191,12 +1197,6 @@
       "photo": null
     },
     {
-      "name": "Jude Bellingham",
-      "goals": 4,
-      "team": "England",
-      "photo": null
-    },
-    {
       "name": "Mikel Oyarzabal",
       "goals": 4,
       "team": "Spain",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sat, 11 Jul 2026 21:45:16 GMT"
+  "lastUpdated": "Sat, 11 Jul 2026 22:44:08 GMT"
 }
