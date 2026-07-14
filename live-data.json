@@ -805,8 +805,8 @@
       "utcDate": "2026-07-14T19:00:00Z",
       "time": "20:00",
       "match": "France vs Spain",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 1",
+      "status": "Live"
     },
     {
       "date": "Jul 15",
@@ -1179,6 +1179,12 @@
       "photo": null
     },
     {
+      "name": "Mikel Oyarzabal",
+      "goals": 5,
+      "team": "Spain",
+      "photo": null
+    },
+    {
       "name": "Ousmane Dembélé",
       "goals": 5,
       "team": "France",
@@ -1197,17 +1203,11 @@
       "photo": null
     },
     {
-      "name": "Mikel Oyarzabal",
-      "goals": 4,
-      "team": "Spain",
-      "photo": null
-    },
-    {
       "name": "Ismaïla Sarr",
       "goals": 4,
       "team": "Senegal",
       "photo": null
     }
   ],
-  "lastUpdated": "Tue, 14 Jul 2026 17:59:13 GMT"
+  "lastUpdated": "Tue, 14 Jul 2026 19:37:42 GMT"
 }
