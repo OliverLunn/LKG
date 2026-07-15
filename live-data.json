@@ -813,7 +813,7 @@
       "utcDate": "2026-07-15T19:00:00Z",
       "time": "20:00",
       "match": "England vs Argentina",
-      "score": "TBD",
+      "score": "0 - 0",
       "status": "Scheduled"
     },
     {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Wed, 15 Jul 2026 18:03:26 GMT"
+  "lastUpdated": "Wed, 15 Jul 2026 20:05:55 GMT"
 }
