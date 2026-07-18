@@ -821,8 +821,8 @@
       "utcDate": "2026-07-18T21:00:00Z",
       "time": "22:00",
       "match": "France vs England",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 3",
+      "status": "Live"
     },
     {
       "date": "Jul 19",
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sat, 18 Jul 2026 20:05:50 GMT"
+  "lastUpdated": "Sat, 18 Jul 2026 21:47:10 GMT"
 }
