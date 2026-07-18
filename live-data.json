@@ -821,8 +821,8 @@
       "utcDate": "2026-07-18T21:00:00Z",
       "time": "22:00",
       "match": "France vs England",
-      "score": "3 - 4",
-      "status": "Live"
+      "score": "4 - 6",
+      "status": "Finished"
     },
     {
       "date": "Jul 19",
@@ -1167,27 +1167,27 @@
       "photo": null
     },
     {
+      "name": "Jude Bellingham",
+      "goals": 7,
+      "team": "England",
+      "photo": null
+    },
+    {
       "name": "Harry Kane",
       "goals": 6,
       "team": "England",
       "photo": null
     },
     {
-      "name": "Jude Bellingham",
+      "name": "Ousmane Dembélé",
       "goals": 6,
-      "team": "England",
+      "team": "France",
       "photo": null
     },
     {
       "name": "Mikel Oyarzabal",
       "goals": 5,
       "team": "Spain",
-      "photo": null
-    },
-    {
-      "name": "Ousmane Dembélé",
-      "goals": 5,
-      "team": "France",
       "photo": null
     },
     {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sat, 18 Jul 2026 22:44:57 GMT"
+  "lastUpdated": "Sat, 18 Jul 2026 23:50:59 GMT"
 }
