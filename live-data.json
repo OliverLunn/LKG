@@ -821,7 +821,7 @@
       "utcDate": "2026-07-18T21:00:00Z",
       "time": "22:00",
       "match": "France vs England",
-      "score": "0 - 3",
+      "score": "3 - 4",
       "status": "Live"
     },
     {
@@ -1150,7 +1150,7 @@
   "scorersData": [
     {
       "name": "Kylian Mbappé",
-      "goals": 8,
+      "goals": 10,
       "team": "France",
       "photo": null
     },
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sat, 18 Jul 2026 21:47:10 GMT"
+  "lastUpdated": "Sat, 18 Jul 2026 22:44:57 GMT"
 }
