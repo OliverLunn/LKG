@@ -830,7 +830,7 @@
       "time": "20:00",
       "match": "Spain vs Argentina",
       "score": "1 - 0",
-      "status": "Scheduled"
+      "status": "Finished"
     }
   ],
   "groupsData": {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sun, 19 Jul 2026 21:48:48 GMT"
+  "lastUpdated": "Sun, 19 Jul 2026 22:48:24 GMT"
 }
