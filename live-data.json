@@ -829,8 +829,8 @@
       "utcDate": "2026-07-19T19:00:00Z",
       "time": "20:00",
       "match": "Spain vs Argentina",
-      "score": "TBD",
-      "status": "Scheduled"
+      "score": "0 - 0",
+      "status": "Live"
     }
   ],
   "groupsData": {
@@ -1209,5 +1209,5 @@
       "photo": null
     }
   ],
-  "lastUpdated": "Sun, 19 Jul 2026 19:05:13 GMT"
+  "lastUpdated": "Sun, 19 Jul 2026 20:42:16 GMT"
 }
